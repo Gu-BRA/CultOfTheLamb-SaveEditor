@@ -54,7 +54,7 @@
                                 type="button"> {{ t("Copy") }} </button>
                         </div>
                     </div>
-                    <p class="small text-muted mt-n4 mb-4">Para carregar o save editado, desative a internet antes de abrir o jogo. Depois que o save carregar, você pode ativar a internet novamente.</p>
+                    <p class="small text-muted mt-n4 mb-4">Na versão do Apple Arcade, para carregar o save editado, desative a internet antes de abrir o jogo. Depois que o save carregar, você pode ativar a internet novamente.</p>
 
                     <hr />
 
