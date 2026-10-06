@@ -43,18 +43,18 @@
                         </div>
                     </div>
 
-                    <label>Apple Arcade Save file location MacOS:</label>
+                    <label>{{ t("Apple Arcade Save file location MacOS:") }}</label>
                     <div class="input-group mb-5">
                         <input type="text" class="form-control"
                             value="~/Library/Containers/com.devolverdigital.cultofthelamb/Data/Library/Application Support/com.devolverdigital.cultofthelamb/user/"
-                            aria-label="Apple Arcade Save file location MacOS" disabled>
+                            :aria-label="t('Apple Arcade Save file location MacOS')" disabled>
                         <div class="input-group-append">
                             <button class="btn btn-primary"
                                 @click="(event) => copyToClipboard(((event.target! as HTMLButtonElement).parentElement!.parentElement!.querySelector('input.form-control') as HTMLInputElement).value)"
                                 type="button"> {{ t("Copy") }} </button>
                         </div>
                     </div>
-                    <p class="small text-muted mt-n4 mb-4">Na versão do Apple Arcade, para carregar o save editado, desative a internet antes de abrir o jogo. Depois que o save carregar, você pode ativar a internet novamente.</p>
+                    <p class="small text-muted mt-n4 mb-4">{{ t("For the Apple Arcade version, disable the internet before opening the game to load the edited save. You can turn the internet back on after the save has loaded.") }}</p>
 
                     <hr />
 

@@ -496,6 +496,18 @@
     "Local do save no MacOS:"
   ],
   [
+    "Apple Arcade Save file location MacOS:",
+    "Local do save do Apple Arcade no MacOS:"
+  ],
+  [
+    "Apple Arcade Save file location MacOS",
+    "Local do save do Apple Arcade no MacOS"
+  ],
+  [
+    "For the Apple Arcade version, disable the internet before opening the game to load the edited save. You can turn the internet back on after the save has loaded.",
+    "Na versão do Apple Arcade, para carregar o save editado, desative a internet antes de abrir o jogo. Depois que o save carregar, você pode ativar a internet novamente."
+  ],
+  [
     "Windows Save File Location",
     "Local do save no Windows"
   ],
