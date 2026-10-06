@@ -1,7 +1,5 @@
 # Cult of the Lamb Save Editor
 
-An online save editor for **Cult of the Lamb**, adapted from the MIT-licensed [Cult of the Lamb Save Editor by fabiobarcelona](https://github.com/fabiobarcelona/Cult-of-the-Lamb-Save-Editor).
-
 **Use the editor:** [gu-bra.github.io/CultOfTheLamb-SaveEditor](https://gu-bra.github.io/CultOfTheLamb-SaveEditor/)
 
 The editor runs in your web browser. Select a save file to load it, make changes in the editor, then download the edited file and replace your original save manually. The site works with the save file you select in the browser and downloads the edited copy; it does not replace the original automatically.
@@ -18,11 +16,25 @@ The editor supports encrypted saves, `.mp` saves, JSON saves, and macOS `slot_0`
 
 ## Save file locations
 
-The upload screen shows copyable paths for Windows and macOS. On macOS, the Apple Arcade save is stored separately at:
+The upload screen shows copyable paths for these save locations:
 
-```text
-~/Library/Containers/com.devolverdigital.cultofthelamb/Data/Library/Application Support/com.devolverdigital.cultofthelamb/user/
-```
+- **Windows:**
+
+  ```text
+  %USERPROFILE%\AppData\LocalLow\Massive Monster\Cult Of The Lamb\saves
+  ```
+
+- **macOS (non-Apple Arcade):**
+
+  ```text
+  ~/Library/Application Support/Massive Monster/Cult Of The Lamb/saves
+  ```
+
+- **macOS (Apple Arcade):**
+
+  ```text
+  ~/Library/Containers/com.devolverdigital.cultofthelamb/Data/Library/Application Support/com.devolverdigital.cultofthelamb/user/
+  ```
 
 For the **Apple Arcade version**, disable the internet before opening the game to load the edited save. You can turn the internet back on after the save has loaded.
 
