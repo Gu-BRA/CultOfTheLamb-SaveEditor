@@ -9,7 +9,7 @@
                 <div class="modal-body">
                     <h1 class="text-center"> {{ t("Cult of the Lamb - Save File Editor") }} </h1>
                     <p class="mb-4 text-muted text-center"> {{ t("Upload your save file below and start editing your save file to your liking.") }} <span class="text-danger"> {{ t("Make sure you always backup your original save file.") }} </span> {{ t("After you are done, replace your old save file with the new one.") }} </p>
-                    <p class="mb-4 text-muted text-center"> {{ t("Supports encrypted saves, .mp saves, JSON saves, and macOS slot_0 files using the ZB + GZIP format.") }} </p>
+                    <p class="mb-4 text-muted text-center"> {{ t("Supports encrypted saves, .mp saves, JSON saves, and Apple Arcade files using the ZB + GZIP format.") }} </p>
 
                     <form>
                         <input type='file' class="form-control mb-5" ref="fileInputForm" />
