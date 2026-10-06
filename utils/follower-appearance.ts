@@ -1,3 +1,4 @@
+import { publicPath } from "./public-path";
 import * as spine from '@pixi-spine/runtime-3.8';
 import type { FollowerPreviews } from '~/types/follower-preview';
 
@@ -14,7 +15,7 @@ const outfits: Record<number, string> = {
     16: 'Clothes/Naked_Base', 17: 'Other/Injured', 19: 'Other/Baby', 20: 'Other/Zombie',
 };
 async function checked(url: string) {
-    const response = await fetch(url);
+    const response = await fetch(publicPath(url));
     if (!response.ok) throw new Error('Não foi possível carregar os arquivos da aparência.');
     return response;
 }
@@ -40,7 +41,7 @@ function loadImage(url: string) {
     if (!images.has(url)) images.set(url, new Promise((resolve, reject) => {
         const image = new Image(); image.onload = () => resolve(image);
         image.onerror = () => { images.delete(url); reject(new Error('Imagem da aparência indisponível.')); };
-        image.src = url;
+        image.src = publicPath(url);
     }));
     return images.get(url)!;
 }

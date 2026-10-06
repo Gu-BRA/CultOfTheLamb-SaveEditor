@@ -128,8 +128,8 @@ import { generateObjectInsensitiveComputed } from "~/utils/utility";
 import { useSaveData } from "~/stores/saveData";
 import { useSiteData } from "~/stores/siteData";
 
-const { data: recipeData } = useFetch<{ id: number, image: string, name: string, description: string, effect: string, ingredient: string, category: string, quality: string }[]>('/data/cookingRecipe.json');
-const { data: dungeonData } = useFetch<{ id: number, name: string }[][]>('/data/dungeonData.json');
+const { data: recipeData } = useFetch<{ id: number, image: string, name: string, description: string, effect: string, ingredient: string, category: string, quality: string }[]>(publicPath('/data/cookingRecipe.json'));
+const { data: dungeonData } = useFetch<{ id: number, name: string }[][]>(publicPath('/data/dungeonData.json'));
 
 const saveStore = useSaveData();
 const siteData = useSiteData();

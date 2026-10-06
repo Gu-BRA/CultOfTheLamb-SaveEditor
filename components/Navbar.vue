@@ -1,7 +1,7 @@
 <template>
     <div class="editor-navigation">
         <div class="editor-brand">
-            <img class="editor-brand__mark" src="/cult-of-the-lamb-game-icon.png" alt="" aria-hidden="true">
+            <img class="editor-brand__mark" :src="publicPath('/cult-of-the-lamb-game-icon.png')" alt="" aria-hidden="true">
             <div>
                 <div class="editor-brand__title">{{ t('Cult of the Lamb') }}</div>
                 <div class="editor-brand__subtitle">{{ t('A save editor for your cult') }}</div>

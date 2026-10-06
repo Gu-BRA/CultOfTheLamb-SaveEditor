@@ -37,7 +37,7 @@
                 <div v-for="building in visible" :key="building.id" class="col-12 col-md-6 col-xl-4">
                     <div class="card h-100" :class="{ 'border-success': isEnabled(building) }">
                         <div class="card-body d-flex gap-3 align-items-start">
-                            <img v-if="building.image" :src="building.image" alt="" class="building-icon flex-shrink-0" width="64" height="64" loading="lazy">
+                            <img v-if="building.image" :src="publicPath(building.image)" alt="" class="building-icon flex-shrink-0" width="64" height="64" loading="lazy">
                             <div class="flex-grow-1">
                                 <label :for="`building-${building.id}`" class="fw-semibold d-block mb-2">{{ t(building.name) }}</label>
                                 <p v-if="building.description" class="small mb-2">{{ t(building.description) }}</p>

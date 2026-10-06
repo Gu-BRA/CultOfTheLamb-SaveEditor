@@ -53,7 +53,7 @@
                         <div class="card h-100" :class="{ 'border-success': enabledIds.has(upgrade.id) }">
                             <div class="card-body">
                                 <div class="d-flex gap-3 align-items-start">
-                                    <img v-if="upgrade.image" :src="upgrade.image" alt="" width="56" height="56"
+                                    <img v-if="upgrade.image" :src="publicPath(upgrade.image)" alt="" width="56" height="56"
                                         class="upgrade-icon flex-shrink-0">
                                     <div class="flex-grow-1">
                                         <label :for="`upgrade-${upgrade.id}`" class="fw-semibold d-block mb-2">{{ t(upgrade.name) }}</label>
@@ -81,7 +81,7 @@
 import { canEditUpgrades, setUpgrade, unlockedUpgrades, upgradeTrees, type Upgrade, type UpgradeTree } from '~/utils/upgrades';
 const { t } = useLanguage();
 const store = useSaveData();
-const { data: traitData } = useFetch<{ name: string, leftBranch: { id: number, image: string, name: string, description: string }[], rightBranch: { id: number, image: string, name: string, description: string }[] }[]>('/data/traitData.json');
+const { data: traitData } = useFetch<{ name: string, leftBranch: { id: number, image: string, name: string, description: string }[], rightBranch: { id: number, image: string, name: string, description: string }[] }[]>(publicPath('/data/traitData.json'));
 const selected = ref('divine');
 const selectedDoctrineTab = ref(0);
 const search = ref('');

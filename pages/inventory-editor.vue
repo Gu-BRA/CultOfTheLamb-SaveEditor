@@ -50,7 +50,7 @@ const { t } = useLanguage();
 import { getPropertyCaseInsensitive, setPropertyCaseInsensitive } from '~/utils/utility';
 import { useSaveData } from '~/stores/saveData';
 
-const { data: itemData } = useFetch<{ name: string, items: { id: number, image: string, name: string, max?: number, description?: string, internal?: boolean, imageIsPlaceholder?: boolean }[] }[]>('/data/itemData.json');
+const { data: itemData } = useFetch<{ name: string, items: { id: number, image: string, name: string, max?: number, description?: string, internal?: boolean, imageIsPlaceholder?: boolean }[] }[]>(publicPath('/data/itemData.json'));
 
 const saveStore = useSaveData();
 const search = ref('');

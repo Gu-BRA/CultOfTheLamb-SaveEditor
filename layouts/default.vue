@@ -25,9 +25,9 @@ import { type Data } from "../components/FileUploadModal.vue";
 import { useSaveData } from "~/stores/saveData";
 import { type Modal } from "bootstrap";
 
-const { data: testSave } = useFetch<any>('/data/testSave.json');
+const { data: testSave } = useFetch<any>(publicPath('/data/testSave.json'));
 const saveStore = useSaveData();
-const { data: catalog } = useFetch<{ gameVersion: string }>('/data/installedCatalog.json');
+const { data: catalog } = useFetch<{ gameVersion: string }>(publicPath('/data/installedCatalog.json'));
 
 const fileUploadModal = ref<HTMLDivElement & { modal: Modal | undefined }>();
 onMounted(() => {

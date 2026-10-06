@@ -12,7 +12,7 @@ const { t } = useLanguage();
 import { getPropertyCaseInsensitive } from '~/utils/utility';
 import type { FollowerPreviews } from '~/types/follower-preview';
 const props = withDefaults(defineProps<{ follower: any; kind: 'outfit' | 'clothing'; size?: number }>(), { size: 160 });
-const { data: previews } = useFetch<FollowerPreviews>('/data/followerPreviews.json');
+const { data: previews } = useFetch<FollowerPreviews>(publicPath('/data/followerPreviews.json'));
 const store = useSaveData();
 const appearance = computed(() => {
     const variants = getPropertyCaseInsensitive(store.saveData, 'ClothingVariants', []) as any[];

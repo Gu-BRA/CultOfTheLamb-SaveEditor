@@ -54,7 +54,7 @@ const { t } = useLanguage();
 import { generateObjectInsensitiveComputed } from "~/utils/utility";
 import { useSaveData } from "~/stores/saveData";
 
-const { data: tarotCardList } = useFetch<{ id: number, image: string, name: string, effect: string, effect_1: string, effect_2: string, internal?: boolean, imageIsBack?: boolean }[]>("/data/tarotCard.json");
+const { data: tarotCardList } = useFetch<{ id: number, image: string, name: string, effect: string, effect_1: string, effect_2: string, internal?: boolean, imageIsBack?: boolean }[]>(publicPath("/data/tarotCard.json"));
 
 const saveStore = useSaveData();
 const showInternal = ref(false);

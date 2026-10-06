@@ -18,9 +18,9 @@
                 :aria-label="slotLabel(index - 1)" :aria-valuetext="slotLabel(index - 1)"
                 :title="slotLabel(index - 1)" @click="setFromPointer($event, index - 1)"
                 @keydown.left.prevent="adjust(-1)" @keydown.right.prevent="adjust(1)">
-                <img :src="emptyIcon && !isFull(index - 1) && !isHalf(index - 1) ? emptyIcon : fullIcon" alt="" class="heart-meter__heart"
+                <img :src="publicPath(emptyIcon && !isFull(index - 1) && !isHalf(index - 1) ? emptyIcon : fullIcon)" alt="" class="heart-meter__heart"
                     :class="[isFull(index - 1) ? 'is-active' : 'is-muted', `heart-meter__heart--${type}`]">
-                <img v-if="halfHearts && isHalf(index - 1)" :src="halfIcon || fullIcon" alt=""
+                <img v-if="halfHearts && isHalf(index - 1)" :src="publicPath(halfIcon || fullIcon)" alt=""
                     class="heart-meter__heart heart-meter__heart--half heart-meter__heart--active"
                     :class="[`heart-meter__heart--${type}`, { 'heart-meter__heart--clipped-half': halfIcon === fullIcon }]">
             </button>

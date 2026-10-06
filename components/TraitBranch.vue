@@ -8,7 +8,7 @@
                     <article class="card h-100" :class="{ 'border-success': isEnabled(trait.id) }">
                         <div class="card-body">
                             <div class="d-flex gap-3 align-items-start">
-                                <img v-if="trait.image" :src="trait.image" :alt="t(trait.name)" width="56" height="56"
+                                <img v-if="trait.image" :src="publicPath(trait.image)" :alt="t(trait.name)" width="56" height="56"
                                     class="doctrine-upgrade-icon flex-shrink-0">
                                 <div class="flex-grow-1">
                                     <label :for="`cult-trait-${trait.id}`" class="fw-semibold d-block mb-2">

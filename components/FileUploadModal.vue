@@ -3,7 +3,7 @@
         <div class="modal-dialog modal-lg">
             <div class="modal-content">
                 <div class="modal-header flex-column gap-2">
-                    <img src="/lamb.gif" :alt="t('lamb')" width="64" height="64" style="object-fit: contain" />
+                    <img :src="publicPath('/lamb.gif')" :alt="t('lamb')" width="64" height="64" style="object-fit: contain" />
                     <h5 class="modal-title"> {{ t("Upload your save file") }} </h5>
                 </div>
                 <div class="modal-body">

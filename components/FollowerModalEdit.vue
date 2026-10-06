@@ -363,16 +363,16 @@ type FollowerTrait = {
     restrictedReason?: string;
 }
 
-const { data: followerTraitList, status: followerTraitLoading } = useFetch<FollowerTrait[]>("/data/followerTrait.json");
-const { data: followerSkinList } = useFetch<{ name: string; variant: string[]; }[]>("/data/followerSkin.json");
-const { data: followerPreviews } = useFetch<FollowerPreviews>('/data/followerPreviews.json');
+const { data: followerTraitList, status: followerTraitLoading } = useFetch<FollowerTrait[]>(publicPath("/data/followerTrait.json"));
+const { data: followerSkinList } = useFetch<{ name: string; variant: string[]; }[]>(publicPath("/data/followerSkin.json"));
+const { data: followerPreviews } = useFetch<FollowerPreviews>(publicPath('/data/followerPreviews.json'));
 const colourGroup = computed(() => followerPreviews.value?.characters?.find(c => c.id === formData.value.SkinCharacter && c.skins.includes(formData.value.SkinName))
     ?? followerPreviews.value?.characters?.find(c => c.skins.includes(formData.value.SkinName)));
-const { data: traitData } = useFetch<Array<{ name: string, leftBranch: Array<{ id: number }>, rightBranch: Array<{ id: number }> }>>("/data/traitData.json");
-const { data: necklaceList } = useFetch<{ id: number, name: string }[]>("/data/necklaces.json");
-const { data: outfitList } = useFetch<{ id: number, name: string }[]>("/data/followerOutfit.json");
-const { data: clothingList } = useFetch<{ id: number, name: string }[]>("/data/followerClothing.json");
-const { data: clothingAppearance } = useFetch<ClothingAppearance>('/data/followerClothingAppearance.json?v=2');
+const { data: traitData } = useFetch<Array<{ name: string, leftBranch: Array<{ id: number }>, rightBranch: Array<{ id: number }> }>>(publicPath("/data/traitData.json"));
+const { data: necklaceList } = useFetch<{ id: number, name: string }[]>(publicPath("/data/necklaces.json"));
+const { data: outfitList } = useFetch<{ id: number, name: string }[]>(publicPath("/data/followerOutfit.json"));
+const { data: clothingList } = useFetch<{ id: number, name: string }[]>(publicPath("/data/followerClothing.json"));
+const { data: clothingAppearance } = useFetch<ClothingAppearance>(publicPath('/data/followerClothingAppearance.json?v=2'));
 // Old enum members and Count have no wearable definition in the installed game.
 // Preserve an existing value, but only offer clothing with verified native art for new selections.
 const availableClothing = computed(() => (clothingList.value ?? []).filter(c => clothingAppearance.value?.[c.id]?.variants.length));

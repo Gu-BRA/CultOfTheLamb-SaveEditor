@@ -2,7 +2,7 @@
     <div class="follower-preview text-center">
         <canvas v-if="canColour && !failed" ref="canvas" width="128" height="128"
             :style="{ width: `${size}px`, height: `${size}px` }" role="img" :aria-label="description" />
-        <img v-else-if="source && !failed" :src="source" :alt="t(description)" :width="size" :height="size"
+        <img v-else-if="source && !failed" :src="publicPath(source)" :alt="t(description)" :width="size" :height="size"
             class="follower-preview-image" @error="failed = true" />
         <div v-else class="text-muted small p-2" :style="{ minHeight: `${size}px` }"> {{ t("Prévia ainda não disponível") }} <br />{{ skinName }}
         </div>
@@ -18,7 +18,7 @@ import type { FollowerPreviews } from '~/types/follower-preview';
 const props = withDefaults(defineProps<{ follower: any; kind?: 'skin' | 'outfit'; size?: number }>(), {
     kind: 'skin', size: 128,
 });
-const { data: previews } = useFetch<FollowerPreviews>('/data/followerPreviews.json');
+const { data: previews } = useFetch<FollowerPreviews>(publicPath('/data/followerPreviews.json'));
 const failed = ref(false);
 const canvas = ref<HTMLCanvasElement>();
 const skinName = computed(() => String(getPropertyCaseInsensitive(props.follower, 'SkinName', '')));
