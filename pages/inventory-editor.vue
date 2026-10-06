@@ -5,10 +5,6 @@
                 <input type="text" class="form-control" v-model="search" :placeholder="t('Search')" />
             </div>
         </div>
-        <label class="small my-2 form-check form-switch inline-switch">
-            <input type="checkbox" role="switch" v-model="showInternal" class="form-check-input" />
-            <span class="form-check-label">{{ t("Mostrar IDs internos (avançado)") }}</span>
-        </label>
         <hr />
         <div v-for="itemList in filteredItems" :key="`inventory-group-${itemList.name}`">
             <h2>{{ t(itemList.name) }}</h2>
@@ -54,8 +50,6 @@ const { data: itemData } = useFetch<{ name: string, items: { id: number, image: 
 
 const saveStore = useSaveData();
 const search = ref('');
-const showInternal = ref(false);
-
 const filteredItems = computed(() => {
     const groups = (itemData.value ?? []).map(group => ({ ...group, items: [...group.items] }));
     const known = new Set(groups.flatMap(group => group.items.map(item => item.id)));
@@ -63,7 +57,7 @@ const filteredItems = computed(() => {
         .filter((item: any) => !known.has(Number(item.type)))
         .map((item: any) => ({ id: Number(item.type), name: `Item ID ${item.type}`, image: '' }));
     if (unknown.length) groups.push({ name: 'Itens presentes no save sem descrição', items: unknown });
-    return groups.map(group => ({ ...group, items: group.items.filter(item => (!item.internal || showInternal.value || itemQuantity(item.id) > 0) && (t(item.name) + ' ' + item.name).toLowerCase().includes(search.value.toLowerCase())) })).filter(group => group.items.length);
+    return groups.map(group => ({ ...group, items: group.items.filter(item => (!item.internal || itemQuantity(item.id) > 0) && (t(item.name) + ' ' + item.name).toLowerCase().includes(search.value.toLowerCase())) })).filter(group => group.items.length);
 });
 
 const itemQuantity = (id: number) => getPropertyCaseInsensitive(saveStore.saveData, "items")?.find((item: any) => Number(item.type) === id)?.quantity ?? 0;
