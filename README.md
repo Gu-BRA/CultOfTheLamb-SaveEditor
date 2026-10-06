@@ -1,5 +1,9 @@
 # Cult of the Lamb Save Editor
 
+<p align="center">
+  <img src="public/readme-banner-reference.png" alt="Cult of the Lamb Save Editor banner" width="100%">
+</p>
+
 **Use the editor:** [gu-bra.github.io/CultOfTheLamb-SaveEditor](https://gu-bra.github.io/CultOfTheLamb-SaveEditor/)
 
 The editor runs in your web browser. Select a save file to load it, make changes in the editor, then download the edited file and replace your original save manually. The site works with the save file you select in the browser and downloads the edited copy; it does not replace the original automatically.
