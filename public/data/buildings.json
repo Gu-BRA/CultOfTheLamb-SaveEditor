@@ -1,0 +1,2639 @@
+[
+  {
+    "id": 2,
+    "gameKey": "BED",
+    "name": "Sleeping Bag",
+    "description": "A place for a Follower to sleep. Very unstable, will often collapse.",
+    "category": "buildings",
+    "image": "/Buildings/2.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 51
+    }
+  },
+  {
+    "id": 71,
+    "gameKey": "COOKING_FIRE",
+    "name": "Cooking Fire",
+    "description": "Cook raw items and turn them into Meals  that Followers can eat.",
+    "category": "buildings",
+    "image": "/Buildings/71.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "builtin",
+      "enabled": true
+    }
+  },
+  {
+    "id": 137,
+    "gameKey": "HARVEST_TOTEM",
+    "name": "Harvest Totem",
+    "description": "Increase growth speed of all Farm Plots within range.",
+    "category": "buildings",
+    "image": "/Buildings/137.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 135
+    }
+  },
+  {
+    "id": 136,
+    "gameKey": "SCARECROW",
+    "name": "Scarecrow",
+    "description": "Prevents birds from stealing the seeds from Farm Plots within range.",
+    "category": "buildings",
+    "image": "/Buildings/136.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 44
+    }
+  },
+  {
+    "id": 56,
+    "gameKey": "DANCING_FIREPIT",
+    "name": "Fire Pit",
+    "description": "Your Followers will dance here beneath the moonlight to increase their Loyalty to you.",
+    "category": "buildings",
+    "image": "/Buildings/56.svg",
+    "imageSource": "illustrative",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 127
+    }
+  },
+  {
+    "id": 53,
+    "gameKey": "BODY_PIT",
+    "name": "Body Pit",
+    "description": "Bury dead Followers in a simple pit. Avoids rotting corpses.",
+    "category": "buildings",
+    "image": "/Buildings/53.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 134
+    }
+  },
+  {
+    "id": 96,
+    "gameKey": "OUTHOUSE",
+    "name": "Outhouse",
+    "description": "Give your Followers somewhere to relieve themselves.",
+    "category": "buildings",
+    "image": "/Buildings/96.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 46
+    }
+  },
+  {
+    "id": 100,
+    "gameKey": "COMPOST_BIN",
+    "name": "Compost Bin",
+    "description": "Deposit grass to turn it into fertilizer.",
+    "category": "buildings",
+    "image": "/Buildings/100.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 14
+    }
+  },
+  {
+    "id": 40,
+    "gameKey": "BED_2",
+    "name": "Shelter",
+    "description": "Upgrade to a more stable shelter, which will collapse less often.",
+    "category": "buildings",
+    "image": "/Buildings/40.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 55
+    }
+  },
+  {
+    "id": 46,
+    "gameKey": "GRAVE",
+    "name": "Grave",
+    "description": "Bury the fallen.",
+    "category": "buildings",
+    "image": "/Buildings/46.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 57
+    }
+  },
+  {
+    "id": 8,
+    "gameKey": "FARM_STATION",
+    "name": "Farmer Station",
+    "description": "Farmer Station's allows Followers to water nearby crops.",
+    "category": "buildings",
+    "image": "/Buildings/8.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 52
+    }
+  },
+  {
+    "id": 266,
+    "gameKey": "FARM_STATION_II",
+    "name": "Farmer Station II",
+    "description": "Farmers will be able to harvest your crops and deposit them in a chest for you to collect.",
+    "category": "buildings",
+    "image": "/Buildings/266.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 213
+    }
+  },
+  {
+    "id": 45,
+    "gameKey": "FARM_PLOT",
+    "name": "Farm Plot",
+    "description": "Grow a seed into a crop.",
+    "category": "buildings",
+    "image": "/Buildings/45.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 43
+    }
+  },
+  {
+    "id": 73,
+    "gameKey": "FOOD_STORAGE",
+    "name": "Food Storage",
+    "description": "Store meals here to stop them from rotting.",
+    "category": "buildings",
+    "image": "/Buildings/73.svg",
+    "imageSource": "illustrative",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 138
+    }
+  },
+  {
+    "id": 74,
+    "gameKey": "FOOD_STORAGE_2",
+    "name": "Food Storage II",
+    "description": "Store more meals here to stop them from rotting.",
+    "category": "buildings",
+    "image": "/Buildings/74.svg",
+    "imageSource": "illustrative",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 143
+    }
+  },
+  {
+    "id": 216,
+    "gameKey": "JANITOR_STATION",
+    "name": "Janitor Station",
+    "description": "A building that allows Followers to clean up their own mess.",
+    "category": "buildings",
+    "image": "/Buildings/216.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 144
+    }
+  },
+  {
+    "id": 335,
+    "gameKey": "JANITOR_STATION_2",
+    "name": "Janitor Station II",
+    "description": "A building that allows Followers to clean up their own mess. Followers will also clean outhouses.",
+    "category": "buildings",
+    "image": "/Buildings/335.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 260
+    }
+  },
+  {
+    "id": 63,
+    "gameKey": "LUMBERJACK_STATION",
+    "name": "Lumberyard",
+    "description": "A Follower will generate",
+    "category": "buildings",
+    "image": "/Buildings/63.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 33
+    }
+  },
+  {
+    "id": 64,
+    "gameKey": "LUMBERJACK_STATION_2",
+    "name": "Lumberyard II",
+    "description": "A Follower will generate",
+    "category": "buildings",
+    "image": "/Buildings/64.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 36
+    }
+  },
+  {
+    "id": 76,
+    "gameKey": "BLOODSTONE_MINE",
+    "name": "Stone Mine",
+    "description": "A Follower will generate",
+    "category": "buildings",
+    "image": "/Buildings/76.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 32
+    }
+  },
+  {
+    "id": 77,
+    "gameKey": "BLOODSTONE_MINE_2",
+    "name": "Stone Mine II",
+    "description": "A Follower will generate",
+    "category": "buildings",
+    "image": "/Buildings/77.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 31
+    }
+  },
+  {
+    "id": 165,
+    "gameKey": "PROPAGANDA_SPEAKER",
+    "name": "Propaganda Speakers",
+    "description": "Ensure your Followers hear your message. When within range of speakers, Followers will work and pray 20% faster.",
+    "category": "buildings",
+    "image": "/Buildings/165.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 116
+    }
+  },
+  {
+    "id": 167,
+    "gameKey": "MISSIONARY",
+    "name": "Missionary",
+    "description": "Send your Followers on a holy quest to gather resources. That is, if they make it back alive...",
+    "category": "buildings",
+    "image": "/Buildings/167.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 117
+    }
+  },
+  {
+    "id": 263,
+    "gameKey": "MISSIONARY_II",
+    "name": "Missionary II",
+    "description": "Send two Followers on a holy quest at once. Followers will have a higher likelihood of success and complete their mission more quickly.",
+    "category": "buildings",
+    "image": "/Buildings/263.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 210
+    }
+  },
+  {
+    "id": 264,
+    "gameKey": "MISSIONARY_III",
+    "name": "Missionary III",
+    "description": "Send three Followers on a holy quest at once. Followers will have an even higher likelihood of success and complete their mission even more quickly.",
+    "category": "buildings",
+    "image": "/Buildings/264.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 211
+    }
+  },
+  {
+    "id": 244,
+    "gameKey": "DEMON_SUMMONER",
+    "name": "Demonic Summoning Circle",
+    "description": "Possess a Follower with the spirit of a demon so that they can join you on your next Crusade.",
+    "category": "buildings",
+    "image": "/Buildings/244.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 145
+    }
+  },
+  {
+    "id": 252,
+    "gameKey": "DEMON_SUMMONER_2",
+    "name": "Demonic Summoning Circle II",
+    "description": "Upgraded Demonic Summoning Circle. Summon 2 demons at a time.",
+    "category": "buildings",
+    "image": "/Buildings/252.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 155
+    }
+  },
+  {
+    "id": 253,
+    "gameKey": "DEMON_SUMMONER_3",
+    "name": "Demonic Summoning Circle III",
+    "description": "Upgraded Demonic Summoning Circle. Summon 3 demons at a time.",
+    "category": "buildings",
+    "image": "/Buildings/253.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 156
+    }
+  },
+  {
+    "id": 59,
+    "gameKey": "PRISON",
+    "name": "Prison",
+    "description": "Holds naughty Followers.",
+    "category": "buildings",
+    "image": "/Buildings/59.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 45
+    }
+  },
+  {
+    "id": 134,
+    "gameKey": "HEALING_BAY",
+    "name": "Healing Bay",
+    "description": "A station for you to heal sick Followers.",
+    "category": "buildings",
+    "image": "/Buildings/134.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 136
+    }
+  },
+  {
+    "id": 166,
+    "gameKey": "HEALING_BAY_2",
+    "name": "Improved Healing Bay",
+    "description": "A station for you to heal sick Followers. Requires less resources",
+    "category": "buildings",
+    "image": "/Buildings/166.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 137
+    }
+  },
+  {
+    "id": 41,
+    "gameKey": "BED_3",
+    "name": "Grand Shelter",
+    "description": "Give your Follower the luxury they deserve. Collects Devotion  while they sleep. Never collapses.",
+    "category": "buildings",
+    "image": "/Buildings/41.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 118
+    }
+  },
+  {
+    "id": 309,
+    "gameKey": "SHARED_HOUSE",
+    "name": "Shared Shelter",
+    "description": "A place for multiple Followers to sleep. Never collapses.",
+    "category": "buildings",
+    "image": "/Buildings/309.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 249
+    }
+  },
+  {
+    "id": 169,
+    "gameKey": "SILO_SEED",
+    "name": "Seed Silo",
+    "description": "Put seeds here for your Followers to sow.",
+    "category": "buildings",
+    "image": "/Buildings/169.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 52
+    }
+  },
+  {
+    "id": 170,
+    "gameKey": "SILO_FERTILISER",
+    "name": "Fertiliser Silo",
+    "description": "Put fertiliser here for your Followers to use on Farm Plots.",
+    "category": "buildings",
+    "image": "/Buildings/170.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 121
+    }
+  },
+  {
+    "id": 333,
+    "gameKey": "POOP_BUCKET",
+    "name": "Fertiliser Storage",
+    "description": "After a Crusade, deposit Fertiliser here. Followers will automatically distribute it to Fertiliser Silos.",
+    "category": "buildings",
+    "image": "/Buildings/333.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 258
+    }
+  },
+  {
+    "id": 334,
+    "gameKey": "SEED_BUCKET",
+    "name": "Seed Storage",
+    "description": "After a Crusade, deposit seeds here. Followers will automatically distribute them to Seed Silos.",
+    "category": "buildings",
+    "image": "/Buildings/334.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 259
+    }
+  },
+  {
+    "id": 171,
+    "gameKey": "SURVEILLANCE",
+    "name": "Surveillance Tower",
+    "description": "Peer into the minds of your Followers.",
+    "category": "buildings",
+    "image": "/Buildings/171.svg",
+    "imageSource": "illustrative",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 122
+    }
+  },
+  {
+    "id": 173,
+    "gameKey": "OUTHOUSE_2",
+    "name": "Outhouse II",
+    "description": "Give your Followers somewhere nice to relieve themselves. Higher capacity.",
+    "category": "buildings",
+    "image": "/Buildings/173.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 124
+    }
+  },
+  {
+    "id": 174,
+    "gameKey": "SCARECROW_2",
+    "name": "Trap Scarecrow",
+    "description": "Catches birds that try to steal the seeds from Farm Plots within range.",
+    "category": "buildings",
+    "image": "/Buildings/174.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 125
+    }
+  },
+  {
+    "id": 175,
+    "gameKey": "HARVEST_TOTEM_2",
+    "name": "Devotion Harvest Totem",
+    "description": "Increase the growth speed of Farm Plots within range, while slowly generating Devotion .",
+    "category": "buildings",
+    "image": "/Buildings/175.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 126
+    }
+  },
+  {
+    "id": 212,
+    "gameKey": "CHOPPING_SHRINE",
+    "name": "Chopping Shrine",
+    "description": "Allows faster wood chopping.",
+    "category": "buildings",
+    "image": "/Buildings/212.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 141
+    }
+  },
+  {
+    "id": 213,
+    "gameKey": "MINING_SHRINE",
+    "name": "Mining Shrine",
+    "description": "Allows faster stone mining.",
+    "category": "buildings",
+    "image": "/Buildings/213.svg",
+    "imageSource": "illustrative",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 141
+    }
+  },
+  {
+    "id": 214,
+    "gameKey": "FORAGING_SHRINE",
+    "name": "Foraging Shrine",
+    "description": "Allows faster foraging.",
+    "category": "buildings",
+    "image": "/Buildings/214.svg",
+    "imageSource": "illustrative",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 141
+    }
+  },
+  {
+    "id": 10,
+    "gameKey": "KITCHEN",
+    "name": "Kitchen",
+    "description": "Allows Followers to cook meals for their fellow Cult members.",
+    "category": "buildings",
+    "image": "/Buildings/10.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 71
+    }
+  },
+  {
+    "id": 304,
+    "gameKey": "MORGUE_1",
+    "name": "Morgue",
+    "description": "Followers can collect and store bodies while you are away here, but it must be emptied before it is full or it will cause illness.",
+    "category": "buildings",
+    "image": "/Buildings/304.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 237
+    }
+  },
+  {
+    "id": 305,
+    "gameKey": "MORGUE_2",
+    "name": "Morgue II",
+    "description": "Followers can collect and store bodies while you are away here, but it must be emptied before it is full or it will cause illness.",
+    "category": "buildings",
+    "image": "/Buildings/305.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 238
+    }
+  },
+  {
+    "id": 306,
+    "gameKey": "CRYPT_1",
+    "name": "Crypt",
+    "description": "Lay multiple dead Followers to rest. Avoids rotting corpses.",
+    "category": "buildings",
+    "image": "/Buildings/306.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 246
+    }
+  },
+  {
+    "id": 307,
+    "gameKey": "CRYPT_2",
+    "name": "Crypt II",
+    "description": "Lay multiple dead Followers to rest. Avoids rotting corpses. Holds more dead.",
+    "category": "buildings",
+    "image": "/Buildings/307.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 247
+    }
+  },
+  {
+    "id": 308,
+    "gameKey": "CRYPT_3",
+    "name": "Crypt III",
+    "description": "Lay multiple dead Followers to rest. Avoids rotting corpses. Holds even more dead.",
+    "category": "buildings",
+    "image": "/Buildings/308.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 248
+    }
+  },
+  {
+    "id": 343,
+    "gameKey": "PUB",
+    "name": "Drinkhouse",
+    "description": "Brew drinks for your Followers to generate Sin",
+    "category": "buildings",
+    "image": "/Buildings/343.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 263
+    }
+  },
+  {
+    "id": 350,
+    "gameKey": "PUB_2",
+    "name": "Drinkhouse II",
+    "description": "Brew drinks for your Followers to generate Sin   Stores more drinks.",
+    "category": "buildings",
+    "image": "/Buildings/350.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 274
+    }
+  },
+  {
+    "id": 75,
+    "gameKey": "MATING_TENT",
+    "name": "Mating Tent",
+    "description": "Invite two Followers to decide if they wish to make an Egg together. Costs Sin",
+    "category": "buildings",
+    "image": "/Buildings/75.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 269
+    }
+  },
+  {
+    "id": 349,
+    "gameKey": "HATCHERY",
+    "name": "Hatchery",
+    "description": "A place for eggs to hatch.",
+    "category": "buildings",
+    "image": "/Buildings/349.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 269
+    }
+  },
+  {
+    "id": 351,
+    "gameKey": "HATCHERY_2",
+    "name": "Hatchery II",
+    "description": "A place for eggs to hatch. Eggs will hatch quicker.",
+    "category": "buildings",
+    "image": "/Buildings/351.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 275
+    }
+  },
+  {
+    "id": 375,
+    "gameKey": "DAYCARE",
+    "name": "Nursery",
+    "description": "Place babies in the Nursery to more easily care for them.",
+    "category": "buildings",
+    "image": "/Buildings/375.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 283
+    }
+  },
+  {
+    "id": 85,
+    "gameKey": "KNUCKLEBONES_ARENA",
+    "name": "Knucklebones Arena",
+    "description": "Play Knucklebones with your Followers. If you win they gain Loyalty, if you lose they gain nothing.",
+    "category": "buildings",
+    "image": "/Buildings/85.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 284
+    }
+  },
+  {
+    "id": 78,
+    "gameKey": "CONFESSION_BOOTH",
+    "name": "Confession Booth",
+    "description": "Hear a Follower's confession to increase their Loyalty. Can be used once a day.",
+    "category": "buildings",
+    "image": "/Buildings/78.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 50
+    }
+  },
+  {
+    "id": 115,
+    "gameKey": "TEMPLE",
+    "name": "Temple",
+    "description": "Establish a Temple to preach Sermons and perform Rituals.",
+    "category": "buildings",
+    "image": "/Buildings/115.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 42
+    }
+  },
+  {
+    "id": 149,
+    "gameKey": "SHRINE_PASSIVE",
+    "name": "Tabernacle",
+    "description": "A place for Followers who are not worshipping to pray throughout the day and deposit Devotion.",
+    "category": "buildings",
+    "image": "/Buildings/149.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 76
+    }
+  },
+  {
+    "id": 153,
+    "gameKey": "OFFERING_STATUE",
+    "name": "Offering Statue",
+    "description": "A statue where Followers can leave Offerings in your honour.",
+    "category": "buildings",
+    "image": "/Buildings/153.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 74
+    }
+  },
+  {
+    "id": 27,
+    "gameKey": "SHRINE",
+    "name": "Shrine",
+    "description": "A place for your Followers to pray. The shrine will hold the Devotion  they create.",
+    "category": "buildings",
+    "image": "/Buildings/27.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "flag",
+      "field": "BuildShrineEnabled"
+    }
+  },
+  {
+    "id": 328,
+    "gameKey": "TAILOR",
+    "name": "Tailor",
+    "description": "Create outfits for Followers to keep them stylish.",
+    "category": "buildings",
+    "image": "/Buildings/328.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 254
+    }
+  },
+  {
+    "id": 336,
+    "gameKey": "SHRINE_DISCIPLE_BOOST",
+    "name": "Empowered Shrine of Disciples",
+    "description": "Disciples pray at this Shrine to give you boosts while Crusading.",
+    "category": "buildings",
+    "image": "/Buildings/336.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 262
+    }
+  },
+  {
+    "id": 348,
+    "gameKey": "SHRINE_DISCIPLE_COLLECTION",
+    "name": "Collected Shrine of Disciples",
+    "description": "Disciples will collect Devotion  from other structures within radius and deposit it here.",
+    "category": "buildings",
+    "image": "/Buildings/348.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 271
+    }
+  },
+  {
+    "id": 58,
+    "gameKey": "PLANK_PATH",
+    "name": "Wooden Planks",
+    "description": "A lovely wooden floor.",
+    "category": "floors",
+    "image": "/Buildings/58.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 158,
+    "gameKey": "TILE_PATH",
+    "name": "Dirt Flooring",
+    "description": "Only the finest dirt.",
+    "category": "floors",
+    "image": "/Buildings/158.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 269,
+    "gameKey": "TILE_HAY",
+    "name": "Hay Flooring",
+    "description": "Hay to lay upon the ground.",
+    "category": "floors",
+    "image": "/Buildings/269.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 275,
+    "gameKey": "TILE_BLOOD",
+    "name": "Lava Flooring",
+    "description": "Tread with care...",
+    "category": "floors",
+    "image": "/Buildings/275.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 273,
+    "gameKey": "TILE_ROCKS",
+    "name": "Cobblestone Flooring",
+    "description": "Sturdy and nostalgic.",
+    "category": "floors",
+    "image": "/Buildings/273.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 276,
+    "gameKey": "TILE_WATER",
+    "name": "Pond Tile",
+    "description": "Create a beautiful pond for your Followers to admire.",
+    "category": "floors",
+    "image": "/Buildings/276.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 274,
+    "gameKey": "TILE_BRICKS",
+    "name": "Brick Flooring",
+    "description": "Follow the road.",
+    "category": "floors",
+    "image": "/Buildings/274.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 270,
+    "gameKey": "TILE_PLANKS",
+    "name": "Plank Flooring",
+    "description": "Wooden planks, perfect for walking.",
+    "category": "floors",
+    "image": "/Buildings/270.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 268,
+    "gameKey": "TILE_FLOWERS",
+    "name": "Flower Flooring",
+    "description": "Green grass with flowers growing.",
+    "category": "floors",
+    "image": "/Buildings/268.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 272,
+    "gameKey": "TILE_REDGRASS",
+    "name": "Red Carpet Flooring",
+    "description": "For the very important.",
+    "category": "floors",
+    "image": "/Buildings/272.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 271,
+    "gameKey": "TILE_SPOOKYPLANKS",
+    "name": "Marked Flooring",
+    "description": "Wooden planks with strange markings...",
+    "category": "floors",
+    "image": "/Buildings/271.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 277,
+    "gameKey": "TILE_GOLD",
+    "name": "Gold Flooring",
+    "description": "You are the Leader, after all...",
+    "category": "floors",
+    "image": "/Buildings/277.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 278,
+    "gameKey": "TILE_MOSAIC",
+    "name": "Mosaic Flooring",
+    "description": "Perfectly placed patterns.",
+    "category": "floors",
+    "image": "/Buildings/278.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 279,
+    "gameKey": "TILE_FLOWERSROCKY",
+    "name": "Forest Flooring",
+    "description": "Bring nature to you.",
+    "category": "floors",
+    "image": "/Buildings/279.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 35,
+    "gameKey": "DECORATION_STONE",
+    "name": "Ancient Stone",
+    "description": "A cool spooky stone formation.",
+    "category": "decorations",
+    "image": "/Buildings/35.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 139
+    }
+  },
+  {
+    "id": 34,
+    "gameKey": "DECORATION_TREE",
+    "name": "Potted Bush",
+    "description": "A pretty bush in a decorative pot.",
+    "category": "decorations",
+    "image": "/Buildings/34.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 139
+    }
+  },
+  {
+    "id": 103,
+    "gameKey": "DECORATION_TORCH",
+    "name": "Torch",
+    "description": "A light source.",
+    "category": "decorations",
+    "image": "/Buildings/103.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 106,
+    "gameKey": "DECORATION_FLOWER_BOX_1",
+    "name": "Camellia Bed",
+    "description": "A decorative bed of Camellia flowers.",
+    "category": "decorations",
+    "image": "/Buildings/106.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 109,
+    "gameKey": "DECORATION_SMALL_STONE_CANDLE",
+    "name": "Small Stone Candle",
+    "description": "An ancient stone holding a single candle.",
+    "category": "decorations",
+    "image": "/Buildings/109.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 139
+    }
+  },
+  {
+    "id": 110,
+    "gameKey": "DECORATION_FLAG_CROWN",
+    "name": "Flag of the Crown",
+    "description": "A flag bearing the symbol of your Crown.",
+    "category": "decorations",
+    "image": "/Buildings/110.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 139
+    }
+  },
+  {
+    "id": 111,
+    "gameKey": "DECORATION_FLAG_SCRIPTURE",
+    "name": "Flag of Scripture",
+    "description": "A flag bearing the scriptures of your Cult.",
+    "category": "decorations",
+    "image": "/Buildings/111.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 112,
+    "gameKey": "DECORATION_WALL_TWIGS",
+    "name": "Twig Wall",
+    "description": "Stronger than grass.",
+    "category": "decorations",
+    "image": "/Buildings/112.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 139
+    }
+  },
+  {
+    "id": 113,
+    "gameKey": "DECORATION_LAMB_FLAG_STATUE",
+    "name": "Lamb Flag Statue",
+    "description": "A statue of the mighty Lamb.",
+    "category": "decorations",
+    "image": "/Buildings/113.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 138,
+    "gameKey": "FARM_PLOT_SIGN",
+    "name": "Farm Plot Sign",
+    "description": "Organise your farm with this handy signpost.",
+    "category": "decorations",
+    "image": "/Buildings/138.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 181,
+    "gameKey": "DECORATION_BARROW",
+    "name": "Flower Barrow",
+    "description": "A wheelbarrow filled with flowers.",
+    "category": "decorations",
+    "image": "/Buildings/181.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 182,
+    "gameKey": "DECORATION_BELL_STATUE",
+    "name": "Golden Bell Statue",
+    "description": "An arch that houses a golden bell.",
+    "category": "decorations",
+    "image": "/Buildings/182.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 183,
+    "gameKey": "DECORATION_BONE_ARCH",
+    "name": "Bone Arch",
+    "description": "An arch constructed of bones.",
+    "category": "decorations",
+    "image": "/Buildings/183.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 140
+    }
+  },
+  {
+    "id": 184,
+    "gameKey": "DECORATION_BONE_BARREL",
+    "name": "Barrel of Bones",
+    "description": "A barrel.... full of bones!",
+    "category": "decorations",
+    "image": "/Buildings/184.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 140
+    }
+  },
+  {
+    "id": 185,
+    "gameKey": "DECORATION_BONE_CANDLE",
+    "name": "Skull Candle",
+    "description": "Once holder of brains, now holder of candles.",
+    "category": "decorations",
+    "image": "/Buildings/185.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 140
+    }
+  },
+  {
+    "id": 186,
+    "gameKey": "DECORATION_BONE_FLAG",
+    "name": "Skeleton Crown Flag",
+    "description": "A rigid bone pillar to raise your flag.",
+    "category": "decorations",
+    "image": "/Buildings/186.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 140
+    }
+  },
+  {
+    "id": 187,
+    "gameKey": "DECORATION_BONE_LANTERN",
+    "name": "Bone Lantern",
+    "description": "To illuminate and intimidate.",
+    "category": "decorations",
+    "image": "/Buildings/187.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 140
+    }
+  },
+  {
+    "id": 188,
+    "gameKey": "DECORATION_BONE_PILLAR",
+    "name": "Pile O' Skulls",
+    "description": "Skulls in a pile.",
+    "category": "decorations",
+    "image": "/Buildings/188.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 140
+    }
+  },
+  {
+    "id": 189,
+    "gameKey": "DECORATION_BONE_SCULPTURE",
+    "name": "Bone Sculpture",
+    "description": "An imposing sculpture built of bone.",
+    "category": "decorations",
+    "image": "/Buildings/189.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 140
+    }
+  },
+  {
+    "id": 190,
+    "gameKey": "DECORATION_CANDLE_BARREL",
+    "name": "Candle Barrel",
+    "description": "A barrel with candles atop.",
+    "category": "decorations",
+    "image": "/Buildings/190.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 139
+    }
+  },
+  {
+    "id": 191,
+    "gameKey": "DECORATION_CRYSTAL_LAMP",
+    "name": "Crystal Lamp",
+    "description": "A lantern comprised of shining crystal.",
+    "category": "decorations",
+    "image": "/Buildings/191.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 192,
+    "gameKey": "DECORATION_CRYSTAL_LIGHT",
+    "name": "Crystal Lantern",
+    "description": "A large crystal that glows softly.",
+    "category": "decorations",
+    "image": "/Buildings/192.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 193,
+    "gameKey": "DECORATION_CRYSTAL_ROCK",
+    "name": "Crystal Rock",
+    "description": "A rock studded with blue crystal.",
+    "category": "decorations",
+    "image": "/Buildings/193.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 194,
+    "gameKey": "DECORATION_CRYSTAL_STATUE",
+    "name": "Crystal Statue",
+    "description": "A radiant tower of shining crystal.",
+    "category": "decorations",
+    "image": "/Buildings/194.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 195,
+    "gameKey": "DECORATION_CRYSTAL_TREE",
+    "name": "Crystal Tree",
+    "description": "A unique form of flora.",
+    "category": "decorations",
+    "image": "/Buildings/195.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 196,
+    "gameKey": "DECORATION_CRYSTAL_WINDOW",
+    "name": "Crystal Window",
+    "description": "An arched window of stained glass.",
+    "category": "decorations",
+    "image": "/Buildings/196.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 197,
+    "gameKey": "DECORATION_FLOWER_ARCH",
+    "name": "Flower Arch",
+    "description": "An archway of woven blooms and vines.",
+    "category": "decorations",
+    "image": "/Buildings/197.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 198,
+    "gameKey": "DECORATION_FOUNTAIN",
+    "name": "Crown Fountain",
+    "description": "A softly weeping fountain.",
+    "category": "decorations",
+    "image": "/Buildings/198.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 199,
+    "gameKey": "DECORATION_POST_BOX",
+    "name": "Prayer Box",
+    "description": "A small box for correspondence.",
+    "category": "decorations",
+    "image": "/Buildings/199.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 200,
+    "gameKey": "DECORATION_PUMPKIN_PILE",
+    "name": "Pumpkin Pile",
+    "description": "A pile of pumpkins!",
+    "category": "decorations",
+    "image": "/Buildings/200.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 201,
+    "gameKey": "DECORATION_PUMPKIN_STOOL",
+    "name": "Carved Pumpkin",
+    "description": "A pumpkin carved with a crown.",
+    "category": "decorations",
+    "image": "/Buildings/201.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 202,
+    "gameKey": "DECORATION_STONE_CANDLE",
+    "name": "Stone Candle",
+    "description": "A candle atop a stone.",
+    "category": "decorations",
+    "image": "/Buildings/202.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 203,
+    "gameKey": "DECORATION_STONE_FLAG",
+    "name": "Stone Flag",
+    "description": "A stone pillar to raise your flag.",
+    "category": "decorations",
+    "image": "/Buildings/203.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 204,
+    "gameKey": "DECORATION_STONE_MUSHROOM",
+    "name": "Stone Mushroom",
+    "description": "Don't be fooled; it's made of rock.",
+    "category": "decorations",
+    "image": "/Buildings/204.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 205,
+    "gameKey": "DECORATION_TORCH_BIG",
+    "name": "Large Torch",
+    "description": "A blazing beacon.",
+    "category": "decorations",
+    "image": "/Buildings/205.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 206,
+    "gameKey": "DECORATION_TWIG_LAMP",
+    "name": "Wooden Lanterns",
+    "description": "A simple way to light the dark.",
+    "category": "decorations",
+    "image": "/Buildings/206.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 207,
+    "gameKey": "DECORATION_WALL_BONE",
+    "name": "Bone Wall",
+    "description": "Sturdier than grass.",
+    "category": "decorations",
+    "image": "/Buildings/207.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 140
+    }
+  },
+  {
+    "id": 209,
+    "gameKey": "DECORATION_WALL_GRASS",
+    "name": "Grass Wall",
+    "description": "Better than nothing.",
+    "category": "decorations",
+    "image": "/Buildings/209.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 139
+    }
+  },
+  {
+    "id": 208,
+    "gameKey": "DECORATION_WALL_STONE",
+    "name": "Stone Wall",
+    "description": "Sturdier than bone.",
+    "category": "decorations",
+    "image": "/Buildings/208.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 210,
+    "gameKey": "DECORATION_WREATH_STICK",
+    "name": "Wreath",
+    "description": "A simple decorative wreath of sticks.",
+    "category": "decorations",
+    "image": "/Buildings/210.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 211,
+    "gameKey": "DECORATION_STUMP_LAMB_STATUE",
+    "name": "Tree Stump Lamb Statue",
+    "description": "The Lamb carved of wood.",
+    "category": "decorations",
+    "image": "/Buildings/211.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 217,
+    "gameKey": "DECORATION_BELL_SMALL",
+    "name": "Small Bell Statue",
+    "description": "A simple stand for a small bell.",
+    "category": "decorations",
+    "image": "/Buildings/217.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 218,
+    "gameKey": "DECORATION_BONE_SKULL_BIG",
+    "name": "Giant Skull",
+    "description": "The remains of something truly impressive.",
+    "category": "decorations",
+    "image": "/Buildings/218.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 219,
+    "gameKey": "DECORATION_BONE_SKULL_PILE",
+    "name": "Skull Pile",
+    "description": "A pile of skulls!",
+    "category": "decorations",
+    "image": "/Buildings/219.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 220,
+    "gameKey": "DECORATION_FLAG_CRYSTAL",
+    "name": "Crystal Flag",
+    "description": "A crystal pillar to raise your flag.",
+    "category": "decorations",
+    "image": "/Buildings/220.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 221,
+    "gameKey": "DECORATION_FLAG_MUSHROOM",
+    "name": "Mushroom Flag",
+    "description": "A mushroom pillar to raise your flag.",
+    "category": "decorations",
+    "image": "/Buildings/221.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 222,
+    "gameKey": "DECORATION_FLOWER_BOTTLE",
+    "name": "Flower Bottle",
+    "description": "A glass bottle filled with flowers.",
+    "category": "decorations",
+    "image": "/Buildings/222.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 223,
+    "gameKey": "DECORATION_FLOWER_CART",
+    "name": "Flower Cart",
+    "description": "A wooden cart filled with flowers.",
+    "category": "decorations",
+    "image": "/Buildings/223.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 224,
+    "gameKey": "DECORATION_HAY_BALE",
+    "name": "Hay Bale",
+    "description": "A bale of hay.",
+    "category": "decorations",
+    "image": "/Buildings/224.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 225,
+    "gameKey": "DECORATION_HAY_PILE",
+    "name": "Hay Pile",
+    "description": "A pile of hay.",
+    "category": "decorations",
+    "image": "/Buildings/225.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 226,
+    "gameKey": "DECORATION_LEAFY_FLOWER_SCULPTURE",
+    "name": "Leafy Flower Sculpture",
+    "description": "A colourful display of nature's blessing.",
+    "category": "decorations",
+    "image": "/Buildings/226.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 227,
+    "gameKey": "DECORATION_LEAFY_LANTERN",
+    "name": "Leafy Lantern",
+    "description": "An overgrown stand for a lantern.",
+    "category": "decorations",
+    "image": "/Buildings/227.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 228,
+    "gameKey": "DECORATION_LEAFY_SCULPTURE",
+    "name": "Leafy Sculpture",
+    "description": "A maypole of vivid green vines.",
+    "category": "decorations",
+    "image": "/Buildings/228.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 229,
+    "gameKey": "DECORATION_MUSHROOM_1",
+    "name": "Little Mushroom",
+    "description": "A small mushroom.",
+    "category": "decorations",
+    "image": "/Buildings/229.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 230,
+    "gameKey": "DECORATION_MUSHROOM_2",
+    "name": "Mushroom Cluster",
+    "description": "Some large mushrooms.",
+    "category": "decorations",
+    "image": "/Buildings/230.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 231,
+    "gameKey": "DECORATION_MUSHROOM_CANDLE_1",
+    "name": "Small Mushroom Candle",
+    "description": "Mushroom stands for a few candles.",
+    "category": "decorations",
+    "image": "/Buildings/231.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 232,
+    "gameKey": "DECORATION_MUSHROOM_CANDLE_2",
+    "name": "Large Mushroom Candle",
+    "description": "A large mushroom stand for many candles.",
+    "category": "decorations",
+    "image": "/Buildings/232.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 233,
+    "gameKey": "DECORATION_MUSHROOM_CANDLE_LARGE",
+    "name": "Mushroom Candle Shrine",
+    "description": "A bright, candle-filled fungus.",
+    "category": "decorations",
+    "image": "/Buildings/233.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 234,
+    "gameKey": "DECORATION_MUSHROOM_SCULPTURE",
+    "name": "Mushroom Sculpture",
+    "description": "A decorative sculpture to celebrate fungus!",
+    "category": "decorations",
+    "image": "/Buildings/234.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 235,
+    "gameKey": "DECORATION_SPIDER_LANTERN",
+    "name": "Spider Lantern",
+    "description": "A lantern stand covered in cobwebs.",
+    "category": "decorations",
+    "image": "/Buildings/235.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 236,
+    "gameKey": "DECORATION_SPIDER_PILLAR",
+    "name": "Spider Pillar",
+    "description": "A pillar draped in spider silk.",
+    "category": "decorations",
+    "image": "/Buildings/236.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 237,
+    "gameKey": "DECORATION_SPIDER_SCULPTURE",
+    "name": "Spider Silk Sculpture",
+    "description": "Artistic and disturbing.",
+    "category": "decorations",
+    "image": "/Buildings/237.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 238,
+    "gameKey": "DECORATION_SPIDER_TORCH",
+    "name": "Spider Torch",
+    "description": "To illuminate the spider-filled dark.",
+    "category": "decorations",
+    "image": "/Buildings/238.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 239,
+    "gameKey": "DECORATION_SPIDER_WEB_CROWN_SCULPTURE",
+    "name": "Web Crown Sculpture",
+    "description": "Your symbol captured in a cobweb.",
+    "category": "decorations",
+    "image": "/Buildings/239.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 240,
+    "gameKey": "DECORATION_STONE_CANDLE_LAMP",
+    "name": "Stone Candle Lamp",
+    "description": "A stone hollow filled with candles.",
+    "category": "decorations",
+    "image": "/Buildings/240.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 241,
+    "gameKey": "DECORATION_STONE_HENGE",
+    "name": "Stonehenge",
+    "description": "Who made it?",
+    "category": "decorations",
+    "image": "/Buildings/241.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 242,
+    "gameKey": "DECORATION_WALL_SPIDER",
+    "name": "Spider Silk Wall",
+    "description": "Stronger than stone.",
+    "category": "decorations",
+    "image": "/Buildings/242.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 243,
+    "gameKey": "DECORATION_POND",
+    "name": "Pond",
+    "description": "A tranquil pond.",
+    "category": "decorations",
+    "image": "/Buildings/243.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 280,
+    "gameKey": "DECORATION_MONSTERSHRINE",
+    "name": "Massive Monster Shrine",
+    "description": "Pray to the mighty monster.",
+    "category": "decorations",
+    "image": "/Buildings/280.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 281,
+    "gameKey": "DECORATION_FLOWERPOTWALL",
+    "name": "Wall Flower Pot",
+    "description": "Small flower pots strung upon a post.",
+    "category": "decorations",
+    "image": "/Buildings/281.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 282,
+    "gameKey": "DECORATION_LEAFYLAMPPOST",
+    "name": "Leafy Lamp Post",
+    "description": "To illuminate the lush green surrounds.",
+    "category": "decorations",
+    "image": "/Buildings/282.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 283,
+    "gameKey": "DECORATION_FLOWERVASE",
+    "name": "Flower Vase",
+    "description": "A delicate addition to any base.",
+    "category": "decorations",
+    "image": "/Buildings/283.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 284,
+    "gameKey": "DECORATION_WATERINGCAN",
+    "name": "Watering Can",
+    "description": "Not for practical use.",
+    "category": "decorations",
+    "image": "/Buildings/284.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 285,
+    "gameKey": "DECORATION_FLOWER_CART_SMALL",
+    "name": "Small Flower Cart",
+    "description": "The bounty of springtime, on wheels.",
+    "category": "decorations",
+    "image": "/Buildings/285.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 286,
+    "gameKey": "DECORATION_WEEPINGSHRINE",
+    "name": "Weeping Shrine",
+    "description": "A shrine in memory of a sorrowful soul.",
+    "category": "decorations",
+    "image": "/Buildings/286.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 293,
+    "gameKey": "DECORATION_PLUSH",
+    "name": "Lamb Plush Effigy",
+    "description": "This effigy of the leader holds a connection to some distant world...",
+    "category": "decorations",
+    "image": "/Buildings/293.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 357,
+    "gameKey": "DECORATION_SINFUL_STATUE",
+    "name": "Lamb of Gold",
+    "description": "A decadent depiction of the Lamb cast in gold.",
+    "category": "decorations",
+    "image": "/Buildings/357.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 358,
+    "gameKey": "DECORATION_SINFUL_CRUCIFIX",
+    "name": "Rose Covered Cross",
+    "description": "A golden cross covered in blood red roses.",
+    "category": "decorations",
+    "image": "/Buildings/358.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 359,
+    "gameKey": "DECORATION_SINFUL_FLOWERS1",
+    "name": "Flowers of Seduction",
+    "description": "A basket of delicious flowers with a heady scent.",
+    "category": "decorations",
+    "image": "/Buildings/359.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 360,
+    "gameKey": "DECORATION_SINFUL_FLOWERS2",
+    "name": "Vase of Vanity",
+    "description": "Beautiful blooms in a crystal vase.",
+    "category": "decorations",
+    "image": "/Buildings/360.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 361,
+    "gameKey": "DECORATION_SINFUL_SKULL",
+    "name": "Skull of Impurity",
+    "description": "A skull bleeding rose petals.",
+    "category": "decorations",
+    "image": "/Buildings/361.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 362,
+    "gameKey": "DECORATION_SINFUL_INCENSE",
+    "name": "Scent of Sin Incense",
+    "description": "An incense burner with a luscious fragrance.",
+    "category": "decorations",
+    "image": "/Buildings/362.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 363,
+    "gameKey": "DECORATION_CNY_LANTERN",
+    "name": "Fortuitous Lantern",
+    "description": "A beacon for new beginnings.",
+    "category": "decorations",
+    "image": "/Buildings/363.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 364,
+    "gameKey": "DECORATION_CNY_DRAGON",
+    "name": "Fortuitous Statue",
+    "description": "For luck, strength, and health.",
+    "category": "decorations",
+    "image": "/Buildings/364.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 365,
+    "gameKey": "DECORATION_CNY_TREE",
+    "name": "Fortuitous Tree",
+    "description": "Blooms when old meets new.",
+    "category": "decorations",
+    "image": "/Buildings/365.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 376,
+    "gameKey": "DECORATION_PILGRIM_WALL",
+    "name": "Bamboo Wall",
+    "description": "A wall made of sturdy bamboo.",
+    "category": "decorations",
+    "image": "/Buildings/376.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 377,
+    "gameKey": "DECORATION_PILGRIM_BONSAI",
+    "name": "Bonsai Tree",
+    "description": "A small tree, lovingly tended.",
+    "category": "decorations",
+    "image": "/Buildings/377.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 378,
+    "gameKey": "DECORATION_PILGRIM_LANTERN",
+    "name": "Hanging Lantern",
+    "description": "A lantern, delicate and bright.",
+    "category": "decorations",
+    "image": "/Buildings/378.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 379,
+    "gameKey": "DECORATION_PILGRIM_PAGODA",
+    "name": "Small Pagoda",
+    "description": "Perhaps used to house something precious?",
+    "category": "decorations",
+    "image": "/Buildings/379.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 380,
+    "gameKey": "DECORATION_PILGRIM_VASE",
+    "name": "Vase of Peonies",
+    "description": "Beautiful, blooming peonies in an elegant vase.",
+    "category": "decorations",
+    "image": "/Buildings/380.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 354,
+    "gameKey": "DECORATION_GNOME1",
+    "name": "Pea",
+    "description": "The first gnome.",
+    "category": "decorations",
+    "image": "/Buildings/354.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 355,
+    "gameKey": "DECORATION_GNOME2",
+    "name": "Owe",
+    "description": "The second gnome.",
+    "category": "decorations",
+    "image": "/Buildings/355.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 356,
+    "gameKey": "DECORATION_GNOME3",
+    "name": "Geeh",
+    "description": "The third gnome.",
+    "category": "decorations",
+    "image": "/Buildings/356.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 381,
+    "gameKey": "DECORATION_GOAT_LANTERN",
+    "name": "The Goat Lantern",
+    "description": "The greatest lantern of all time!",
+    "category": "decorations",
+    "image": "/Buildings/381.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 382,
+    "gameKey": "DECORATION_GOAT_STATUE",
+    "name": "The Goat Statue",
+    "description": "The greatest statue of all time!",
+    "category": "decorations",
+    "image": "/Buildings/382.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 383,
+    "gameKey": "DECORATION_GOAT_PLANT",
+    "name": "The Goat Vase",
+    "description": "The greatest vase of all time!",
+    "category": "decorations",
+    "image": "/Buildings/383.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 294,
+    "gameKey": "DECORATION_TWITCH_FLAG_CROWN",
+    "name": "Flag of the Crown",
+    "description": "A flag bearing the symbol of your Crown.",
+    "category": "decorations",
+    "image": "/Buildings/294.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 295,
+    "gameKey": "DECORATION_TWITCH_MUSHROOM_BAG",
+    "name": "Bag of Mushrooms",
+    "description": "A big bag full of purple mushrooms.",
+    "category": "decorations",
+    "image": "/Buildings/295.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 296,
+    "gameKey": "DECORATION_TWITCH_ROSE_BUSH",
+    "name": "Potted Bush",
+    "description": "A pretty bush in a decorative pot.",
+    "category": "decorations",
+    "image": "/Buildings/296.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 297,
+    "gameKey": "DECORATION_TWITCH_STONE_FLAG",
+    "name": "Stone Flag",
+    "description": "A stone pillar to raise your flag.",
+    "category": "decorations",
+    "image": "/Buildings/297.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 298,
+    "gameKey": "DECORATION_TWITCH_STONE_STATUE",
+    "name": "Stone Statue",
+    "description": "A decorative statue carved from stone.",
+    "category": "decorations",
+    "image": "/Buildings/298.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 299,
+    "gameKey": "DECORATION_TWITCH_WOODEN_GUARDIAN",
+    "name": "Wooden Guardian",
+    "description": "A decorative statue carved from wood.",
+    "category": "decorations",
+    "image": "/Buildings/299.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 287,
+    "gameKey": "DECORATION_BOSS_TROPHY_1",
+    "name": "Leshy Trophy",
+    "description": "A trophy for killing Leshy.",
+    "category": "decorations",
+    "image": "/Buildings/287.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 288,
+    "gameKey": "DECORATION_BOSS_TROPHY_2",
+    "name": "Heket Trophy",
+    "description": "A trophy for killing Heket.",
+    "category": "decorations",
+    "image": "/Buildings/288.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 289,
+    "gameKey": "DECORATION_BOSS_TROPHY_3",
+    "name": "Kallamar Trophy",
+    "description": "A trophy for killing Kallamar.",
+    "category": "decorations",
+    "image": "/Buildings/289.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 290,
+    "gameKey": "DECORATION_BOSS_TROPHY_4",
+    "name": "Shamura Trophy",
+    "description": "A trophy for killing Shamura.",
+    "category": "decorations",
+    "image": "/Buildings/290.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 291,
+    "gameKey": "DECORATION_BOSS_TROPHY_5",
+    "name": "The One Who Waits Trophy",
+    "description": "A trophy for killing The One Who Waits.",
+    "category": "decorations",
+    "image": "/Buildings/291.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 302,
+    "gameKey": "DECORATION_HALLOWEEN_CANDLE",
+    "name": "Blood Moon Candle",
+    "description": "A decorative candle to commemorate the Blood Moon",
+    "category": "decorations",
+    "image": "/Buildings/302.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 300,
+    "gameKey": "DECORATION_HALLOWEEN_PUMPKIN",
+    "name": "Blood Moon Pumpkin",
+    "description": "Honour the Blood Moon with this pumpkin.",
+    "category": "decorations",
+    "image": "/Buildings/300.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 303,
+    "gameKey": "DECORATION_HALLOWEEN_TREE",
+    "name": "Blood Moon Tree",
+    "description": "A tree that only grows during the Blood Moon.",
+    "category": "decorations",
+    "image": "/Buildings/303.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 301,
+    "gameKey": "DECORATION_HALLOWEEN_SKULL",
+    "name": "Blood Moon Skull",
+    "description": "The skull of a creature who perished under red skies...",
+    "category": "decorations",
+    "image": "/Buildings/301.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 384,
+    "gameKey": "DECORATION_APPLE_BUSH",
+    "name": "Manicured Hedge",
+    "description": "Grown and shaped with reverance.",
+    "category": "decorations",
+    "image": "/Buildings/384.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 385,
+    "gameKey": "DECORATION_APPLE_LANTERN",
+    "name": "Whittled Lamp Post",
+    "description": "Shaped by a master.",
+    "category": "decorations",
+    "image": "/Buildings/385.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 386,
+    "gameKey": "DECORATION_APPLE_STATUE",
+    "name": "Mysterious Fruit Statue",
+    "description": "Unseen before in these Lands.",
+    "category": "decorations",
+    "image": "/Buildings/386.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 387,
+    "gameKey": "DECORATION_APPLE_VASE",
+    "name": "Lovely Arrangement",
+    "description": "A pleasing bouquet of fresh lilies.",
+    "category": "decorations",
+    "image": "/Buildings/387.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 388,
+    "gameKey": "DECORATION_APPLE_WELL",
+    "name": "Overgrown Well",
+    "description": "The water below may still be fresh.",
+    "category": "decorations",
+    "image": "/Buildings/388.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 310,
+    "gameKey": "DECORATION_OLDFAITH_CRYSTAL",
+    "name": "Gem of Gore",
+    "description": "A blood-red crystal. Smells of iron...",
+    "category": "decorations",
+    "image": "/Buildings/310.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 311,
+    "gameKey": "DECORATION_OLDFAITH_FLAG",
+    "name": "Flag of the Old Faith",
+    "description": "A flag bearing a symbol of ancient scripture.",
+    "category": "decorations",
+    "image": "/Buildings/311.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 312,
+    "gameKey": "DECORATION_OLDFAITH_FOUNTAIN",
+    "name": "Fount of Desolation",
+    "description": "A burbling spring of entropy.",
+    "category": "decorations",
+    "image": "/Buildings/312.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 313,
+    "gameKey": "DECORATION_OLDFAITH_IRONMAIDEN",
+    "name": "Iron Maiden of Old Faith",
+    "description": "For those truly deserving of punishment.",
+    "category": "decorations",
+    "image": "/Buildings/313.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 314,
+    "gameKey": "DECORATION_OLDFAITH_SHRINE",
+    "name": "Shrine of the Old Faith",
+    "description": "To commemorate what has endured.",
+    "category": "decorations",
+    "image": "/Buildings/314.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 315,
+    "gameKey": "DECORATION_OLDFAITH_TORCH",
+    "name": "The Eternal Flame",
+    "description": "Burning as long as the Old Faith perseveres...",
+    "category": "decorations",
+    "image": "/Buildings/315.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 316,
+    "gameKey": "DECORATION_OLDFAITH_WALL",
+    "name": "Walls of Ruin",
+    "description": "Upon which forgotten pleas are carved.",
+    "category": "decorations",
+    "image": "/Buildings/316.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 317,
+    "gameKey": "TILE_OLDFAITH",
+    "name": "Flooring of the Old Faith",
+    "description": "The perfect tile upon which to bend the knee.",
+    "category": "floors",
+    "image": "/Buildings/317.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 319,
+    "gameKey": "DECORATION_DST_ALCHEMY",
+    "name": "Alchemy Engine",
+    "description": "What is this peculiar machine?",
+    "category": "decorations",
+    "image": "/Buildings/319.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 320,
+    "gameKey": "DECORATION_DST_DEERCLOPS",
+    "name": "Deerclops Figure",
+    "description": "A sculpture depicting a beast from a distant land...",
+    "category": "decorations",
+    "image": "/Buildings/320.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 321,
+    "gameKey": "DECORATION_DST_MARBLETREE",
+    "name": "Marble Tree",
+    "description": "I dont think an axe will cut it.",
+    "category": "decorations",
+    "image": "/Buildings/321.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 322,
+    "gameKey": "DECORATION_DST_PIGSTICK",
+    "name": "Pig Head",
+    "description": "Its a pigs head. On a stick.",
+    "category": "decorations",
+    "image": "/Buildings/322.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 323,
+    "gameKey": "DECORATION_DST_SCIENCEMACHINE",
+    "name": "Science Machine",
+    "description": "What is \"science\"?",
+    "category": "decorations",
+    "image": "/Buildings/323.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 324,
+    "gameKey": "DECORATION_DST_TREE",
+    "name": "Potted Treeguard",
+    "description": "Is it... alive?",
+    "category": "decorations",
+    "image": "/Buildings/324.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 327,
+    "gameKey": "DECORATION_DST_BEEFALOSKELETON",
+    "name": "Beefalo Skeleton",
+    "description": "The remains of a majestic beast from a faraway land.",
+    "category": "decorations",
+    "image": "/Buildings/327.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 326,
+    "gameKey": "DECORATION_DST_GLOMMERSTATUE",
+    "name": "Glommer Statue",
+    "description": "It's cute, in a gross kind of way.",
+    "category": "decorations",
+    "image": "/Buildings/326.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 292,
+    "gameKey": "DECORATION_VIDEO",
+    "name": "Witness's All Seeing Eye",
+    "description": "See the development of your Cult over the days.",
+    "category": "decorations",
+    "image": "/Buildings/292.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "structure"
+    }
+  },
+  {
+    "id": 374,
+    "gameKey": "LEADER_TENT",
+    "name": "Leader Tent",
+    "description": "A resting place worthy of a glorious Leader, and their Crown.",
+    "category": "buildings",
+    "image": "/Buildings/374.png",
+    "imageSource": "native",
+    "unlock": {
+      "kind": "upgrade",
+      "id": 282
+    }
+  }
+]

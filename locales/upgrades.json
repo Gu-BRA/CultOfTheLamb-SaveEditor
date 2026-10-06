@@ -1,0 +1,814 @@
+[
+  [
+    "Temple",
+    "Templo"
+  ],
+  [
+    "Establish a Temple to preach Sermons and perform Rituals.",
+    "Crie um Templo para pregar Sermões e realizar Rituais."
+  ],
+  [
+    "Refinery",
+    "Refinaria"
+  ],
+  [
+    "Consecrate resources into:",
+    "Consagre recursos para:"
+  ],
+  [
+    "Cult II",
+    "Culto II"
+  ],
+  [
+    "Upgrade Temple and Shrine. Collect more Devotion and allow more Followers to pray.",
+    "Aprimore Templo e Santuário. Colete mais Devoção para que mais Seguidores rezem."
+  ],
+  [
+    "Farming Bundle",
+    "Pacote Cultivo"
+  ],
+  [
+    "Farmer Station's allows Followers to water nearby crops.",
+    "A Estação da Fazenda permite que os Seguidores reguem as plantações nas proximidades."
+  ],
+  [
+    "Cult III",
+    "Culto III"
+  ],
+  [
+    "Upgrade Temple and Shrine. Collect more Devotion and allow more Followers to pray.",
+    "Aprimore Templo e Santuário. Colete mais Devoção para que mais Seguidores rezem."
+  ],
+  [
+    "Cult IV",
+    "Culto IV"
+  ],
+  [
+    "Upgrade Temple and Shrine. Collect more Devotion and allow more Followers to pray.",
+    "Aprimore Templo e Santuário. Colete mais Devoção para que mais Seguidores rezem."
+  ],
+  [
+    "Demonic Summoning Circle",
+    "Círculo de Invocação Demoníaca"
+  ],
+  [
+    "Possess a Follower with the spirit of a demon so that they can join you on your next Crusade.",
+    "Deixe um Seguidor possuído pelo espírito de um demônio para que ele te acompanhe na sua próxima Cruzada."
+  ],
+  [
+    "Demonic Summoning Circle II",
+    "Círculo de Invocação Demoníaca II"
+  ],
+  [
+    "Upgraded Demonic Summoning Circle. Summon 2 demons at a time.",
+    "Círculo de Invocação Demoníaca aprimorado. Invoca 2 demônios por vez."
+  ],
+  [
+    "Bone Decorations",
+    "Decorações de Ossos"
+  ],
+  [
+    "Unlocks Bone Decorations. A collection of terrifying buildings built from enemy bones. Some decorations will give your Follower's faith when admired.",
+    "Desbloqueia Decorações de Ossos. Uma coleção de construções aterrorizantes feitas de ossos. Quando admiradas, algumas decorações darão fé aos Seguidores."
+  ],
+  [
+    "Farm Plot",
+    "Terreno Agrícola"
+  ],
+  [
+    "Grow a seed into a crop.",
+    "Faça uma semente virar uma colheita"
+  ],
+  [
+    "Missionary II",
+    "Missionário II"
+  ],
+  [
+    "Send two Followers on a holy quest at once. Followers will have a higher likelihood of success and complete their mission more quickly.",
+    "Envie dois Seguidores em uma tarefa sagrada de uma vez só. Os Seguidores têm maior chance de completar a missão com sucesso e mais rapidamente."
+  ],
+  [
+    "Missionary III",
+    "Missionário III"
+  ],
+  [
+    "Send three Followers on a holy quest at once. Followers will have an even higher likelihood of success and complete their mission even more quickly.",
+    "Envie três Seguidores em uma tarefa sagrada de uma vez só. Os Seguidores têm chance ainda maior de completar a missão com sucesso e mais rapidamente."
+  ],
+  [
+    "Lumberyard",
+    "Depósito de Madeiras"
+  ],
+  [
+    "A Follower will generate",
+    "Um seguidor gerará"
+  ],
+  [
+    "Stone Mine",
+    "Mina de Pedras"
+  ],
+  [
+    "A Follower will generate",
+    "Um seguidor gerará"
+  ],
+  [
+    "Refinery II",
+    "Refinaria II"
+  ],
+  [
+    "Consecrate resources into:",
+    "Consagre recursos para:"
+  ],
+  [
+    "Stone Mine II",
+    "Mina de Pedras II"
+  ],
+  [
+    "A Follower will generate",
+    "Um seguidor gerará"
+  ],
+  [
+    "Lumberyard II",
+    "Depósito de Madeiras II"
+  ],
+  [
+    "A Follower will generate",
+    "Um seguidor gerará"
+  ],
+  [
+    "Scarecrow",
+    "Espantalho"
+  ],
+  [
+    "Prevents birds from stealing the seeds from Farm Plots within range.",
+    "Impede que os pássaros roubem sementes dos Terrenos Agrícolas dentro do alcance."
+  ],
+  [
+    "Harvest Totem",
+    "Totem da Colheita"
+  ],
+  [
+    "Increase growth speed of all Farm Plots within range.",
+    "Aumente a velocidade de crescimento de todos os Terrenos Agrícolas ao alcance."
+  ],
+  [
+    "Devotion Harvest Totem",
+    "Totem da Colheita da Devoção"
+  ],
+  [
+    "Increase the growth speed of Farm Plots within range, while slowly generating Devotion .",
+    "Aumente a velocidade de cultivo dos Terrenos Agrícolas dentro do alcance enquanto gera Devoção  lentamente."
+  ],
+  [
+    "Trap Scarecrow",
+    "Armadilha de Espantalho"
+  ],
+  [
+    "Catches birds that try to steal the seeds from Farm Plots within range.",
+    "Captura os pássaros que tentam roubar sementes dos Terrenos Agrícolas dentro do alcance"
+  ],
+  [
+    "Missionary",
+    "Missionário"
+  ],
+  [
+    "Send your Followers on a holy quest to gather resources. That is, if they make it back alive...",
+    "Envie seus Seguidores em tarefas sagradas para coletar recursos. Isso se conseguirem voltar com vida."
+  ],
+  [
+    "Fertiliser Silo",
+    "Silo de Fertilizantes"
+  ],
+  [
+    "Put fertiliser here for your Followers to use on Farm Plots.",
+    "Coloque fertilizantes aqui para seus Seguidores usá-los em Terrenos Agrícolas"
+  ],
+  [
+    "Compost",
+    "Composteira"
+  ],
+  [
+    "Deposit grass to turn it into fertilizer.",
+    "Deposite mato para transformá-lo em fertilizante."
+  ],
+  [
+    "Farmer Station II",
+    "Estação da Fazenda II"
+  ],
+  [
+    "Farmers will be able to harvest your crops and deposit them in a chest for you to collect.",
+    "Fazendeiros poderão fazer as colheitas e depositá-las em um baú para você coletá-las."
+  ],
+  [
+    "Sleeping Bags",
+    "Sacos de Dormir"
+  ],
+  [
+    "A place for a Follower to sleep. Very unstable, will often collapse.",
+    "Um lugar para o Seguidor dormir. É muito instável e desaba com frequência."
+  ],
+  [
+    "Body Pit",
+    "Cova"
+  ],
+  [
+    "Bury dead Followers in a simple pit. Avoids rotting corpses.",
+    "Enterre os Seguidores mortos de um jeito simples. Evita cadáveres em decomposição."
+  ],
+  [
+    "Basic Decorations",
+    "Decorações Básicas"
+  ],
+  [
+    "Unlocks Basic Decorations. A collection of simple decorations, to beautify your base.",
+    "Desbloqueia Decorações Básicas. Uma coleção de decorações simples que deixam sua base mais bonita."
+  ],
+  [
+    "Shelter",
+    "Abrigo"
+  ],
+  [
+    "Upgrade to a more stable shelter, which will collapse less often.",
+    "Aprimore para um abrigo mais estável que desabará menos vezes."
+  ],
+  [
+    "Healing Bay",
+    "Compartimento de Cura"
+  ],
+  [
+    "A station for you to heal sick Followers.",
+    "Uma estação para você curar Seguidores doentes"
+  ],
+  [
+    "Grand Shelter",
+    "Abrigo Grande"
+  ],
+  [
+    "Give your Follower the luxury they deserve. Collects Devotion  while they sleep. Never collapses.",
+    "Dê ao seu Seguidor o luxo que ele merece. Colete Devoção  enquanto ele dorme. Nunca desaba."
+  ],
+  [
+    "Healing Bay II",
+    "Compartimento de Cura II"
+  ],
+  [
+    "A station for you to heal sick Followers. Requires less resources",
+    "Uma estação para você curar Seguidores doentes. Requer menos recursos"
+  ],
+  [
+    "Outhouse",
+    "Banheiro Externo"
+  ],
+  [
+    "Give your Followers somewhere to relieve themselves.",
+    "Dê um lugar para seus Seguidores se aliviarem"
+  ],
+  [
+    "Janitor Station",
+    "Estação do Zelador"
+  ],
+  [
+    "A building that allows Followers to clean up their own mess.",
+    "Uma construção que permite que os Seguidores limpem suas bagunças"
+  ],
+  [
+    "Janitor Station II",
+    "Estação de Limpeza II"
+  ],
+  [
+    "A building that allows Followers to clean up their own mess. Followers will also clean outhouses.",
+    "Uma construção que permite que os Seguidores limpem suas bagunças. Os Seguidores também limparão os Banheiros Externos."
+  ],
+  [
+    "Outhouse II",
+    "Banheiro Externo II"
+  ],
+  [
+    "Give your Followers somewhere nice to relieve themselves. Higher capacity.",
+    "Dê um bom lugar para seus Seguidores se aliviarem. Tem maior capacidade."
+  ],
+  [
+    "Prison",
+    "Prisão"
+  ],
+  [
+    "Holds naughty Followers.",
+    "Detém os Seguidores desobedientes"
+  ],
+  [
+    "Confession Booth",
+    "Confessionário"
+  ],
+  [
+    "Hear a Follower's confession to increase their Loyalty. Can be used once a day.",
+    "Ouça as confissões de um Seguidor para aumentar sua Lealdade dele. Pode ser usado uma vez por dia."
+  ],
+  [
+    "Propaganda Speakers",
+    "Alto-Falantes de Propaganda"
+  ],
+  [
+    "Ensure your Followers hear your message. When within range of speakers, Followers will work and pray 20% faster.",
+    "Garanta que seus Seguidores ouçam sua palavra. Quando estiverem dentro do alcance dos alto-falantes, os Seguidores trabalharão e rezarão 20% mais rápido."
+  ],
+  [
+    "Offering Statue",
+    "Estátua de Oferendas"
+  ],
+  [
+    "A statue where Followers can leave Offerings in your honour.",
+    "Uma estátua na qual Seguidores podem deixar Oferendas em sua homenagem."
+  ],
+  [
+    "Tabernacle",
+    "Tabernáculo"
+  ],
+  [
+    "A place for Followers who are not worshipping to pray throughout the day and deposit Devotion.",
+    "Um lugar para os Seguidores que não estiverem adorando rezarem no decorrer do dia e depositarem Devoção."
+  ],
+  [
+    "Tabernacle II",
+    "Tabernáculo II"
+  ],
+  [
+    "A place for Followers who are not worshipping to pray throughout the day and deposit Devotion.",
+    "Um lugar para os Seguidores que não estiverem adorando rezarem no decorrer do dia e depositarem Devoção."
+  ],
+  [
+    "Tabernacle III",
+    "Tabernáculo III"
+  ],
+  [
+    "A place for Followers who are not worshipping to pray throughout the day and deposit Devotion.",
+    "Um lugar para os Seguidores que não estiverem adorando rezarem no decorrer do dia e depositarem Devoção."
+  ],
+  [
+    "Shrine Flame Bundle",
+    "Pacote Chama do Santuário"
+  ],
+  [
+    "A place for your Followers to pray. The shrine will hold the Devotion  they create.",
+    "Um lugar para seus Seguidores rezarem. O santuário manterá a Devoção  que gerar."
+  ],
+  [
+    "Shrine Flame II",
+    "Chama do Santuário II"
+  ],
+  [
+    "Feed the cleansing fire and harvest more Devotion.",
+    "Alimente o fogo purificador e colha mais Devoção."
+  ],
+  [
+    "Shrine Flame III",
+    "Chama do Santuário III"
+  ],
+  [
+    "Blaze the cleansing fire and harvest more Devotion.",
+    "Incendeie o fogo purificador e colha mais Devoção."
+  ],
+  [
+    "Cheaper Rituals",
+    "Rituais Mais Baratos"
+  ],
+  [
+    "Rituals cost 25% less.",
+    "Custo dos rituais diminui em 25%."
+  ],
+  [
+    "Ritual Cool Downs",
+    "Recarga de Rituais"
+  ],
+  [
+    "Reduce Ritual cool downs by 25%",
+    "Diminui o tempo de recarga dos Rituais em 25%"
+  ],
+  [
+    "Demonic Summoning Circle III",
+    "Círculo de Invocação Demoníaca III"
+  ],
+  [
+    "Upgraded Demonic Summoning Circle. Summon 3 demons at a time.",
+    "Círculo de Invocação Demoníaca aprimorado. Invoca 3 demônios por vez."
+  ],
+  [
+    "Crypt I",
+    "Cripta I"
+  ],
+  [
+    "Lay multiple dead Followers to rest. Avoids rotting corpses.",
+    "Posicione vários Seguidores mortos para que eles descansem. Evita o apodrecimento de cadáveres."
+  ],
+  [
+    "Crypt II",
+    "Cripta II"
+  ],
+  [
+    "Lay multiple dead Followers to rest. Avoids rotting corpses. Holds more dead.",
+    "Posicione vários Seguidores mortos para que eles descansem. Retém mais mortos."
+  ],
+  [
+    "Crypt III",
+    "Cripta III"
+  ],
+  [
+    "Lay multiple dead Followers to rest. Avoids rotting corpses. Holds even more dead.",
+    "Posicione vários Seguidores mortos para que eles descansem. Retém ainda mais mortos."
+  ],
+  [
+    "Kitchen",
+    "Cozinha"
+  ],
+  [
+    "Allows Followers to cook meals for their fellow Cult members.",
+    "Permite que os Seguidores cozinhem refeições para os colegas membros do Culto."
+  ],
+  [
+    "Shared Shelter",
+    "Abrigo Compartilhado"
+  ],
+  [
+    "A place for multiple Followers to sleep. Never collapses.",
+    "Um lugar onde vários Seguidores podem dormir. Nunca desaba."
+  ],
+  [
+    "Morgue I",
+    "Necrotério I"
+  ],
+  [
+    "Followers can collect and store bodies while you are away here, but it must be emptied before it is full or it will cause illness.",
+    "Seguidores podem coletar e armazenar corpos aqui na sua ausência, mas deverá ser esvaziado para não ficar cheio e causar doenças."
+  ],
+  [
+    "Morgue II",
+    "Necrotério II"
+  ],
+  [
+    "Followers can collect and store bodies while you are away here, but it must be emptied before it is full or it will cause illness.",
+    "Seguidores podem coletar e armazenar corpos aqui na sua ausência, mas deverá ser esvaziado para não ficar cheio e causar doenças."
+  ],
+  [
+    "Fertiliser Storage",
+    "Armazém de Fertilizantes"
+  ],
+  [
+    "Followers will collect Fertiliser in storage to refill Fertiliser Silos.",
+    "Seguidores coletarão Fertilizante no armazém para reabastecer os Silos de Fertilizantes."
+  ],
+  [
+    "Seed Storage",
+    "Armazém de Sementes"
+  ],
+  [
+    "Followers will collect Seeds in storage to refill Seed Silos.",
+    "Seguidores coletarão Sementes no armazém para reabastecer os Silo de Sementes."
+  ],
+  [
+    "Empowered Shrine of Disciples",
+    "Santuário dos Discípulos Fortalecido"
+  ],
+  [
+    "Disciples pray at this Shrine to give you boosts while Crusading.",
+    "Discípulos rezam neste Santuário para fortalecer você durante as Cruzadas."
+  ],
+  [
+    "Collected Shrine of Disciples",
+    "Santuário dos Discípulos Coletor"
+  ],
+  [
+    "Disciples will collect Devotion  from other structures within radius and deposit it here.",
+    "Discípulos coletarão Devoção  de outras estruturas dentro de seu raio para depositá-la aqui."
+  ],
+  [
+    "Drinkhouse",
+    "Taverna"
+  ],
+  [
+    "Brew drinks for your Followers to generate Sin",
+    "Prepare bebidas para seus Seguidores, que gerarão Pecado"
+  ],
+  [
+    "Mating Tent",
+    "Barraca de Acasalamento"
+  ],
+  [
+    "Invite two Followers to decide if they wish to make an Egg together. Costs Sin   Also unlocks the Hatchery.",
+    "Convide dois Seguidores para decidirem se desejam produzir um Ovo juntos. Custa Pecado   Também desbloqueia a Chocadeira."
+  ],
+  [
+    "Hatchery II",
+    "Chocadeira II"
+  ],
+  [
+    "A place for eggs to hatch. Eggs will hatch quicker.",
+    "Um lugar para chocar ovos. Chocará os ovos mais rápido."
+  ],
+  [
+    "Tailor",
+    "Alfaiataria"
+  ],
+  [
+    "Create outfits for Followers to keep them stylish.",
+    "Crie trajes para manter os Seguidores estilosos."
+  ],
+  [
+    "Drinkhouse II",
+    "Taverna II"
+  ],
+  [
+    "Brew drinks for your Followers to generate Sin   Stores more drinks.",
+    "Prepare bebidas para seus Seguidores, que gerarão Pecado   Armazena mais bebidas."
+  ],
+  [
+    "Drum Circle",
+    "Círculo de Tambores"
+  ],
+  [
+    "Perform at the Drum Circle and let the rhythmic beats tempt the faithful... Generates Sin",
+    "Utilize o Círculo de Tambores e deixe que as batidas rítmicas cativem os fiéis... Gera Pecado"
+  ],
+  [
+    "Re-Indoctrination Stone",
+    "Pedra da Redoutrinação"
+  ],
+  [
+    "Unlock the ablity to reform a Follower from Indoctrination Stone.",
+    "Desbloqueie a habilidade de corrigir um Seguidor pela Pedra da Doutrinação."
+  ],
+  [
+    "Leader Tent",
+    "Barraca de Líder"
+  ],
+  [
+    "A resting place worthy of a glorious Leader, and their Crown.",
+    "Um lugar de descanso para Líderes ilustres e sua Coroa."
+  ],
+  [
+    "Nursery",
+    "Berçário"
+  ],
+  [
+    "Place babies in the Nursery to more easily care for them.",
+    "Deixe os bebês no Berçário para cuidar deles mais facilmente."
+  ],
+  [
+    "Hearts of the Faithful",
+    "Corações dos Fiéis I"
+  ],
+  [
+    "Permanently gain half a Heart.",
+    "Ganha meio Coração permanentemente."
+  ],
+  [
+    "Merciless Weapons",
+    "Armas Impiedosas"
+  ],
+  [
+    "Merciless Weapons have a chance to deal a Critical Hit when attacking enemies.    They will appear on your Crusades.",
+    "Armas Impiedosas têm chance de causar um Acerto Crítico ao atacar inimigos.    Elas aparecerão nas suas Cruzadas."
+  ],
+  [
+    "Bane Weapons",
+    "Armas Peçonhentas"
+  ],
+  [
+    "Bane Weapons have a chance of poisoning enemies when attacking.    They will appear on your Crusades.",
+    "Armas Peçonhentas têm chance de envenenar inimigos ao atacá-los.    Elas aparecerão nas suas Cruzadas."
+  ],
+  [
+    "Zealous Weapons",
+    "Armas Zelosas"
+  ],
+  [
+    "Zealous Weapons will cause collected Fervour  to increase your Divine Inspiration bar.    They will appear on your Crusades.",
+    "Armas Zelosas farão com que o Fervor  coletado aumente sua barra de Inspiração Divina.    Elas aparecerão nas suas Cruzadas."
+  ],
+  [
+    "Necromantic Weapons",
+    "Armas Necromânticas"
+  ],
+  [
+    "Necromantic Weapons have a chance to summon dangerous ghosts from dead enemies that attack nearby foes.    They will appear on your Crusades.",
+    "Armas Necromânticas liberam fantasmas perigosos de inimigos mortos que atacam adversários próximos.    Elas aparecerão nas suas Cruzadas."
+  ],
+  [
+    "Vampiric Weapons",
+    "Armas Vampíricas"
+  ],
+  [
+    "Vampiric Weapons have a chance to heal the wielder using the life force of a slain foe.   They will appear on your Crusades.",
+    "Armas Vampíricas têm chance de curar seu portador com a força vital de um inimigo morto.   Elas aparecerão nas suas Cruzadas."
+  ],
+  [
+    "Godly Weapons",
+    "Armas Celestiais"
+  ],
+  [
+    "Godly Weapons deal significantly more damage than mortal weapons, but are rare.   They will appear on your Crusades.",
+    "Armas Celestiais causam dano consideravelmente maior que as armas de mortais, mas são raras.   Elas aparecerão nas suas Cruzadas."
+  ],
+  [
+    "Fervour of the Righteous I",
+    "Fervor do Virtuoso I"
+  ],
+  [
+    "Increase the total amount of Fervour you can hold, allowing you to cast an additional Curse.",
+    "Aumenta o total de Fervor que você pode manter e permite que você lance uma Maldição adicional."
+  ],
+  [
+    "Fervour of the Righteous II",
+    "Fervor do Virtuoso II"
+  ],
+  [
+    "Increase the total amount of Fervour you can hold, allowing you to cast an additional Curse.",
+    "Aumenta o total de Fervor que você pode manter e permite que você lance uma Maldição adicional."
+  ],
+  [
+    "Curse of the Horde",
+    "Maldição da Horda"
+  ],
+  [
+    "Unlocks Curse of the Horde.",
+    "Desbloqueia Maldição da Horda."
+  ],
+  [
+    "Curse of the Occultist",
+    "Maldição do Ocultismo"
+  ],
+  [
+    "Unlocks Curse of the Occultist.",
+    "Desbloqueia Maldição do Ocultismo."
+  ],
+  [
+    "Curse of the Tundra",
+    "Maldição da Tundra"
+  ],
+  [
+    "Unlocks Curse of the Tundra.",
+    "Desbloqueia Maldição da Tundra."
+  ],
+  [
+    "Curse of the Necromancer",
+    "Maldição da Necromancia"
+  ],
+  [
+    "Unlocks Curse of the Necromancer.",
+    "Desbloqueia Maldição da Necromancia."
+  ],
+  [
+    "Curse of the Beguiler",
+    "Maldição da Trapaça"
+  ],
+  [
+    "Unlocks Curse of the Beguiler.",
+    "Desbloqueia Maldição da Trapaça."
+  ],
+  [
+    "Might of the Devout I",
+    "Poder do Devoto I"
+  ],
+  [
+    "Increase the starting level of weapons when you begin a new Crusade.",
+    "Aumenta o nível inicial das armas quando você começa uma nova Cruzada."
+  ],
+  [
+    "Hearts of the Faithful II",
+    "Corações dos Fiéis II"
+  ],
+  [
+    "Permanently gain half a Heart.",
+    "Ganha meio Coração permanentemente."
+  ],
+  [
+    "Might of the Devout II",
+    "Poder do Devoto II"
+  ],
+  [
+    "Increase the starting level of weapons when you begin a new Crusade.",
+    "Aumenta o nível inicial das armas quando você começa uma nova Cruzada."
+  ],
+  [
+    "Might of the Devout III",
+    "Poder do Devoto III"
+  ],
+  [
+    "Increase the starting level of weapons when you begin a new Crusade.",
+    "Aumenta o nível inicial das armas quando você começa uma nova Cruzada."
+  ],
+  [
+    "Might of the Devout IV",
+    "Poder do Devoto IV"
+  ],
+  [
+    "Increase the starting level of weapons when you begin a new Crusade.",
+    "Aumenta o nível inicial das armas quando você começa uma nova Cruzada."
+  ],
+  [
+    "Might of the Devout V",
+    "Poder do Devoto V"
+  ],
+  [
+    "Increase the starting level of weapons when you begin a new Crusade.",
+    "Aumenta o nível inicial das armas quando você começa uma nova Cruzada."
+  ],
+  [
+    "Weapon Mastery",
+    "Domínio de Armas"
+  ],
+  [
+    "Press the Heavy Attack button to perform a Heavy Attack. Each weapon has its own unique move.",
+    "Pressione o botão de Ataque Pesado para realizar um Ataque Pesado. Cada arma tem seu movimento único."
+  ],
+  [
+    "Sword Mastery",
+    "Domínio de Espadas"
+  ],
+  [
+    "Increase the damage dealt by the Sword's Heavy Attack.",
+    "Aumente o dano causado pelo Ataque Pesado da Espada."
+  ],
+  [
+    "Axe Mastery",
+    "Domínio de Machados"
+  ],
+  [
+    "Increase the range and damage dealt by throwing the Axe.",
+    "Aumente o alcance e o dano causado ao lançar o Machado."
+  ],
+  [
+    "Dagger Mastery",
+    "Domínio de Adagas"
+  ],
+  [
+    "Increase the number of, and damage dealt by, thrown Daggers.",
+    "Aumente o número e o dano causado por Adagas lançadas."
+  ],
+  [
+    "Hammer Mastery",
+    "Domínio de Martelos"
+  ],
+  [
+    "Increase the damage dealt by the Charged Hammer.",
+    "Aumente o dano causado pelo Martelo Carregado."
+  ],
+  [
+    "Gauntlets Mastery",
+    "Domínio de Manoplas"
+  ],
+  [
+    "Increase the damage dealt by the Gauntlet's Spin Attack.",
+    "Aumente o dano causado pelo Ataque Giratório da Manopla."
+  ],
+  [
+    "Eyes of the Lost Relics",
+    "Olhos das Relíquias Perdidas"
+  ],
+  [
+    "New Relics will appear on your Crusades.",
+    "Novas Relíquias aparecerão nas suas Cruzadas."
+  ],
+  [
+    "Blessings of the Relics",
+    "Bênçãos das Relíquias"
+  ],
+  [
+    "Unlock Blessed Relics. Some Relics will randomly appear as Blessed versions of themselves.",
+    "Desbloqueie Relíquias Abençoadas. Algumas Relíquias aparecerão aleatoriamente como versões Abençoadas de si mesmas."
+  ],
+  [
+    "Damnation of the Relics",
+    "Maldição das Relíquias"
+  ],
+  [
+    "Unlock Damned Relics. Some Relics will randomly appear as Damned versions of themselves.",
+    "Desbloqueie Relíquias Malditas. Algumas Relíquias aparecerão aleatoriamente como versões Condenadas de si mesmas."
+  ],
+  [
+    "Kudaai's Blessing",
+    "Benção de Kudaai"
+  ],
+  [
+    "Resummon a Weapon or Curse, but it's level will be reduced by 1. Only works in the entrance room.",
+    "Reinvoque uma Arma ou Maldição, mas ela terá 1 nível rebaixado. Funciona apenas na sala de entrada."
+  ],
+  [
+    "Might of the Devout VI",
+    "Poder do Devoto VI"
+  ],
+  [
+    "Increase the starting level of weapons when you begin a new Crusade.",
+    "Aumenta o nível inicial das armas quando você começa uma nova Cruzada."
+  ],
+  [
+    "Blunderbuss Mastery",
+    "Domínio de Bacamartes"
+  ],
+  [
+    "Increase the range and damage of the Blunderbuss.",
+    "Aumente o alcance e o dano do Bacamarte."
+  ],
+  [
+    "Consecrate resources into wooden planks, stone blocks and gold bars.",
+    "Consagre recursos para obter tábuas de madeira, blocos de pedra e barras de ouro."
+  ]
+]

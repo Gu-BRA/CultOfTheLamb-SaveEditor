@@ -1,0 +1,1075 @@
+[
+  {
+    "name": "Deer",
+    "variant": [
+      "Deer",
+      "Deer2",
+      "Deer3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Pig",
+    "variant": [
+      "Pig",
+      "Pig2",
+      "Pig3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Cow",
+    "variant": [
+      "Cow",
+      "Cow2",
+      "Cow3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Dog",
+    "variant": [
+      "Dog",
+      "Dog2",
+      "Dog3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Giraffe",
+    "variant": [
+      "Giraffe",
+      "Giraffe2",
+      "Giraffe3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Cat",
+    "variant": [
+      "Cat",
+      "Cat2",
+      "Cat3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Horse",
+    "variant": [
+      "Horse",
+      "Horse2",
+      "Horse3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Deer Ritual",
+    "variant": [
+      "Deer_ritual",
+      "Deer_ritual2",
+      "Deer_ritual3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Bear",
+    "variant": [
+      "Bear",
+      "Bear2",
+      "Bear3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Bison",
+    "variant": [
+      "Bison",
+      "Bison2",
+      "Bison3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Crocodile",
+    "variant": [
+      "Crocodile",
+      "Crocodile2",
+      "Crocodile3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Elephant",
+    "variant": [
+      "Elephant",
+      "Elephant2",
+      "Elephant3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Fox",
+    "variant": [
+      "Fox",
+      "Fox2",
+      "Fox3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Hedgehog",
+    "variant": [
+      "Hedgehog",
+      "Hedgehog2",
+      "Hedgehog3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Hippo",
+    "variant": [
+      "Hippo",
+      "Hippo2",
+      "Hippo3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Night Wolf",
+    "variant": [
+      "Nightwolf",
+      "Nightwolf2",
+      "Nightwolf3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Pangolin",
+    "variant": [
+      "Pangolin",
+      "Pangolin2",
+      "Pangolin3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Rabbit",
+    "variant": [
+      "Rabbit",
+      "Rabbit2",
+      "Rabbit3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Shrew",
+    "variant": [
+      "Shrew",
+      "Shrew2",
+      "Shrew3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Unicorn",
+    "variant": [
+      "Unicorn",
+      "Unicorn2",
+      "Unicorn3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Frog",
+    "variant": [
+      "Frog",
+      "Frog2",
+      "Frog3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Mama Worm",
+    "variant": [
+      "Boss Mama Worm"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Mama Maggot",
+    "variant": [
+      "Boss Mama Maggot"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Flying Burp Frog",
+    "variant": [
+      "Boss Flying Burp Frog"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Egg Hopper",
+    "variant": [
+      "Boss Egg Hopper"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Burrow Worm",
+    "variant": [
+      "Boss Burrow Worm"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Mortar Hopper",
+    "variant": [
+      "Boss Mortar Hopper"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Scuttle Turret",
+    "variant": [
+      "Boss Scuttle Turret"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Spiker",
+    "variant": [
+      "Boss Spiker"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Charger",
+    "variant": [
+      "Boss Charger"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Beholder 1",
+    "variant": [
+      "Boss Beholder 1"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Beholder 2",
+    "variant": [
+      "Boss Beholder 2"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Beholder 3",
+    "variant": [
+      "Boss Beholder 3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Beholder 4",
+    "variant": [
+      "Boss Beholder 4"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Spider Jump",
+    "variant": [
+      "Boss Spider Jump"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Millipede Poisoner",
+    "variant": [
+      "Boss Millipede Poisoner"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Scorpion",
+    "variant": [
+      "Boss Scorpion"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Axolotl",
+    "variant": [
+      "Axolotl",
+      "Axolotl2",
+      "Axolotl3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Starfish",
+    "variant": [
+      "Starfish",
+      "Starfish2",
+      "Starfish3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Fish",
+    "variant": [
+      "Fish",
+      "Fish2",
+      "Fish3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Bat",
+    "variant": [
+      "Bat",
+      "Bat2",
+      "Bat3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Beetle",
+    "variant": [
+      "Beetle",
+      "Beetle2",
+      "Beetle3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Capybara",
+    "variant": [
+      "Capybara",
+      "Capybara2",
+      "Capybara3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Fennec Fox",
+    "variant": [
+      "Fennec Fox",
+      "Fennec Fox2",
+      "Fennec Fox3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Otter",
+    "variant": [
+      "Otter",
+      "Otter2",
+      "Otter3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Red Panda",
+    "variant": [
+      "Red Panda",
+      "Red Panda2",
+      "Red Panda3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Seahorse",
+    "variant": [
+      "Seahorse",
+      "Seahorse2",
+      "Seahorse3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Death Cat",
+    "variant": [
+      "Boss Death Cat"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Bee",
+    "variant": [
+      "Bee",
+      "Bee2",
+      "Bee3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Tapir",
+    "variant": [
+      "Tapir",
+      "Tapir2",
+      "Tapir3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Turtle",
+    "variant": [
+      "Turtle",
+      "Turtle2",
+      "Turtle3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Monkey",
+    "variant": [
+      "Monkey",
+      "Monkey2",
+      "Monkey3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Narwal",
+    "variant": [
+      "Narwal",
+      "Narwal2",
+      "Narwal3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Poop",
+    "variant": [
+      "Poop",
+      "Poop2"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Massive Monster",
+    "variant": [
+      "MassiveMonster",
+      "MassiveMonster2"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Crab",
+    "variant": [
+      "Crab",
+      "Crab2",
+      "Crab3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Snail",
+    "variant": [
+      "Snail",
+      "Snail2",
+      "Snail3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Cthulhu",
+    "variant": [
+      "Cthulhu",
+      "Cthulhu2",
+      "Cthulhu3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Twitch Mouse",
+    "variant": [
+      "TwitchMouse",
+      "TwitchMouse2",
+      "TwitchMouse3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Twitch Cat",
+    "variant": [
+      "TwitchCat",
+      "TwitchCat2",
+      "TwitchCat3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Twitch Dog",
+    "variant": [
+      "TwitchDog"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Twitch Dog (Alt)",
+    "variant": [
+      "TwitchDogAlt"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Twitch Poggers",
+    "variant": [
+      "TwitchPoggers"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Rhino",
+    "variant": [
+      "Rhino",
+      "Rhino2",
+      "Rhino3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Racoon",
+    "variant": [
+      "Raccoon",
+      "Raccoon2",
+      "Raccoon3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Badger",
+    "variant": [
+      "Badger",
+      "Badger2",
+      "Badger3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Crow",
+    "variant": [
+      "Crow",
+      "Crow2",
+      "Crow3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Bat Demon",
+    "variant": [
+      "BatDemon",
+      "BatDemon2",
+      "BatDemon3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Deer Skull",
+    "variant": [
+      "DeerSkull",
+      "DeerSkull2",
+      "DeerSkull3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Lion",
+    "variant": [
+      "Lion",
+      "Lion2",
+      "Lion3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Penguin",
+    "variant": [
+      "Penguin",
+      "Penguin2",
+      "Penguin3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "StarBunny",
+    "variant": [
+      "StarBunny"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Chicken",
+    "variant": [
+      "Chicken",
+      "Chicken2",
+      "Chicken3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Owl",
+    "variant": [
+      "Owl",
+      "Owl2",
+      "Owl3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Boss Baal",
+    "variant": [
+      "Duck",
+      "Duck2",
+      "Duck3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Squirrel",
+    "variant": [
+      "Squirrel",
+      "Squirrel2",
+      "Squirrel3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Eagle",
+    "variant": [
+      "Eagle",
+      "Eagle2",
+      "Eagle3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Butterfly",
+    "variant": [
+      "Butterfly",
+      "Butterfly2",
+      "Butterfly3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "CultLeader 1",
+    "variant": [
+      "CultLeader 1"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "CultLeader 2",
+    "variant": [
+      "CultLeader 2"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "CultLeader 3",
+    "variant": [
+      "CultLeader 3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "CultLeader 4",
+    "variant": [
+      "CultLeader 4"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Koala",
+    "variant": [
+      "Koala",
+      "Koala2",
+      "Koala3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Aym",
+    "variant": [
+      "Boss Aym"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Baal",
+    "variant": [
+      "Boss Baal"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Shrimp",
+    "variant": [
+      "Shrimp",
+      "Shrimp2",
+      "Shrimp3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Moose",
+    "variant": [
+      "Moose",
+      "Moose2",
+      "Moose3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Gorilla",
+    "variant": [
+      "Gorilla",
+      "Gorilla2",
+      "Gorilla3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Mosquito",
+    "variant": [
+      "Mosquito",
+      "Mosquito2",
+      "Mosquito3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Pelican",
+    "variant": [
+      "Pelican",
+      "Pelican2",
+      "Pelican3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Goldfish",
+    "variant": [
+      "Goldfish",
+      "Goldfish2",
+      "Goldfish3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Possum",
+    "variant": [
+      "Possum",
+      "Possum2",
+      "Possum3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Kiwi",
+    "variant": [
+      "Kiwi",
+      "Kiwi2",
+      "Kiwi3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "StarBunny",
+    "variant": [
+      "StarBunny"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Webber",
+    "variant": [
+      "Webber",
+      "Webber2",
+      "Webber3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Volvy",
+    "variant": [
+      "Volvy"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Sozo",
+    "variant": [
+      "Sozo"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Mushroom",
+    "variant": [
+      "Mushroom"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Abomination",
+    "variant": [
+      "Abomination",
+      "Abomination2"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Tiger",
+    "variant": [
+      "Tiger",
+      "Tiger2",
+      "Tiger3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Llama",
+    "variant": [
+      "Llama",
+      "Llama2",
+      "Llama3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Lemur",
+    "variant": [
+      "Lemur",
+      "Lemur2",
+      "Lemur3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Hammerhead",
+    "variant": [
+      "Hammerhead",
+      "Hammerhead2",
+      "Hammerhead3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "LadyBug",
+    "variant": [
+      "LadyBug",
+      "LadyBug2",
+      "LadyBug3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Sphynx",
+    "variant": [
+      "Sphynx",
+      "Sphynx2",
+      "Sphynx3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Seal",
+    "variant": [
+      "Seal",
+      "Seal2",
+      "Seal3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Worm",
+    "variant": [
+      "Worm",
+      "Worm2",
+      "Worm3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Caterpillar",
+    "variant": [
+      "Caterpillar",
+      "Caterpillar2",
+      "Caterpillar3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Snake",
+    "variant": [
+      "Snake",
+      "Snake2",
+      "Snake3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Poppy",
+    "variant": [
+      "Poppy",
+      "Poppy2",
+      "Poppy3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Jalala",
+    "variant": [
+      "Jalala"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Rinor",
+    "variant": [
+      "Rinor"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Panda",
+    "variant": [
+      "Panda",
+      "Panda2",
+      "Panda3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Skunk",
+    "variant": [
+      "Skunk",
+      "Skunk2",
+      "Skunk3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Anteater",
+    "variant": [
+      "Anteater",
+      "Anteater2",
+      "Anteater3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Enchida",
+    "variant": [
+      "Enchida",
+      "Enchida2",
+      "Enchida3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Camel",
+    "variant": [
+      "Camel",
+      "Camel2",
+      "Camel3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "ChosenChild",
+    "variant": [
+      "ChosenChild"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "CultLeader 1 Healed",
+    "variant": [
+      "CultLeader 1 Healed"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Heket",
+    "variant": [
+      "CultLeader 2 Healed"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "CultLeader 3 Healed",
+    "variant": [
+      "CultLeader 3 Healed"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "CultLeader 4 Healed",
+    "variant": [
+      "CultLeader 4 Healed"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "DogTeddy",
+    "variant": [
+      "DogTeddy",
+      "DogTeddy2",
+      "DogTeddy3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Orangutan",
+    "variant": [
+      "Orangutan",
+      "Orangutan2",
+      "Orangutan3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Robin",
+    "variant": [
+      "Robin",
+      "Robin2",
+      "Robin3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Trout",
+    "variant": [
+      "Trout",
+      "Trout2",
+      "Trout3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Beaver",
+    "variant": [
+      "Beaver",
+      "Beaver2",
+      "Beaver3"
+    ],
+    "source": "installed-WorshipperData"
+  },
+  {
+    "name": "Lobster",
+    "variant": [
+      "Lobster",
+      "Lobster2",
+      "Lobster3"
+    ],
+    "source": "installed-WorshipperData"
+  }
+]

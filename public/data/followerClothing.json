@@ -1,0 +1,270 @@
+[
+  {
+    "id": 0,
+    "name": "Trajes de Acólito",
+    "gameKey": "None",
+    "description": "Trajes simples para Seguidores simples."
+  },
+  {
+    "id": 1,
+    "name": "Jumper",
+    "gameKey": "Jumper"
+  },
+  {
+    "id": 2,
+    "name": "Singlet",
+    "gameKey": "Singlet"
+  },
+  {
+    "id": 3,
+    "name": "Shirt",
+    "gameKey": "Shirt"
+  },
+  {
+    "id": 4,
+    "name": "Robe",
+    "gameKey": "Robe"
+  },
+  {
+    "id": 5,
+    "name": "Robes Baal",
+    "gameKey": "Robes_Baal"
+  },
+  {
+    "id": 6,
+    "name": "Robes Aym",
+    "gameKey": "Robes_Aym"
+  },
+  {
+    "id": 7,
+    "name": "Vestido de Casamento",
+    "gameKey": "Robes_Fancy",
+    "description": "Um privilégio elegante para alguém especial."
+  },
+  {
+    "id": 8,
+    "name": "Couraça de Guerra",
+    "gameKey": "Warrior",
+    "description": "Mostre ao mundo como você é forte."
+  },
+  {
+    "id": 9,
+    "name": "Raincoat",
+    "gameKey": "Raincoat"
+  },
+  {
+    "id": 10,
+    "name": "Terno de Casamento",
+    "gameKey": "Suit_Fancy",
+    "description": "Um terno elegante para alguém especial."
+  },
+  {
+    "id": 11,
+    "name": "Lã da Primavera",
+    "gameKey": "Cultist_DLC",
+    "description": "Uma lã adorável para celebrar a primavera."
+  },
+  {
+    "id": 12,
+    "name": "Bata Florida",
+    "gameKey": "Cultist_DLC2",
+    "description": "Um vestido exuberante feito com flores."
+  },
+  {
+    "id": 13,
+    "name": "Acólito da Antiga Fé",
+    "gameKey": "Heretic_DLC",
+    "description": "Trajes simples estão saindo da moda."
+  },
+  {
+    "id": 14,
+    "name": "Executor da Antiga Fé",
+    "gameKey": "Heretic_DLC2",
+    "description": "Vestimenta para Executores."
+  },
+  {
+    "id": 15,
+    "name": "Vestimenta Kawaii",
+    "gameKey": "DLC_1",
+    "description": "Apenas para os Seguidores mais fofos."
+  },
+  {
+    "id": 16,
+    "name": "Casaco de Serviçal",
+    "gameKey": "DLC_2",
+    "description": "Bem apresentável e amadeirado."
+  },
+  {
+    "id": 17,
+    "name": "Vestido Gótico",
+    "gameKey": "DLC_3",
+    "description": "Almas sombrias precisam de roupas sombrias."
+  },
+  {
+    "id": 18,
+    "name": "Trajes Místicos",
+    "gameKey": "DLC_4",
+    "description": "Para quem deseja um visual misterioso."
+  },
+  {
+    "id": 19,
+    "name": "Terno de Oficial",
+    "gameKey": "DLC_5",
+    "description": "Um traje estiloso para reger os seguidores."
+  },
+  {
+    "id": 20,
+    "name": "Jaqueta de Chef",
+    "gameKey": "Special_1",
+    "description": "Para quem gosta de culinária."
+  },
+  {
+    "id": 21,
+    "name": "Armadura de Cavalaria",
+    "gameKey": "Special_2",
+    "description": "Armadura nobre para Seguidores valentes."
+  },
+  {
+    "id": 22,
+    "name": "Trajes Cerimoniais",
+    "gameKey": "Special_3",
+    "description": "Vestido enfeitado para ocasiões importantes."
+  },
+  {
+    "id": 23,
+    "name": "Vestido de Empregada",
+    "gameKey": "Special_4",
+    "description": "Perfeito para fazer limpezas."
+  },
+  {
+    "id": 24,
+    "name": "Trajes Chiques",
+    "gameKey": "Special_5",
+    "description": "Os Seguidores mais chiques merecem os trajes mais chiques."
+  },
+  {
+    "id": 25,
+    "name": "Colete de Taverneiro",
+    "gameKey": "Special_6",
+    "description": "Feito para servir."
+  },
+  {
+    "id": 26,
+    "name": "Fantasia de Bobo da Corte",
+    "gameKey": "Special_7",
+    "description": "Todo Culto precisa de um palhaço."
+  },
+  {
+    "id": 27,
+    "name": "Blusa do Campo",
+    "gameKey": "Normal_1",
+    "description": "Para quem trabalha duro."
+  },
+  {
+    "id": 28,
+    "name": "Lã do Trabalho",
+    "gameKey": "Normal_2",
+    "description": "Uma lã arejada para trabalhar até suar."
+  },
+  {
+    "id": 29,
+    "name": "Trajes Esfarrapados",
+    "gameKey": "Normal_3",
+    "description": "Talvez seja o estilo, talvez seja só malfeito."
+  },
+  {
+    "id": 30,
+    "name": "Camisa Acadêmica",
+    "gameKey": "Normal_4",
+    "description": "É o traje ideal para fazer longas reflexões."
+  },
+  {
+    "id": 31,
+    "name": "Trajes Modestos",
+    "gameKey": "Normal_5",
+    "description": "Um vestido modesto com uma cor roxa adorável."
+  },
+  {
+    "id": 32,
+    "name": "Vestido Prático",
+    "gameKey": "Normal_6",
+    "description": "Um traje prático para as tarefas diárias."
+  },
+  {
+    "id": 33,
+    "name": "Saia de Mato",
+    "gameKey": "Normal_7",
+    "description": "Ideal para Seguidores que não gostam de uma vida restrita."
+  },
+  {
+    "id": 34,
+    "name": "Camisa da Noite",
+    "gameKey": "Normal_8",
+    "description": "Um conjunto taciturno, perfeito para espreitar."
+  },
+  {
+    "id": 35,
+    "name": "Roupa de Piquenique",
+    "gameKey": "Normal_9",
+    "description": "Ideal para Seguidores que gostam de diversão."
+  },
+  {
+    "id": 36,
+    "name": "Camisa de Comerciante",
+    "gameKey": "Normal_10",
+    "description": "Perfeita para fazer negócios."
+  },
+  {
+    "id": 37,
+    "name": "Bata da Noitinha",
+    "gameKey": "Normal_11",
+    "description": "Uma bata para usar à noitinha."
+  },
+  {
+    "id": 38,
+    "name": "Jaqueta Polida",
+    "gameKey": "Normal_12",
+    "description": "Uma bela jaqueta para quem deseja um visual de classe alta."
+  },
+  {
+    "id": 39,
+    "name": "Corpo Nu",
+    "gameKey": "Naked",
+    "description": "Sinta a brisa fresca por todo o corpo."
+  },
+  {
+    "id": 40,
+    "name": "Count",
+    "gameKey": "Count"
+  },
+  {
+    "id": 41,
+    "name": "Olimpiano",
+    "gameKey": "DLC_6",
+    "description": "Forte e livre, como os campeões do passado."
+  },
+  {
+    "id": 42,
+    "name": "Casaco de Jalala",
+    "gameKey": "Pilgrim_DLC",
+    "description": "Aquece o peregrino em sua longa jornada."
+  },
+  {
+    "id": 43,
+    "name": "Trajes de Rinor",
+    "gameKey": "Pilgrim_DLC2",
+    "description": "Fácil de vestir e muito resistente."
+  },
+  {
+    "id": 44,
+    "name": "Vestido de Jardim",
+    "gameKey": "Apple_1",
+    "description": "Perfeito para passeios lentos enquanto se colhe flores."
+  },
+  {
+    "id": 45,
+    "name": "Jaqueta de Passeio",
+    "gameKey": "Apple_2",
+    "description": "Nem muito quente, nem muito fria. Uma jaqueta leve."
+  }
+]

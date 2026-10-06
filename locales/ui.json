@@ -1,0 +1,1086 @@
+[
+  [
+    "A save editor for your cult",
+    "Editor de saves do seu culto"
+  ],
+  [
+    "Main navigation",
+    "Navegação principal"
+  ],
+  [
+    "Character",
+    "Personagem"
+  ],
+  [
+    "Inventory Editor",
+    "Inventário"
+  ],
+  [
+    "Quantity",
+    "Quantidade"
+  ],
+  [
+    "Tarot Cards",
+    "Cartas de tarô"
+  ],
+  [
+    "Followers",
+    "Seguidores"
+  ],
+  [
+    "Create random follower",
+    "Gerar seguidor aleatório"
+  ],
+  [
+    "Follower name",
+    "Nome do seguidor"
+  ],
+  [
+    "Enter the new follower's name.",
+    "Informe o nome do novo seguidor."
+  ],
+  [
+    "Leave blank to generate a game-style name.",
+    "Deixe em branco para gerar um nome no estilo do jogo."
+  ],
+  [
+    "Generate name",
+    "Sortear nome"
+  ],
+  [
+    "Create follower",
+    "Criar seguidor"
+  ],
+  [
+    "Follower {name} created with ID {id}.",
+    "Seguidor {name} criado com o ID {id}."
+  ],
+  [
+    "The save does not contain a Followers array.",
+    "O save não contém uma lista de seguidores compatível."
+  ],
+  [
+    "No follower template exists in this save.",
+    "Não há um seguidor modelo neste save para criar outro com segurança."
+  ],
+  [
+    "No random follower forms are available.",
+    "Não há formas de seguidor disponíveis para seleção aleatória."
+  ],
+  [
+    "Could not create the follower.",
+    "Não foi possível criar o seguidor."
+  ],
+  [
+    "Recruiting Followers",
+    "Seguidores a recrutar"
+  ],
+  [
+    "Dead Followers",
+    "Seguidores mortos"
+  ],
+  [
+    "Building Unlocks",
+    "Construções desbloqueadas"
+  ],
+  [
+    "Raw",
+    "Dados JSON"
+  ],
+  [
+    "Language",
+    "Idioma"
+  ],
+  [
+    "Cult Information & Character Stats",
+    "Informações do culto e atributos do personagem"
+  ],
+  [
+    "Cult Name:",
+    "Nome do culto:"
+  ],
+  [
+    "Current Day:",
+    "Dia atual:"
+  ],
+  [
+    "Dungeon Doors Unlocked",
+    "Portas das masmorras desbloqueadas"
+  ],
+  [
+    "Spoiler section",
+    "Seção com spoilers"
+  ],
+  [
+    "The One Who Waits Beaten",
+    "Aquele Que Espera derrotado"
+  ],
+  [
+    "Ratau Killed",
+    "Ratau morto"
+  ],
+  [
+    "Red Hearts:",
+    "Corações vermelhos:"
+  ],
+  [
+    "Spirit Hearts:",
+    "Corações espirituais:"
+  ],
+  [
+    "Diseased Hearts:",
+    "Corações doentes:"
+  ],
+  [
+    "Blue Hearts:",
+    "Corações azuis:"
+  ],
+  [
+    "Molten Hearts:",
+    "Corações derretidos:"
+  ],
+  [
+    "Frozen Hearts:",
+    "Corações congelados:"
+  ],
+  [
+    "Cult Traits",
+    "Doutrinas do Culto"
+  ],
+  [
+    "Cooking Recipes",
+    "Receitas culinárias"
+  ],
+  [
+    "Unlocked?",
+    "Desbloqueado?"
+  ],
+  [
+    "Image",
+    "Imagem"
+  ],
+  [
+    "Name",
+    "Nome"
+  ],
+  [
+    "Description",
+    "Descrição"
+  ],
+  [
+    "Effects",
+    "Efeitos"
+  ],
+  [
+    "Effect",
+    "Efeito"
+  ],
+  [
+    "Effect +",
+    "Efeito +"
+  ],
+  [
+    "Effect ++",
+    "Efeito ++"
+  ],
+  [
+    "Ingredients",
+    "Ingredientes"
+  ],
+  [
+    "Category",
+    "Categoria"
+  ],
+  [
+    "Quality",
+    "Qualidade"
+  ],
+  [
+    "Load a save file!",
+    "Carregue um arquivo de save!"
+  ],
+  [
+    "Search follower",
+    "Buscar seguidor"
+  ],
+  [
+    "Search",
+    "Buscar"
+  ],
+  [
+    "Search...",
+    "Buscar…"
+  ],
+  [
+    "Level:",
+    "Nível:"
+  ],
+  [
+    "Delete",
+    "Excluir"
+  ],
+  [
+    "Edit",
+    "Editar"
+  ],
+  [
+    "Revive",
+    "Ressuscitar"
+  ],
+  [
+    "You have no follower!",
+    "Você não tem seguidores!"
+  ],
+  [
+    "You have no recruiting follower!",
+    "Você não tem seguidores a recrutar!"
+  ],
+  [
+    "You have no dead follower! Go kill some!",
+    "Você não tem seguidores mortos!"
+  ],
+  [
+    "Work in Progress",
+    "Em desenvolvimento"
+  ],
+  [
+    "Left Branch",
+    "Ramo esquerdo"
+  ],
+  [
+    "Right Branch",
+    "Ramo direito"
+  ],
+  [
+    "Image not available",
+    "Imagem indisponível"
+  ],
+  [
+    "Picture not available",
+    "Imagem indisponível"
+  ],
+  [
+    "Follower ID:",
+    "ID do seguidor:"
+  ],
+  [
+    "Follower Name:",
+    "Nome do seguidor:"
+  ],
+  [
+    "Follower Level:",
+    "Nível do seguidor:"
+  ],
+  [
+    "Day Joined:",
+    "Dia de entrada:"
+  ],
+  [
+    "Follower Age:",
+    "Idade do seguidor:"
+  ],
+  [
+    "Days in your Cult:",
+    "Dias no culto:"
+  ],
+  [
+    "Follower Life Expectancy:",
+    "Expectativa de vida do seguidor:"
+  ],
+  [
+    "Sacrificial Value:",
+    "Valor de sacrifício:"
+  ],
+  [
+    "Follower Outfit:",
+    "Traje do seguidor:"
+  ],
+  [
+    "Follower Skin:",
+    "Forma do seguidor:"
+  ],
+  [
+    "Follower Variant:",
+    "Variante do seguidor:"
+  ],
+  [
+    "Follower Necklace:",
+    "Colar do seguidor:"
+  ],
+  [
+    "Follower Clothing:",
+    "Roupa do seguidor:"
+  ],
+  [
+    "Follower Attribute:",
+    "Atributos do seguidor:"
+  ],
+  [
+    "Starving Indicator",
+    "Indicador de fome"
+  ],
+  [
+    "Married to Leader",
+    "Casado com o líder"
+  ],
+  [
+    "Tax Enforcer",
+    "Coletor de impostos"
+  ],
+  [
+    "Faith Enforcer",
+    "Fiscal da fé"
+  ],
+  [
+    "Skin Preview",
+    "Prévia da forma"
+  ],
+  [
+    "Outfit Preview",
+    "Prévia do traje"
+  ],
+  [
+    "Changing IDs is dangerous and can corrupt your save file, back up your save first.",
+    "Alterar IDs pode corromper seu save. Faça um backup antes de continuar."
+  ],
+  [
+    "You selected",
+    "Você selecionou"
+  ],
+  [
+    "positive trait(s)",
+    "traço(s) positivo(s)"
+  ],
+  [
+    "negative trait(s)",
+    "traço(s) negativo(s)"
+  ],
+  [
+    ", and",
+    ", e"
+  ],
+  [
+    "A trait with a",
+    "Um traço com fundo de"
+  ],
+  [
+    "warning",
+    "aviso"
+  ],
+  [
+    "background is restricted, please use it with caution.",
+    "é restrito. Use com cuidado."
+  ],
+  [
+    "Show restricted traits",
+    "Mostrar traços restritos"
+  ],
+  [
+    "There was an error loading the follower traits",
+    "Ocorreu um erro ao carregar os traços dos seguidores."
+  ],
+  [
+    "Loading...",
+    "Carregando…"
+  ],
+  [
+    "This trait is currently disabled as it conflicts with a cult trait",
+    "Este traço está desativado porque entra em conflito com uma doutrina do culto."
+  ],
+  [
+    "This should be disable if thecult trait is enabled",
+    "Desative este traço se a doutrina correspondente do culto estiver ativa."
+  ],
+  [
+    "Adoration (XP to next level):",
+    "Devoção (XP para o próximo nível):"
+  ],
+  [
+    "Faith:",
+    "Fé:"
+  ],
+  [
+    "Happiness:",
+    "Felicidade:"
+  ],
+  [
+    "Illness:",
+    "Doença:"
+  ],
+  [
+    "Reeducation:",
+    "Reeducação:"
+  ],
+  [
+    "Exhaustion:",
+    "Exaustão:"
+  ],
+  [
+    "Rest:",
+    "Descanso:"
+  ],
+  [
+    "Starvation:",
+    "Fome extrema:"
+  ],
+  [
+    "Satiation:",
+    "Saciedade:"
+  ],
+  [
+    "Save changes",
+    "Salvar alterações"
+  ],
+  [
+    "Reset",
+    "Restaurar"
+  ],
+  [
+    "Close",
+    "Fechar"
+  ],
+  [
+    "Load A New File",
+    "Abrir outro arquivo"
+  ],
+  [
+    "Download Edited Save",
+    "Baixar save editado"
+  ],
+  [
+    "Keep a backup of the original save before replacing it.",
+    "Mantenha uma cópia de segurança do save original antes de substituí-lo."
+  ],
+  [
+    "Edited save downloaded. Replace your original file manually after backing it up.",
+    "Save editado baixado. Faça uma cópia de segurança e substitua o arquivo original manualmente."
+  ],
+  [
+    "The edited save could not be downloaded.",
+    "Não foi possível baixar o save editado."
+  ],
+  [
+    "Upload your save file",
+    "Abra seu arquivo de save"
+  ],
+  [
+    "Cult of the Lamb",
+    "Cult of the Lamb"
+  ],
+  [
+    "Upload your save file below and start editing your save file to your liking.",
+    "Abra seu arquivo abaixo para começar a editar o save."
+  ],
+  [
+    "Make sure you always backup your original save file.",
+    "Sempre faça um backup do seu save original."
+  ],
+  [
+    "After you are done, replace your old save file with the new one.",
+    "Ao terminar, substitua o save antigo pelo novo."
+  ],
+  [
+    "Supports encrypted saves, .mp saves, JSON saves, and macOS slot_0 files using the ZB + GZIP format.",
+    "Aceita saves criptografados, arquivos .mp, saves JSON e arquivos slot_0 do macOS no formato ZB + GZIP."
+  ],
+  [
+    "If you don't know where your save file is located, copy the below path and paste in your file explorer top bar or, if you are on Windows, hit Windows key + R and paste the path in the Run dialog box.",
+    "Para encontrar seu save, copie o caminho abaixo e cole na barra de endereços do gerenciador de arquivos. No Windows, você também pode pressionar Windows + R e colar o caminho na janela Executar."
+  ],
+  [
+    "Save file location Windows:",
+    "Local do save no Windows:"
+  ],
+  [
+    "Save file location MacOS:",
+    "Local do save no MacOS:"
+  ],
+  [
+    "Windows Save File Location",
+    "Local do save no Windows"
+  ],
+  [
+    "macOS Save File Location",
+    "Local do save no macOS"
+  ],
+  [
+    "Copy",
+    "Copiar"
+  ],
+  [
+    "If you don't have a save file, or want to try out the application first before editing your real save file, click the button below to load a test save file.",
+    "Para experimentar o editor antes de alterar seu save, clique abaixo para carregar os dados de exemplo."
+  ],
+  [
+    "Load test data",
+    "Carregar dados de exemplo"
+  ],
+  [
+    "Cancel",
+    "Cancelar"
+  ],
+  [
+    "Warning",
+    "Aviso"
+  ],
+  [
+    "If you indoctrinate The One Who Waits, it will always have the ID \"666\".",
+    "Ao doutrinar Aquele Que Espera, ele sempre terá o ID “666”."
+  ],
+  [
+    "Having multiple followers with the same ID can lead to softlocks or save file corruption.",
+    "Vários seguidores com o mesmo ID podem bloquear o progresso ou corromper o save."
+  ],
+  [
+    "Make sure you have a back up of your save file and don't have more than one Follower sharing the same ID.",
+    "Faça um backup do save e verifique se não há seguidores com IDs duplicados."
+  ],
+  [
+    "Got it boss",
+    "Entendi"
+  ],
+  [
+    "lamb",
+    "cordeiro"
+  ],
+  [
+    "Open file",
+    "Abrir arquivo"
+  ],
+  [
+    "An error occurred while importing the save file.",
+    "Ocorreu um erro ao importar o arquivo de save."
+  ],
+  [
+    "Installed game catalog:",
+    "Catálogo do jogo instalado:"
+  ],
+  [
+    ". Local game text and icons. Internal IDs are in advanced options.",
+    ". Textos e ícones do jogo instalado. IDs internos ficam nas opções avançadas."
+  ],
+  [
+    "Show internal IDs (advanced)",
+    "Mostrar IDs internos (avançado)"
+  ],
+  [
+    "Show internal IDs (weapons, curses and markers)",
+    "Mostrar IDs internos (armas, maldições e marcadores)"
+  ],
+  [
+    "Generic icon",
+    "Ícone genérico"
+  ],
+  [
+    "Internal game ID",
+    "ID interno do jogo"
+  ],
+  [
+    "Items in the save without a description",
+    "Itens presentes no save sem descrição"
+  ],
+  [
+    "Card back — front artwork not identified",
+    "Verso da carta — arte frontal não identificada"
+  ],
+  [
+    "Generic icon: original artwork not identified.",
+    "Ícone genérico: arte original não identificada."
+  ],
+  [
+    "Generic icon: artwork not identified",
+    "Ícone genérico: arte não identificada"
+  ],
+  [
+    "Positive",
+    "Positivo"
+  ],
+  [
+    "Negative",
+    "Negativo"
+  ],
+  [
+    "Special",
+    "Especial"
+  ],
+  [
+    "Not cataloged",
+    "Não catalogado"
+  ],
+  [
+    "Current",
+    "atual"
+  ],
+  [
+    "(current)",
+    " (atual)"
+  ],
+  [
+    "(current, not cataloged)",
+    "(atual, não catalogada)"
+  ],
+  [
+    "(legacy, no preview)",
+    "(legado, sem prévia)"
+  ],
+  [
+    "Colour",
+    "Cor"
+  ],
+  [
+    "Follower colour:",
+    "Cor do seguidor:"
+  ],
+  [
+    "Variant",
+    "Variante"
+  ],
+  [
+    "Clothing variant:",
+    "Variante da roupa:"
+  ],
+  [
+    "Game default",
+    "Padrão do jogo"
+  ],
+  [
+    "Preview not available yet",
+    "Prévia ainda não disponível"
+  ],
+  [
+    "Colour not cataloged — base form",
+    "Cor não catalogada — forma base"
+  ],
+  [
+    "Loading appearance…",
+    "Carregando aparência…"
+  ],
+  [
+    "Greon status preset",
+    "Padrão de status do Greon"
+  ],
+  [
+    "Make Super Follower",
+    "Transformar em Super Seguidor"
+  ],
+  [
+    "Apply Greon's stats",
+    "Aplicar status do Greon"
+  ],
+  [
+    "Apply",
+    "Aplicar"
+  ],
+  [
+    "Preset applied. Click Save changes and then Save to game to write it.",
+    "Padrão aplicado ao formulário. Clique em Salvar alterações e depois em Baixar save editado."
+  ],
+  [
+    "View all preset values",
+    "Ver todos os valores do padrão"
+  ],
+  [
+    "Level",
+    "Nível"
+  ],
+  [
+    "· age",
+    "· idade"
+  ],
+  [
+    "· life",
+    "· vida"
+  ],
+  [
+    "· faith",
+    "· fé"
+  ],
+  [
+    "· happiness",
+    "· felicidade"
+  ],
+  [
+    "traits.",
+    "traços."
+  ],
+  [
+    "Yes",
+    "Sim"
+  ],
+  [
+    "No",
+    "Não"
+  ],
+  [
+    "None",
+    "Nenhum"
+  ],
+  [
+    "Currency",
+    "Recursos e moedas"
+  ],
+  [
+    "Materials",
+    "Materiais"
+  ],
+  [
+    "Food",
+    "Alimentos"
+  ],
+  [
+    "Seeds",
+    "Sementes"
+  ],
+  [
+    "Misc",
+    "Diversos"
+  ],
+  [
+    "Afterlife",
+    "Vida após a morte"
+  ],
+  [
+    "Sustenance",
+    "Sustento"
+  ],
+  [
+    "Work & Worship",
+    "Trabalho e adoração"
+  ],
+  [
+    "Law & Order",
+    "Lei e ordem"
+  ],
+  [
+    "Possessions",
+    "Posses"
+  ],
+  [
+    "Pleasure",
+    "Prazer"
+  ],
+  [
+    "Darkwood",
+    "Floresta Negra"
+  ],
+  [
+    "Anchordeep",
+    "Âncora Profunda"
+  ],
+  [
+    "Silk Cradle",
+    "Berço de Seda"
+  ],
+  [
+    "Flower Necklace",
+    "Colar de flores"
+  ],
+  [
+    "Feather Necklace",
+    "Colar de penas"
+  ],
+  [
+    "Skull Necklace",
+    "Colar de caveira"
+  ],
+  [
+    "Natures Necklace",
+    "Colar da natureza"
+  ],
+  [
+    "Moon Necklace",
+    "Colar da lua"
+  ],
+  [
+    "Loyalty Necklace",
+    "Colar da lealdade"
+  ],
+  [
+    "Demonic Necklace",
+    "Colar demoníaco"
+  ],
+  [
+    "Missionary Necklace",
+    "Colar de missionário"
+  ],
+  [
+    "Golden Skull Necklace",
+    "Colar de caveira dourada"
+  ],
+  [
+    "Rags (before indoctrination)",
+    "Trapos (antes da doutrinação)"
+  ],
+  [
+    "Mission backpack",
+    "Mochila de missão"
+  ],
+  [
+    "Warrior",
+    "Guerreiro"
+  ],
+  [
+    "Follower clothes",
+    "Traje de seguidor"
+  ],
+  [
+    "Custom clothing",
+    "Roupa personalizada"
+  ],
+  [
+    "Worshipper",
+    "Devoto"
+  ],
+  [
+    "Worker",
+    "Trabalhador"
+  ],
+  [
+    "Elder clothes",
+    "Traje de idoso"
+  ],
+  [
+    "Holiday shirt",
+    "Camisa de férias"
+  ],
+  [
+    "Ghost",
+    "Fantasma"
+  ],
+  [
+    "Undertaker",
+    "Agente funerário"
+  ],
+  [
+    "Dissenter",
+    "Dissidente"
+  ],
+  [
+    "Brainwashed",
+    "Lavagem cerebral"
+  ],
+  [
+    "Freezing",
+    "Congelando"
+  ],
+  [
+    "Overheating",
+    "Superaquecendo"
+  ],
+  [
+    "Naked",
+    "Sem roupa"
+  ],
+  [
+    "Injured",
+    "Ferido"
+  ],
+  [
+    "No special outfit",
+    "Nenhum traje especial"
+  ],
+  [
+    "Child",
+    "Criança"
+  ],
+  [
+    "Zombie",
+    "Zumbi"
+  ],
+  [
+    "Baal's robes",
+    "Robes Baal"
+  ],
+  [
+    "Aym's robes",
+    "Robes Aym"
+  ],
+  [
+    "Raincoat",
+    "Capa de chuva"
+  ],
+  [
+    "Jumper",
+    "Suéter"
+  ],
+  [
+    "Singlet",
+    "Regata"
+  ],
+  [
+    "Shirt",
+    "Camisa"
+  ],
+  [
+    "Robe",
+    "Túnica"
+  ],
+  [
+    "Upgrades",
+    "Melhorias"
+  ],
+  [
+    "Divine Inspiration",
+    "Inspiração Divina"
+  ],
+  [
+    "Sermons",
+    "Sermões"
+  ],
+  [
+    "Enable improvements from the Divine Inspiration and Sermons trees.",
+    "Habilite melhorias das árvores de Inspiração Divina e Sermões."
+  ],
+  [
+    "Load a compatible save to edit upgrades.",
+    "Carregue um save compatível para editar as melhorias."
+  ],
+  [
+    "Enabling an upgrade also enables its prerequisites. Disabling it removes dependent upgrades in the same tree.",
+    "Habilitar uma melhoria também habilita seus pré-requisitos. Desabilitá-la remove as melhorias que dependem dela na mesma árvore."
+  ],
+  [
+    "Buildings are unlocked for construction; existing buildings are kept.",
+    "As construções ficam disponíveis para construir; os edifícios existentes são preservados."
+  ],
+  [
+    "Search upgrades",
+    "Buscar melhorias"
+  ],
+  [
+    "Search by name or description",
+    "Busque pelo nome ou pela descrição"
+  ],
+  [
+    "Changes are applied when you save to the game.",
+    "As alterações são aplicadas ao salvar no jogo."
+  ],
+  [
+    "No upgrades found.",
+    "Nenhuma melhoria encontrada."
+  ],
+  [
+    "Tier {tier}",
+    "Nível {tier}"
+  ],
+  [
+    "Unlocked",
+    "Habilitado"
+  ],
+  [
+    "Locked",
+    "Desabilitado"
+  ],
+  [
+    "Choose which buildings, decorations and floors are available in your cult.",
+    "Escolha as construções, decorações e pisos disponíveis no seu culto."
+  ],
+  [
+    "Load a compatible save to edit buildings.",
+    "Carregue um save compatível para editar as construções."
+  ],
+  [
+    "Building categories",
+    "Categorias de construções"
+  ],
+  [
+    "Buildings",
+    "Construções"
+  ],
+  [
+    "Decorations",
+    "Decorações"
+  ],
+  [
+    "Floors",
+    "Pisos"
+  ],
+  [
+    "All",
+    "Todos"
+  ],
+  [
+    "Search buildings",
+    "Buscar construções"
+  ],
+  [
+    "Unlocking makes buildings available for construction. It does not place or remove buildings on the map.",
+    "Desbloquear libera a construção. Isso não coloca nem remove edifícios do mapa."
+  ],
+  [
+    "Divine Inspiration prerequisites are applied automatically, and both tabs stay in sync.",
+    "Os pré-requisitos de Inspiração Divina são aplicados automaticamente, e as duas abas ficam sincronizadas."
+  ],
+  [
+    "{enabled} unlocked of {total}",
+    "{enabled} habilitados de {total}"
+  ],
+  [
+    "No buildings found.",
+    "Nenhuma construção encontrada."
+  ],
+  [
+    "Available by default",
+    "Disponível por padrão"
+  ],
+  [
+    "This save does not contain the required unlock field.",
+    "Este save não contém o campo necessário para o desbloqueio."
+  ],
+  [
+    "Illustrative icon — original artwork unavailable in this game version.",
+    "Ícone ilustrativo — imagem original indisponível nesta versão do jogo."
+  ],
+  [
+    "Clear",
+    "Zerar"
+  ],
+  [
+    "Clear {label}",
+    "Zerar {label}"
+  ],
+  [
+    "Choose heart amount for {label}",
+    "Escolher quantidade de corações para {label}"
+  ],
+  [
+    "units",
+    "unidades"
+  ],
+  [
+    "unit",
+    "unidade"
+  ],
+  [
+    "hearts",
+    "corações"
+  ],
+  [
+    "heart",
+    "coração"
+  ],
+  [
+    "full heart",
+    "coração inteiro"
+  ],
+  [
+    "half heart",
+    "meio coração"
+  ],
+  [
+    "empty heart",
+    "coração vazio"
+  ],
+  [
+    "Click left for {count}; right for {countFull} units.",
+    "Clique à esquerda para {count}; à direita para {countFull} unidades."
+  ],
+  [
+    "Set heart amount to {count}.",
+    "Definir quantidade de corações: {count}."
+  ],
+  [
+    "The save contains more hearts than the 10 displayed.",
+    "O save contém mais corações do que os 10 exibidos."
+  ]
+]

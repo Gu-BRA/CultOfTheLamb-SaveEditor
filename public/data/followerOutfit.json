@@ -1,0 +1,107 @@
+[
+  {
+    "id": 0,
+    "name": "Trapos (antes da doutrinação)",
+    "gameKey": "Rags"
+  },
+  {
+    "id": 1,
+    "name": "Mochila de missão",
+    "gameKey": "Sherpa"
+  },
+  {
+    "id": 2,
+    "name": "Guerreiro",
+    "gameKey": "Warrior"
+  },
+  {
+    "id": 3,
+    "name": "Traje de seguidor",
+    "gameKey": "Follower"
+  },
+  {
+    "id": 4,
+    "name": "Roupa personalizada",
+    "gameKey": "Custom"
+  },
+  {
+    "id": 5,
+    "name": "Devoto",
+    "gameKey": "Worshipper"
+  },
+  {
+    "id": 6,
+    "name": "Trabalhador",
+    "gameKey": "Worker"
+  },
+  {
+    "id": 7,
+    "name": "Traje de idoso",
+    "gameKey": "Old"
+  },
+  {
+    "id": 8,
+    "name": "Camisa de férias",
+    "gameKey": "Holiday"
+  },
+  {
+    "id": 9,
+    "name": "Horse Town",
+    "gameKey": "HorseTown"
+  },
+  {
+    "id": 10,
+    "name": "Fantasma",
+    "gameKey": "Ghost"
+  },
+  {
+    "id": 11,
+    "name": "Agente funerário",
+    "gameKey": "Undertaker"
+  },
+  {
+    "id": 12,
+    "name": "Dissidente",
+    "gameKey": "Dissenter"
+  },
+  {
+    "id": 13,
+    "name": "Lavagem cerebral",
+    "gameKey": "Brainwashed"
+  },
+  {
+    "id": 14,
+    "name": "Congelando",
+    "gameKey": "Freezing"
+  },
+  {
+    "id": 15,
+    "name": "Superaquecendo",
+    "gameKey": "Overheating"
+  },
+  {
+    "id": 16,
+    "name": "Sem roupa",
+    "gameKey": "Naked"
+  },
+  {
+    "id": 17,
+    "name": "Ferido",
+    "gameKey": "Injured"
+  },
+  {
+    "id": 18,
+    "name": "Nenhum outfit especial",
+    "gameKey": "None"
+  },
+  {
+    "id": 19,
+    "name": "Criança",
+    "gameKey": "Child"
+  },
+  {
+    "id": 20,
+    "name": "Zumbi",
+    "gameKey": "Zombie"
+  }
+]

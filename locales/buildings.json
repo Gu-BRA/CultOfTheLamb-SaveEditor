@@ -1,0 +1,1754 @@
+[
+  [
+    "Sleeping Bag",
+    "Saco de Dormir"
+  ],
+  [
+    "A place for a Follower to sleep. Very unstable, will often collapse.",
+    "Um lugar para o Seguidor dormir. É muito instável e desaba com frequência."
+  ],
+  [
+    "Cooking Fire",
+    "Fogueira de Cozinha"
+  ],
+  [
+    "Cook raw items and turn them into Meals  that Followers can eat.",
+    "Cozinhe itens crus e prepare Refeições  para seus Seguidores comerem."
+  ],
+  [
+    "Harvest Totem",
+    "Totem da Colheita"
+  ],
+  [
+    "Increase growth speed of all Farm Plots within range.",
+    "Aumente a velocidade de crescimento de todos os Terrenos Agrícolas ao alcance."
+  ],
+  [
+    "Scarecrow",
+    "Espantalho"
+  ],
+  [
+    "Prevents birds from stealing the seeds from Farm Plots within range.",
+    "Impede que os pássaros roubem sementes dos Terrenos Agrícolas dentro do alcance."
+  ],
+  [
+    "Fire Pit",
+    "Fogueira"
+  ],
+  [
+    "Your Followers will dance here beneath the moonlight to increase their Loyalty to you.",
+    "Seus Seguidores dançarão aqui sob o luar para aumentar a Lealdade deles a você."
+  ],
+  [
+    "Body Pit",
+    "Cova"
+  ],
+  [
+    "Bury dead Followers in a simple pit. Avoids rotting corpses.",
+    "Enterre os Seguidores mortos de um jeito simples. Evita cadáveres em decomposição."
+  ],
+  [
+    "Outhouse",
+    "Banheiro Externo"
+  ],
+  [
+    "Give your Followers somewhere to relieve themselves.",
+    "Dê um lugar para seus Seguidores se aliviarem"
+  ],
+  [
+    "Compost Bin",
+    "Composteira"
+  ],
+  [
+    "Deposit grass to turn it into fertilizer.",
+    "Deposite mato para transformá-lo em fertilizante."
+  ],
+  [
+    "Shelter",
+    "Abrigo"
+  ],
+  [
+    "Upgrade to a more stable shelter, which will collapse less often.",
+    "Aprimore para um abrigo mais estável que desabará menos vezes."
+  ],
+  [
+    "Grave",
+    "Túmulo"
+  ],
+  [
+    "Bury the fallen.",
+    "Enterre os que caíram"
+  ],
+  [
+    "Farmer Station",
+    "Estação da Fazenda"
+  ],
+  [
+    "Farmer Station's allows Followers to water nearby crops.",
+    "A Estação da Fazenda permite que os Seguidores reguem as plantações nas proximidades."
+  ],
+  [
+    "Farmer Station II",
+    "Estação da Fazenda II"
+  ],
+  [
+    "Farmers will be able to harvest your crops and deposit them in a chest for you to collect.",
+    "Fazendeiros poderão fazer as colheitas e depositá-las em um baú para você coletá-las."
+  ],
+  [
+    "Farm Plot",
+    "Terreno Agrícola"
+  ],
+  [
+    "Grow a seed into a crop.",
+    "Faça uma semente virar uma colheita"
+  ],
+  [
+    "Food Storage",
+    "Armazém de Alimentos"
+  ],
+  [
+    "Store meals here to stop them from rotting.",
+    "Armazene as refeições aqui para evitar que apodreçam"
+  ],
+  [
+    "Food Storage II",
+    "Armazém de Alimentos II"
+  ],
+  [
+    "Store more meals here to stop them from rotting.",
+    "Armazene mais refeições aqui para evitar que apodreçam"
+  ],
+  [
+    "Janitor Station",
+    "Estação de Limpeza"
+  ],
+  [
+    "A building that allows Followers to clean up their own mess.",
+    "Uma construção que permite que os Seguidores limpem suas bagunças"
+  ],
+  [
+    "Janitor Station II",
+    "Estação de Limpeza II"
+  ],
+  [
+    "A building that allows Followers to clean up their own mess. Followers will also clean outhouses.",
+    "Uma construção que permite que os Seguidores limpem suas bagunças. Os Seguidores também limparão os Banheiros Externos."
+  ],
+  [
+    "Lumberyard",
+    "Depósito de Madeiras"
+  ],
+  [
+    "A Follower will generate",
+    "Um seguidor gerará"
+  ],
+  [
+    "Lumberyard II",
+    "Depósito de Madeiras II"
+  ],
+  [
+    "A Follower will generate",
+    "Um seguidor gerará"
+  ],
+  [
+    "Stone Mine",
+    "Mina de Pedras"
+  ],
+  [
+    "A Follower will generate",
+    "Um seguidor gerará"
+  ],
+  [
+    "Stone Mine II",
+    "Mina de Pedras II"
+  ],
+  [
+    "A Follower will generate",
+    "Um seguidor gerará"
+  ],
+  [
+    "Propaganda Speakers",
+    "Alto-Falantes de Propaganda"
+  ],
+  [
+    "Ensure your Followers hear your message. When within range of speakers, Followers will work and pray 20% faster.",
+    "Garanta que seus Seguidores ouçam sua palavra. Quando estiverem dentro do alcance dos alto-falantes, os Seguidores trabalharão e rezarão 20% mais rápido."
+  ],
+  [
+    "Missionary",
+    "Missionário"
+  ],
+  [
+    "Send your Followers on a holy quest to gather resources. That is, if they make it back alive...",
+    "Envie seus Seguidores em tarefas sagradas para coletar recursos. Isso se conseguirem voltar com vida."
+  ],
+  [
+    "Missionary II",
+    "Missionário II"
+  ],
+  [
+    "Send two Followers on a holy quest at once. Followers will have a higher likelihood of success and complete their mission more quickly.",
+    "Envie dois Seguidores em uma tarefa sagrada de uma vez só. Os Seguidores têm maior chance de completar a missão com sucesso e mais rapidamente."
+  ],
+  [
+    "Missionary III",
+    "Missionário III"
+  ],
+  [
+    "Send three Followers on a holy quest at once. Followers will have an even higher likelihood of success and complete their mission even more quickly.",
+    "Envie três Seguidores em uma tarefa sagrada de uma vez só. Os Seguidores têm chance ainda maior de completar a missão com sucesso e mais rapidamente."
+  ],
+  [
+    "Demonic Summoning Circle",
+    "Círculo de Invocação Demoníaca"
+  ],
+  [
+    "Possess a Follower with the spirit of a demon so that they can join you on your next Crusade.",
+    "Deixe um Seguidor possuído pelo espírito de um demônio para que ele te acompanhe na sua próxima Cruzada."
+  ],
+  [
+    "Demonic Summoning Circle II",
+    "Círculo de Invocação Demoníaca II"
+  ],
+  [
+    "Upgraded Demonic Summoning Circle. Summon 2 demons at a time.",
+    "Círculo de Invocação Demoníaca aprimorado. Invoca 2 demônios por vez."
+  ],
+  [
+    "Demonic Summoning Circle III",
+    "Círculo de Invocação Demoníaca III"
+  ],
+  [
+    "Upgraded Demonic Summoning Circle. Summon 3 demons at a time.",
+    "Círculo de Invocação Demoníaca aprimorado. Invoca 3 demônios por vez."
+  ],
+  [
+    "Prison",
+    "Prisão"
+  ],
+  [
+    "Holds naughty Followers.",
+    "Detém os Seguidores desobedientes"
+  ],
+  [
+    "Healing Bay",
+    "Compartimento de Cura"
+  ],
+  [
+    "A station for you to heal sick Followers.",
+    "Uma estação para você curar Seguidores doentes"
+  ],
+  [
+    "Improved Healing Bay",
+    "Compartimento de Cura Aprimorado"
+  ],
+  [
+    "A station for you to heal sick Followers. Requires less resources",
+    "Uma estação para você curar Seguidores doentes. Requer menos recursos"
+  ],
+  [
+    "Grand Shelter",
+    "Abrigo Grande"
+  ],
+  [
+    "Give your Follower the luxury they deserve. Collects Devotion  while they sleep. Never collapses.",
+    "Dê ao seu Seguidor o luxo que ele merece. Colete Devoção  enquanto ele dorme. Nunca desaba."
+  ],
+  [
+    "Shared Shelter",
+    "Abrigo Compartilhado"
+  ],
+  [
+    "A place for multiple Followers to sleep. Never collapses.",
+    "Um lugar onde vários Seguidores podem dormir. Nunca desaba."
+  ],
+  [
+    "Seed Silo",
+    "Silo de Sementes"
+  ],
+  [
+    "Put seeds here for your Followers to sow.",
+    "Coloque sementes aqui para que seus Seguidores as plantem"
+  ],
+  [
+    "Fertiliser Silo",
+    "Silo de Fertilizantes"
+  ],
+  [
+    "Put fertiliser here for your Followers to use on Farm Plots.",
+    "Coloque fertilizantes aqui para seus Seguidores usá-los em Terrenos Agrícolas"
+  ],
+  [
+    "Fertiliser Storage",
+    "Armazém de Fertilizantes"
+  ],
+  [
+    "After a Crusade, deposit Fertiliser here. Followers will automatically distribute it to Fertiliser Silos.",
+    "Após uma cruzada, deposite Fertilizante aqui. Os seguidores o distribuirão automaticamente aos Silos de Fertilizantes."
+  ],
+  [
+    "Seed Storage",
+    "Armazém de Sementes"
+  ],
+  [
+    "After a Crusade, deposit seeds here. Followers will automatically distribute them to Seed Silos.",
+    "Após uma cruzada, deposite sementes aqui. Os seguidores as distribuirão automaticamente aos Silos de Sementes."
+  ],
+  [
+    "Surveillance Tower",
+    "Torre de Vigilância"
+  ],
+  [
+    "Peer into the minds of your Followers.",
+    "Dê uma espiada nas mentes de seus Seguidores"
+  ],
+  [
+    "Outhouse II",
+    "Banheiro Externo II"
+  ],
+  [
+    "Give your Followers somewhere nice to relieve themselves. Higher capacity.",
+    "Dê um bom lugar para seus Seguidores se aliviarem. Tem maior capacidade."
+  ],
+  [
+    "Trap Scarecrow",
+    "Armadilha de Espantalho"
+  ],
+  [
+    "Catches birds that try to steal the seeds from Farm Plots within range.",
+    "Captura os pássaros que tentam roubar sementes dos Terrenos Agrícolas dentro do alcance"
+  ],
+  [
+    "Devotion Harvest Totem",
+    "Totem da Colheita da Devoção"
+  ],
+  [
+    "Increase the growth speed of Farm Plots within range, while slowly generating Devotion .",
+    "Aumente a velocidade de cultivo dos Terrenos Agrícolas dentro do alcance enquanto gera Devoção  lentamente."
+  ],
+  [
+    "Chopping Shrine",
+    "Santuário da Madeira"
+  ],
+  [
+    "Allows faster wood chopping.",
+    "Permite que as madeiras sejam cortadas mais rapidamente."
+  ],
+  [
+    "Mining Shrine",
+    "Santuário da Mineração"
+  ],
+  [
+    "Allows faster stone mining.",
+    "Permite uma mineração de pedras mais rápida."
+  ],
+  [
+    "Foraging Shrine",
+    "Santuário da Coleta"
+  ],
+  [
+    "Allows faster foraging.",
+    "Permite uma coleta mais rápida."
+  ],
+  [
+    "Kitchen",
+    "Cozinha"
+  ],
+  [
+    "Allows Followers to cook meals for their fellow Cult members.",
+    "Permite que os Seguidores cozinhem refeições para os colegas membros do Culto."
+  ],
+  [
+    "Morgue",
+    "Necrotério"
+  ],
+  [
+    "Followers can collect and store bodies while you are away here, but it must be emptied before it is full or it will cause illness.",
+    "Seguidores podem coletar e armazenar corpos aqui na sua ausência, mas deverá ser esvaziado para não ficar cheio e causar doenças."
+  ],
+  [
+    "Morgue II",
+    "Necrotério II"
+  ],
+  [
+    "Followers can collect and store bodies while you are away here, but it must be emptied before it is full or it will cause illness.",
+    "Seguidores podem coletar e armazenar corpos aqui na sua ausência, mas deverá ser esvaziado para não ficar cheio e causar doenças."
+  ],
+  [
+    "Crypt",
+    "Cripta"
+  ],
+  [
+    "Lay multiple dead Followers to rest. Avoids rotting corpses.",
+    "Posicione vários Seguidores mortos para que eles descansem. Evita o apodrecimento de cadáveres."
+  ],
+  [
+    "Crypt II",
+    "Cripta II"
+  ],
+  [
+    "Lay multiple dead Followers to rest. Avoids rotting corpses. Holds more dead.",
+    "Posicione vários Seguidores mortos para que eles descansem. Retém mais mortos."
+  ],
+  [
+    "Crypt III",
+    "Cripta III"
+  ],
+  [
+    "Lay multiple dead Followers to rest. Avoids rotting corpses. Holds even more dead.",
+    "Posicione vários Seguidores mortos para que eles descansem. Retém ainda mais mortos."
+  ],
+  [
+    "Drinkhouse",
+    "Taverna"
+  ],
+  [
+    "Brew drinks for your Followers to generate Sin",
+    "Prepare bebidas para seus Seguidores, que gerarão Pecado"
+  ],
+  [
+    "Drinkhouse II",
+    "Taverna II"
+  ],
+  [
+    "Brew drinks for your Followers to generate Sin   Stores more drinks.",
+    "Prepare bebidas para seus Seguidores, que gerarão Pecado   Armazena mais bebidas."
+  ],
+  [
+    "Mating Tent",
+    "Barraca de Acasalamento"
+  ],
+  [
+    "Invite two Followers to decide if they wish to make an Egg together. Costs Sin",
+    "Convide dois Seguidores para decidirem se desejam produzir um Ovo juntos. Custa Pecado"
+  ],
+  [
+    "Hatchery",
+    "Chocadeira"
+  ],
+  [
+    "A place for eggs to hatch.",
+    "Um lugar para chocar ovos."
+  ],
+  [
+    "Hatchery II",
+    "Chocadeira II"
+  ],
+  [
+    "A place for eggs to hatch. Eggs will hatch quicker.",
+    "Um lugar para chocar ovos. Chocará os ovos mais rápido."
+  ],
+  [
+    "Nursery",
+    "Berçário"
+  ],
+  [
+    "Place babies in the Nursery to more easily care for them.",
+    "Deixe os bebês no Berçário para cuidar deles mais facilmente."
+  ],
+  [
+    "Knucklebones Arena",
+    "Arena de Jogo da Bugalha"
+  ],
+  [
+    "Play Knucklebones with your Followers. If you win they gain Loyalty, if you lose they gain nothing.",
+    "Dispute partidas de Jogo da Bugalha com seus Seguidores. Se você ganhar, a Lealdade deles aumenta, se perder, nada muda."
+  ],
+  [
+    "Confession Booth",
+    "Confessionário"
+  ],
+  [
+    "Hear a Follower's confession to increase their Loyalty. Can be used once a day.",
+    "Ouça as confissões de um Seguidor para aumentar sua Lealdade dele. Pode ser usado uma vez por dia."
+  ],
+  [
+    "Temple",
+    "Templo"
+  ],
+  [
+    "Establish a Temple to preach Sermons and perform Rituals.",
+    "Crie um Templo para pregar Sermões e realizar Rituais."
+  ],
+  [
+    "Cult II",
+    "Culto II"
+  ],
+  [
+    "Upgrade Temple and Shrine. Collect more Devotion and allow more Followers to pray.",
+    "Aprimore Templo e Santuário. Colete mais Devoção para que mais Seguidores rezem."
+  ],
+  [
+    "Cult III",
+    "Culto III"
+  ],
+  [
+    "Upgrade Temple and Shrine. Collect more Devotion and allow more Followers to pray.",
+    "Aprimore Templo e Santuário. Colete mais Devoção para que mais Seguidores rezem."
+  ],
+  [
+    "Cult IV",
+    "Culto IV"
+  ],
+  [
+    "Upgrade Temple and Shrine. Collect more Devotion and allow more Followers to pray.",
+    "Aprimore Templo e Santuário. Colete mais Devoção para que mais Seguidores rezem."
+  ],
+  [
+    "Tabernacle",
+    "Tabernáculo"
+  ],
+  [
+    "A place for Followers who are not worshipping to pray throughout the day and deposit Devotion.",
+    "Um lugar para os Seguidores que não estiverem adorando rezarem no decorrer do dia e depositarem Devoção."
+  ],
+  [
+    "Offering Statue",
+    "Estátua de Oferendas"
+  ],
+  [
+    "A statue where Followers can leave Offerings in your honour.",
+    "Uma estátua na qual Seguidores podem deixar Oferendas em sua homenagem."
+  ],
+  [
+    "Shrine",
+    "Santuário"
+  ],
+  [
+    "A place for your Followers to pray. The shrine will hold the Devotion  they create.",
+    "Um lugar para seus Seguidores rezarem. O santuário manterá a Devoção  que gerar."
+  ],
+  [
+    "Shrine II",
+    "Santuário II"
+  ],
+  [
+    "Upgrade your shrine to increase its maximum capacity to 30x  Devotion.",
+    "Aprimore seu santuário para aumentar sua capacidade máxima para 30x  Devoção"
+  ],
+  [
+    "Shrine III",
+    "Santuário III"
+  ],
+  [
+    "Upgrade your shrine to increase its maximum capacity to ???  Devotion.",
+    "Aprimore seu santuário para aumentar sua capacidade máxima para ??? de  Devoção"
+  ],
+  [
+    "Shrine IV",
+    "Santuário IV"
+  ],
+  [
+    "Upgrade your shrine to increase its maximum capacity to ???? Devotion.",
+    "Aprimore seu santuário para aumentar sua capacidade máxima para ???? de Devoção"
+  ],
+  [
+    "Tailor",
+    "Alfaiataria"
+  ],
+  [
+    "Create outfits for Followers to keep them stylish.",
+    "Crie trajes para manter os Seguidores estilosos."
+  ],
+  [
+    "Empowered Shrine of Disciples",
+    "Santuário dos Discípulos Fortalecido"
+  ],
+  [
+    "Disciples pray at this Shrine to give you boosts while Crusading.",
+    "Discípulos rezam neste Santuário para fortalecer você durante as Cruzadas."
+  ],
+  [
+    "Collected Shrine of Disciples",
+    "Santuário dos Discípulos Coletor"
+  ],
+  [
+    "Disciples will collect Devotion  from other structures within radius and deposit it here.",
+    "Discípulos coletarão Devoção  de outras estruturas dentro de seu raio para depositá-la aqui."
+  ],
+  [
+    "Wooden Planks",
+    "Tábuas de Madeira"
+  ],
+  [
+    "A lovely wooden floor.",
+    "Um chão de madeira adorável"
+  ],
+  [
+    "Dirt Flooring",
+    "Piso de Terra"
+  ],
+  [
+    "Only the finest dirt.",
+    "Só o melhor da terra"
+  ],
+  [
+    "Hay Flooring",
+    "Piso de Feno"
+  ],
+  [
+    "Hay to lay upon the ground.",
+    "Feno para cobrir o chão"
+  ],
+  [
+    "Lava Flooring",
+    "Piso de Lava"
+  ],
+  [
+    "Tread with care...",
+    "Siga com cuidado..."
+  ],
+  [
+    "Cobblestone Flooring",
+    "Piso de Pedras Arredondadas"
+  ],
+  [
+    "Sturdy and nostalgic.",
+    "Resistente e nostálgico"
+  ],
+  [
+    "Pond Tile",
+    "Pedaço de Lago"
+  ],
+  [
+    "Create a beautiful pond for your Followers to admire.",
+    "Crie um lindo lago para seus Seguidores admirarem"
+  ],
+  [
+    "Brick Flooring",
+    "Piso de Tijolos"
+  ],
+  [
+    "Follow the road.",
+    "Siga o caminho"
+  ],
+  [
+    "Plank Flooring",
+    "Piso de Madeira"
+  ],
+  [
+    "Wooden planks, perfect for walking.",
+    "Tábuas de madeira, perfeitas para serem pisadas"
+  ],
+  [
+    "Flower Flooring",
+    "Piso de Flores"
+  ],
+  [
+    "Green grass with flowers growing.",
+    "Grama verde com flores"
+  ],
+  [
+    "Red Carpet Flooring",
+    "Piso de Carpete Vermelho"
+  ],
+  [
+    "For the very important.",
+    "Para quem é importante"
+  ],
+  [
+    "Marked Flooring",
+    "Piso Marcado"
+  ],
+  [
+    "Wooden planks with strange markings...",
+    "Tábuas de madeira com marcações estranhas..."
+  ],
+  [
+    "Gold Flooring",
+    "Piso de Ouro"
+  ],
+  [
+    "You are the Leader, after all...",
+    "Você é o Líder, afinal..."
+  ],
+  [
+    "Mosaic Flooring",
+    "Piso de Mosaico"
+  ],
+  [
+    "Perfectly placed patterns.",
+    "Padrões posicionados com perfeição"
+  ],
+  [
+    "Forest Flooring",
+    "Piso da Floresta"
+  ],
+  [
+    "Bring nature to you.",
+    "Traga a floresta até você"
+  ],
+  [
+    "Ancient Stone",
+    "Pedra Antiga"
+  ],
+  [
+    "A cool spooky stone formation.",
+    "Uma formação rochosa descolada e assustadora"
+  ],
+  [
+    "Potted Bush",
+    "Arbusto em Vaso"
+  ],
+  [
+    "A pretty bush in a decorative pot.",
+    "Um belo arbusto em um vaso decorativo"
+  ],
+  [
+    "Torch",
+    "Tocha"
+  ],
+  [
+    "A light source.",
+    "Uma fonte de luz"
+  ],
+  [
+    "Camellia Bed",
+    "Cama de Camélias"
+  ],
+  [
+    "A decorative bed of Camellia flowers.",
+    "Uma cama decorativa feita de Camélias"
+  ],
+  [
+    "Small Stone Candle",
+    "Pequeno Castiçal de Pedra"
+  ],
+  [
+    "An ancient stone holding a single candle.",
+    "Uma pedra antiga com uma única vela"
+  ],
+  [
+    "Flag of the Crown",
+    "Bandeira da Coroa"
+  ],
+  [
+    "A flag bearing the symbol of your Crown.",
+    "Uma bandeira que carrega o símbolo da sua Coroa"
+  ],
+  [
+    "Flag of Scripture",
+    "Bandeira da Escritura"
+  ],
+  [
+    "A flag bearing the scriptures of your Cult.",
+    "Uma bandeira que carrega as escrituras do seu Culto"
+  ],
+  [
+    "Twig Wall",
+    "Parede de Galhos"
+  ],
+  [
+    "Stronger than grass.",
+    "Mais forte que mato"
+  ],
+  [
+    "Lamb Flag Statue",
+    "Estátua do Cordeiro com Bandeira"
+  ],
+  [
+    "A statue of the mighty Lamb.",
+    "Uma estátua do poderoso Cordeiro"
+  ],
+  [
+    "Farm Plot Sign",
+    "Placa de Terreno Agrícola"
+  ],
+  [
+    "Organise your farm with this handy signpost.",
+    "Organize sua fazenda com esta placa bem útil"
+  ],
+  [
+    "Flower Barrow",
+    "Floreira Carrinho de Mão"
+  ],
+  [
+    "A wheelbarrow filled with flowers.",
+    "Um carrinho de mão cheio de flores"
+  ],
+  [
+    "Golden Bell Statue",
+    "Estátua de Sino Dourado"
+  ],
+  [
+    "An arch that houses a golden bell.",
+    "Um arco que abriga um sino dourado"
+  ],
+  [
+    "Bone Arch",
+    "Arco de Ossos"
+  ],
+  [
+    "An arch constructed of bones.",
+    "Um arco construído com ossos"
+  ],
+  [
+    "Barrel of Bones",
+    "Barril de Ossos"
+  ],
+  [
+    "A barrel.... full of bones!",
+    "Um barril... cheio de ossos!"
+  ],
+  [
+    "Skull Candle",
+    "Castiçal de Crânio"
+  ],
+  [
+    "Once holder of brains, now holder of candles.",
+    "Antes alojava um cérebro, agora aloja velas"
+  ],
+  [
+    "Skeleton Crown Flag",
+    "Bandeira da Coroa de Ossos"
+  ],
+  [
+    "A rigid bone pillar to raise your flag.",
+    "Um rígido pilar de ossos que ergue a sua bandeira"
+  ],
+  [
+    "Bone Lantern",
+    "Lanterna de Ossos"
+  ],
+  [
+    "To illuminate and intimidate.",
+    "Para iluminar e intimidar"
+  ],
+  [
+    "Pile O' Skulls",
+    "Monte de Crânios"
+  ],
+  [
+    "Skulls in a pile.",
+    "Crânios empilhados"
+  ],
+  [
+    "Bone Sculpture",
+    "Escultura de Ossos"
+  ],
+  [
+    "An imposing sculpture built of bone.",
+    "Uma imponente escultura feita de ossos"
+  ],
+  [
+    "Candle Barrel",
+    "Barril de Velas"
+  ],
+  [
+    "A barrel with candles atop.",
+    "Um barril com velas em cima"
+  ],
+  [
+    "Crystal Lamp",
+    "Lamparina de Cristal"
+  ],
+  [
+    "A lantern comprised of shining crystal.",
+    "Uma lanterna composta de cristal brilhante"
+  ],
+  [
+    "Crystal Lantern",
+    "Lanterna de Cristal"
+  ],
+  [
+    "A large crystal that glows softly.",
+    "Um cristal grande que emana pouco brilho"
+  ],
+  [
+    "Crystal Rock",
+    "Rocha de Cristal"
+  ],
+  [
+    "A rock studded with blue crystal.",
+    "Uma rocha decorada com cristal azul"
+  ],
+  [
+    "Crystal Statue",
+    "Estátua de Cristal"
+  ],
+  [
+    "A radiant tower of shining crystal.",
+    "Uma torre radiante feita de cristais brilhantes"
+  ],
+  [
+    "Crystal Tree",
+    "Árvore de Cristal"
+  ],
+  [
+    "A unique form of flora.",
+    "Um tipo de flora único"
+  ],
+  [
+    "Crystal Window",
+    "Janela de Cristal"
+  ],
+  [
+    "An arched window of stained glass.",
+    "Uma janela arqueada com um vitral"
+  ],
+  [
+    "Flower Arch",
+    "Arco de Flores"
+  ],
+  [
+    "An archway of woven blooms and vines.",
+    "Um arco ornado por flores e trepadeiras"
+  ],
+  [
+    "Crown Fountain",
+    "Chafariz da Coroa"
+  ],
+  [
+    "A softly weeping fountain.",
+    "Chafariz que flui suavemente"
+  ],
+  [
+    "Prayer Box",
+    "Caixa de Orações"
+  ],
+  [
+    "A small box for correspondence.",
+    "Uma pequena caixa postal"
+  ],
+  [
+    "Pumpkin Pile",
+    "Pilha de Abóboras"
+  ],
+  [
+    "A pile of pumpkins!",
+    "Uma pilha de abóboras!"
+  ],
+  [
+    "Carved Pumpkin",
+    "Abóbora Esculpida"
+  ],
+  [
+    "A pumpkin carved with a crown.",
+    "Uma abóbora com uma coroa esculpida"
+  ],
+  [
+    "Stone Candle",
+    "Castiçal de Pedra"
+  ],
+  [
+    "A candle atop a stone.",
+    "Uma vela em cima de uma pedra"
+  ],
+  [
+    "Stone Flag",
+    "Bandeira de Pedra"
+  ],
+  [
+    "A stone pillar to raise your flag.",
+    "Um pilar de pedras que ergue a sua bandeira"
+  ],
+  [
+    "Stone Mushroom",
+    "Cogumelo de Pedra"
+  ],
+  [
+    "Don't be fooled; it's made of rock.",
+    "Não se engane, ele é feito de pedra"
+  ],
+  [
+    "Large Torch",
+    "Tocha Grande"
+  ],
+  [
+    "A blazing beacon.",
+    "Um sinal flamejante"
+  ],
+  [
+    "Wooden Lanterns",
+    "Lanternas de Madeira"
+  ],
+  [
+    "A simple way to light the dark.",
+    "Um jeito simples de iluminar a escuridão"
+  ],
+  [
+    "Bone Wall",
+    "Parede de Ossos"
+  ],
+  [
+    "Sturdier than grass.",
+    "Mais robusto que mato"
+  ],
+  [
+    "Grass Wall",
+    "Parede de Mato"
+  ],
+  [
+    "Better than nothing.",
+    "Melhor que nada"
+  ],
+  [
+    "Stone Wall",
+    "Parede de Pedra"
+  ],
+  [
+    "Sturdier than bone.",
+    "Mais robusto que osso"
+  ],
+  [
+    "Wreath",
+    "Guirlanda"
+  ],
+  [
+    "A simple decorative wreath of sticks.",
+    "Uma simples guirlanda decorativa feita de gravetos"
+  ],
+  [
+    "Tree Stump Lamb Statue",
+    "Estátua do Cordeiro em Toco de Árvore"
+  ],
+  [
+    "The Lamb carved of wood.",
+    "O Cordeiro esculpido em madeira"
+  ],
+  [
+    "Small Bell Statue",
+    "Estátua de Sino Pequeno"
+  ],
+  [
+    "A simple stand for a small bell.",
+    "Um simples suporte para um pequeno sino"
+  ],
+  [
+    "Giant Skull",
+    "Crânio Gigante"
+  ],
+  [
+    "The remains of something truly impressive.",
+    "Os restos de algo realmente impressionante"
+  ],
+  [
+    "Skull Pile",
+    "Pilha de Crânios"
+  ],
+  [
+    "A pile of skulls!",
+    "Uma pilha de crânios!"
+  ],
+  [
+    "Crystal Flag",
+    "Bandeira de Cristal"
+  ],
+  [
+    "A crystal pillar to raise your flag.",
+    "Um pilar de cristal para erguer a sua bandeira"
+  ],
+  [
+    "Mushroom Flag",
+    "Bandeira de Cogumelos"
+  ],
+  [
+    "A mushroom pillar to raise your flag.",
+    "Um pilar de cogumelos para erguer a sua bandeira"
+  ],
+  [
+    "Flower Bottle",
+    "Garrafa de Flores"
+  ],
+  [
+    "A glass bottle filled with flowers.",
+    "Uma garrafa de vidro cheia de flores"
+  ],
+  [
+    "Flower Cart",
+    "Carroça de Flores"
+  ],
+  [
+    "A wooden cart filled with flowers.",
+    "Uma carroça de madeira cheia de flores"
+  ],
+  [
+    "Hay Bale",
+    "Fardo de Feno"
+  ],
+  [
+    "A bale of hay.",
+    "Um fardo de feno"
+  ],
+  [
+    "Hay Pile",
+    "Pilha de Feno"
+  ],
+  [
+    "A pile of hay.",
+    "Uma pilha de feno"
+  ],
+  [
+    "Leafy Flower Sculpture",
+    "Escultura de Flores Frondosas"
+  ],
+  [
+    "A colourful display of nature's blessing.",
+    "Um arranjo colorido que exibe a benção da natureza"
+  ],
+  [
+    "Leafy Lantern",
+    "Lanterna Frondosa"
+  ],
+  [
+    "An overgrown stand for a lantern.",
+    "Um suporte para lanterna que cresceu demais"
+  ],
+  [
+    "Leafy Sculpture",
+    "Escultura Frondosa"
+  ],
+  [
+    "A maypole of vivid green vines.",
+    "Um mastro de trepadeiras verdes e vibrantes"
+  ],
+  [
+    "Little Mushroom",
+    "Cogumelo Pequeno"
+  ],
+  [
+    "A small mushroom.",
+    "Um pequeno cogumelo"
+  ],
+  [
+    "Mushroom Cluster",
+    "Cogumelos Aglomerados"
+  ],
+  [
+    "Some large mushrooms.",
+    "Alguns cogumelos grandes"
+  ],
+  [
+    "Small Mushroom Candle",
+    "Pequeno Castiçal de Cogumelo"
+  ],
+  [
+    "Mushroom stands for a few candles.",
+    "Suportes de cogumelos para algumas velas"
+  ],
+  [
+    "Large Mushroom Candle",
+    "Grande Castiçal de Cogumelo"
+  ],
+  [
+    "A large mushroom stand for many candles.",
+    "Um grande suporte de cogumelos para muitas velas"
+  ],
+  [
+    "Mushroom Candle Shrine",
+    "Santuário do Castiçal de Cogumelo"
+  ],
+  [
+    "A bright, candle-filled fungus.",
+    "Um fungo brilhante preenchido por velas"
+  ],
+  [
+    "Mushroom Sculpture",
+    "Escultura de Cogumelo"
+  ],
+  [
+    "A decorative sculpture to celebrate fungus!",
+    "Uma escultura decorativa feita para celebrar os fungos!"
+  ],
+  [
+    "Spider Lantern",
+    "Lanterna de Aranha"
+  ],
+  [
+    "A lantern stand covered in cobwebs.",
+    "Um suporte de lanterna coberto de teias de aranha"
+  ],
+  [
+    "Spider Pillar",
+    "Pilar de Aranha"
+  ],
+  [
+    "A pillar draped in spider silk.",
+    "Um pilar envolto em seda de aranha"
+  ],
+  [
+    "Spider Silk Sculpture",
+    "Escultura de Seda de Aranha"
+  ],
+  [
+    "Artistic and disturbing.",
+    "Artística e perturbadora"
+  ],
+  [
+    "Spider Torch",
+    "Tocha de Aranha"
+  ],
+  [
+    "To illuminate the spider-filled dark.",
+    "Para iluminar a escuridão cheia de aranhas"
+  ],
+  [
+    "Web Crown Sculpture",
+    "Escultura da Coroa em Teias"
+  ],
+  [
+    "Your symbol captured in a cobweb.",
+    "Seu símbolo capturado em uma teia de aranha"
+  ],
+  [
+    "Stone Candle Lamp",
+    "Lamparina de Pedra com Vela"
+  ],
+  [
+    "A stone hollow filled with candles.",
+    "Uma pedra oca cheia de velas"
+  ],
+  [
+    "Stonehenge",
+    "Stonehenge"
+  ],
+  [
+    "Who made it?",
+    "Quem fez isso?"
+  ],
+  [
+    "Spider Silk Wall",
+    "Parede de Seda de Aranha"
+  ],
+  [
+    "Stronger than stone.",
+    "Mais forte que pedra"
+  ],
+  [
+    "Pond",
+    "Lago"
+  ],
+  [
+    "A tranquil pond.",
+    "Um lago tranquilo."
+  ],
+  [
+    "Massive Monster Shrine",
+    "Santuário da Massive Monster"
+  ],
+  [
+    "Pray to the mighty monster.",
+    "Reze para o monstro poderoso"
+  ],
+  [
+    "Wall Flower Pot",
+    "Vaso de Parede"
+  ],
+  [
+    "Small flower pots strung upon a post.",
+    "Pequenos vasos de flores amarrados em um poste"
+  ],
+  [
+    "Leafy Lamp Post",
+    "Poste de Luz Frondoso"
+  ],
+  [
+    "To illuminate the lush green surrounds.",
+    "Para iluminar os ambientes ricos em vegetação"
+  ],
+  [
+    "Flower Vase",
+    "Vaso de Flores"
+  ],
+  [
+    "A delicate addition to any base.",
+    "Deixa qualquer base mais delicada"
+  ],
+  [
+    "Watering Can",
+    "Regador"
+  ],
+  [
+    "Not for practical use.",
+    "Apenas para decoração"
+  ],
+  [
+    "Small Flower Cart",
+    "Carroça de Flores Pequena"
+  ],
+  [
+    "The bounty of springtime, on wheels.",
+    "A dádiva da natureza sobre rodas"
+  ],
+  [
+    "Weeping Shrine",
+    "Santuário Choroso"
+  ],
+  [
+    "A shrine in memory of a sorrowful soul.",
+    "Um santuário em memória de uma alma pesarosa"
+  ],
+  [
+    "Lamb Plush Effigy",
+    "Efígie de Pelúcia do Cordeiro"
+  ],
+  [
+    "This effigy of the leader holds a connection to some distant world...",
+    "Esta efígie do Líder carrega uma conexão com um mundo distante..."
+  ],
+  [
+    "Lamb of Gold",
+    "Cordeiro de Ouro"
+  ],
+  [
+    "A decadent depiction of the Lamb cast in gold.",
+    "Um retrato decadente do Cordeiro fundido em ouro."
+  ],
+  [
+    "Rose Covered Cross",
+    "Cruz Coberta de Rosas"
+  ],
+  [
+    "A golden cross covered in blood red roses.",
+    "Um cruz dourada coberta de rosas vermelhas como sangue."
+  ],
+  [
+    "Flowers of Seduction",
+    "Flores da Sedução"
+  ],
+  [
+    "A basket of delicious flowers with a heady scent.",
+    "Uma cesta de flores maravilhosas com uma essência arrebatadora."
+  ],
+  [
+    "Vase of Vanity",
+    "Vaso da Vaidade"
+  ],
+  [
+    "Beautiful blooms in a crystal vase.",
+    "Um vaso de cristal adornado com lindas flores."
+  ],
+  [
+    "Skull of Impurity",
+    "Crânio da Impureza"
+  ],
+  [
+    "A skull bleeding rose petals.",
+    "Um crânio que sangra pétalas de rosa."
+  ],
+  [
+    "Scent of Sin Incense",
+    "Incenso da Essência Pecaminosa"
+  ],
+  [
+    "An incense burner with a luscious fragrance.",
+    "Um incensário com uma fragrância deliciosa."
+  ],
+  [
+    "Fortuitous Lantern",
+    "Lanterna Fortuita"
+  ],
+  [
+    "A beacon for new beginnings.",
+    "Um sinal para novos começos."
+  ],
+  [
+    "Fortuitous Statue",
+    "Estátua Fortuita"
+  ],
+  [
+    "For luck, strength, and health.",
+    "Para dar sorte, força e saúde."
+  ],
+  [
+    "Fortuitous Tree",
+    "Árvore Fortuita"
+  ],
+  [
+    "Blooms when old meets new.",
+    "Floresce quando o velho encontra o novo."
+  ],
+  [
+    "Bamboo Wall",
+    "Parede de Bambu"
+  ],
+  [
+    "A wall made of sturdy bamboo.",
+    "Uma parede feita de bambu resistente."
+  ],
+  [
+    "Bonsai Tree",
+    "Bonsai"
+  ],
+  [
+    "A small tree, lovingly tended.",
+    "Uma arvorezinha adorável."
+  ],
+  [
+    "Hanging Lantern",
+    "Lanterna Pendurada"
+  ],
+  [
+    "A lantern, delicate and bright.",
+    "Uma lanterna delicada e luminosa."
+  ],
+  [
+    "Small Pagoda",
+    "Pagode Pequeno"
+  ],
+  [
+    "Perhaps used to house something precious?",
+    "Possivelmente usado para guardar algo precioso."
+  ],
+  [
+    "Vase of Peonies",
+    "Vaso de Peônias"
+  ],
+  [
+    "Beautiful, blooming peonies in an elegant vase.",
+    "Um vaso elegante com flores de peônia."
+  ],
+  [
+    "Pea",
+    "Tepo"
+  ],
+  [
+    "The first gnome.",
+    "O primeiro gnomo."
+  ],
+  [
+    "Owe",
+    "Opepo"
+  ],
+  [
+    "The second gnome.",
+    "O segundo gnomo."
+  ],
+  [
+    "Geeh",
+    "Pepo"
+  ],
+  [
+    "The third gnome.",
+    "O terceiro gnomo."
+  ],
+  [
+    "The Goat Lantern",
+    "A Lanterna do Bode"
+  ],
+  [
+    "The greatest lantern of all time!",
+    "A melhor lanterna de todos os tempos!"
+  ],
+  [
+    "The Goat Statue",
+    "A Estátua do Bode"
+  ],
+  [
+    "The greatest statue of all time!",
+    "A melhor estátua de todos os tempos!"
+  ],
+  [
+    "The Goat Vase",
+    "O Vaso do Bode"
+  ],
+  [
+    "The greatest vase of all time!",
+    "O melhor vaso de todos os tempos!"
+  ],
+  [
+    "Flag of the Crown",
+    "Bandeira da Coroa"
+  ],
+  [
+    "A flag bearing the symbol of your Crown.",
+    "Uma bandeira que carrega o símbolo da sua Coroa."
+  ],
+  [
+    "Bag of Mushrooms",
+    "Bolsa de Cogumelos"
+  ],
+  [
+    "A big bag full of purple mushrooms.",
+    "Uma bolsa grande cheia de cogumelos roxos."
+  ],
+  [
+    "Potted Bush",
+    "Arbusto em Vaso"
+  ],
+  [
+    "A pretty bush in a decorative pot.",
+    "Um belo arbusto em um vaso decorativo."
+  ],
+  [
+    "Stone Flag",
+    "Bandeira de Pedra"
+  ],
+  [
+    "A stone pillar to raise your flag.",
+    "Um pilar de pedras usado para erguer sua bandeira."
+  ],
+  [
+    "Stone Statue",
+    "Estátua de Pedra"
+  ],
+  [
+    "A decorative statue carved from stone.",
+    "Uma estátua decorativa esculpida em pedra."
+  ],
+  [
+    "Wooden Guardian",
+    "Guardião de Madeira"
+  ],
+  [
+    "A decorative statue carved from wood.",
+    "Uma estátua decorativa esculpida em madeira."
+  ],
+  [
+    "Leshy Trophy",
+    "Troféu de Leshy"
+  ],
+  [
+    "A trophy for killing Leshy.",
+    "Um troféu por matar Leshy"
+  ],
+  [
+    "Heket Trophy",
+    "Troféu de Heket"
+  ],
+  [
+    "A trophy for killing Heket.",
+    "Um troféu por matar Heket"
+  ],
+  [
+    "Kallamar Trophy",
+    "Troféu de Kallamar"
+  ],
+  [
+    "A trophy for killing Kallamar.",
+    "Um troféu por matar Kallamar"
+  ],
+  [
+    "Shamura Trophy",
+    "Troféu de Shamura"
+  ],
+  [
+    "A trophy for killing Shamura.",
+    "Um troféu por matar Shamura"
+  ],
+  [
+    "The One Who Waits Trophy",
+    "Troféu de Aquele Que Espera"
+  ],
+  [
+    "A trophy for killing The One Who Waits.",
+    "Um troféu por matar Aquele Que Espera"
+  ],
+  [
+    "Blood Moon Candle",
+    "Vela da Lua de Sangue"
+  ],
+  [
+    "A decorative candle to commemorate the Blood Moon",
+    "Uma vela decorativa para comemorar a Lua de Sangue"
+  ],
+  [
+    "Blood Moon Pumpkin",
+    "Abóbora da Lua de Sangue"
+  ],
+  [
+    "Honour the Blood Moon with this pumpkin.",
+    "Uma abóbora decorativa para a Lua de Sangue"
+  ],
+  [
+    "Blood Moon Tree",
+    "Árvore da Lua de Sangue"
+  ],
+  [
+    "A tree that only grows during the Blood Moon.",
+    "Uma árvore decorativa encontrada apenas durante a Lua de Sangue"
+  ],
+  [
+    "Blood Moon Skull",
+    "Crânio da Lua de Sangue"
+  ],
+  [
+    "The skull of a creature who perished under red skies...",
+    "Um crânio encontrado durante a Lua de Sangue"
+  ],
+  [
+    "Manicured Hedge",
+    "Cerca Viva Podada"
+  ],
+  [
+    "Grown and shaped with reverance.",
+    "Cultivada e mantida com louvor."
+  ],
+  [
+    "Whittled Lamp Post",
+    "Poste de Luz Talhado"
+  ],
+  [
+    "Shaped by a master.",
+    "Criado por quem domina sua arte."
+  ],
+  [
+    "Mysterious Fruit Statue",
+    "Estátua da Fruta Misteriosa"
+  ],
+  [
+    "Unseen before in these Lands.",
+    "Nunca vista nestas terras."
+  ],
+  [
+    "Lovely Arrangement",
+    "Arranjo Gracioso"
+  ],
+  [
+    "A pleasing bouquet of fresh lilies.",
+    "Um lindo buquê com lírios frescos."
+  ],
+  [
+    "Overgrown Well",
+    "Poço Descuidado"
+  ],
+  [
+    "The water below may still be fresh.",
+    "A água lá embaixo talvez ainda seja potável."
+  ],
+  [
+    "Gem of Gore",
+    "Gema da Sanguinolência"
+  ],
+  [
+    "A blood-red crystal. Smells of iron...",
+    "Um cristal vermelho como sangue. Tem cheiro de ferro..."
+  ],
+  [
+    "Flag of the Old Faith",
+    "Bandeira da Antiga Fé"
+  ],
+  [
+    "A flag bearing a symbol of ancient scripture.",
+    "Uma bandeira que carrega um símbolo da antiga escritura."
+  ],
+  [
+    "Fount of Desolation",
+    "Fonte da Desolação"
+  ],
+  [
+    "A burbling spring of entropy.",
+    "Um chafariz borbulhante de entropia."
+  ],
+  [
+    "Iron Maiden of Old Faith",
+    "Dama de Ferro da Antiga Fé"
+  ],
+  [
+    "For those truly deserving of punishment.",
+    "Para aqueles que realmente merecem punição."
+  ],
+  [
+    "Shrine of the Old Faith",
+    "Santuário da Antiga Fé"
+  ],
+  [
+    "To commemorate what has endured.",
+    "Para comemorar aquilo que resistiu."
+  ],
+  [
+    "The Eternal Flame",
+    "A Chama Eterna"
+  ],
+  [
+    "Burning as long as the Old Faith perseveres...",
+    "Queima enquanto a Antiga Fé persevera..."
+  ],
+  [
+    "Walls of Ruin",
+    "Parede de Ruína"
+  ],
+  [
+    "Upon which forgotten pleas are carved.",
+    "Nas quais foram esculpidos apelos esquecidos."
+  ],
+  [
+    "Flooring of the Old Faith",
+    "Piso da Antiga Fé"
+  ],
+  [
+    "The perfect tile upon which to bend the knee.",
+    "O ladrilho perfeito para se ajoelhar."
+  ],
+  [
+    "Alchemy Engine",
+    "Mecanismo de Alquimia"
+  ],
+  [
+    "What is this peculiar machine?",
+    "Que máquina peculiar é essa?"
+  ],
+  [
+    "Deerclops Figure",
+    "Estátua de Deerclops"
+  ],
+  [
+    "A sculpture depicting a beast from a distant land...",
+    "Uma escultura de uma fera de uma terra distante..."
+  ],
+  [
+    "Marble Tree",
+    "Árvore de Mármore"
+  ],
+  [
+    "I dont think an axe will cut it.",
+    "Não sei se um machado será suficiente para cortá-la."
+  ],
+  [
+    "Pig Head",
+    "Cabeça de Porco"
+  ],
+  [
+    "Its a pigs head. On a stick.",
+    "Uma cabeça de porco em um espeto."
+  ],
+  [
+    "Science Machine",
+    "Máquina da Ciência"
+  ],
+  [
+    "What is \"science\"?",
+    "O que é \"ciência\"?"
+  ],
+  [
+    "Potted Treeguard",
+    "Guardião da Floresta em Vaso"
+  ],
+  [
+    "Is it... alive?",
+    "Ele está... vivo?"
+  ],
+  [
+    "Beefalo Skeleton",
+    "Esqueleto de Beefalo"
+  ],
+  [
+    "The remains of a majestic beast from a faraway land.",
+    "Os restos de uma fera majestosa de uma terra distante."
+  ],
+  [
+    "Glommer Statue",
+    "Estátua do Gloomer"
+  ],
+  [
+    "It's cute, in a gross kind of way.",
+    "É fofinha, mas de um jeito um tanto asqueroso."
+  ],
+  [
+    "Witness's All Seeing Eye",
+    "Olho Que Tudo Vê da Testemunha"
+  ],
+  [
+    "See the development of your Cult over the days.",
+    "Veja o desenvolvimento do seu culto ao longo dos dias."
+  ],
+  [
+    "Leader Tent",
+    "Barraca de Líder"
+  ],
+  [
+    "A resting place worthy of a glorious Leader, and their Crown.",
+    "Um lugar de descanso para Líderes ilustres e sua Coroa."
+  ]
+]

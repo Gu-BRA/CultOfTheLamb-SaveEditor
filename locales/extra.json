@@ -1,0 +1,1414 @@
+[
+  [
+    "Deer",
+    "Veado"
+  ],
+  [
+    "Pig",
+    "Porco"
+  ],
+  [
+    "Cow",
+    "Vaca"
+  ],
+  [
+    "Dog",
+    "Cachorro"
+  ],
+  [
+    "Cat",
+    "Gato"
+  ],
+  [
+    "Rabbit",
+    "Coelho"
+  ],
+  [
+    "Fox",
+    "Raposa"
+  ],
+  [
+    "Wolf",
+    "Lobo"
+  ],
+  [
+    "Fish",
+    "Peixe"
+  ],
+  [
+    "Trout",
+    "Truta"
+  ],
+  [
+    "Goldfish",
+    "Peixe-dourado"
+  ],
+  [
+    "Frog",
+    "Sapo"
+  ],
+  [
+    "Bear",
+    "Urso"
+  ],
+  [
+    "Bat",
+    "Morcego"
+  ],
+  [
+    "Bat Demon",
+    "Morcego demoníaco"
+  ],
+  [
+    "Bee",
+    "Abelha"
+  ],
+  [
+    "Beetle",
+    "Besouro"
+  ],
+  [
+    "Bison",
+    "Bisão"
+  ],
+  [
+    "Badger",
+    "Texugo"
+  ],
+  [
+    "Beaver",
+    "Castor"
+  ],
+  [
+    "Butterfly",
+    "Borboleta"
+  ],
+  [
+    "Caterpillar",
+    "Lagarta"
+  ],
+  [
+    "Capybara",
+    "Capivara"
+  ],
+  [
+    "Camel",
+    "Camelo"
+  ],
+  [
+    "Chicken",
+    "Galinha"
+  ],
+  [
+    "Crocodile",
+    "Crocodilo"
+  ],
+  [
+    "Crow",
+    "Corvo"
+  ],
+  [
+    "Eagle",
+    "Águia"
+  ],
+  [
+    "Elephant",
+    "Elefante"
+  ],
+  [
+    "Enchida",
+    "Equidna"
+  ],
+  [
+    "Fennec Fox",
+    "Raposa-do-deserto"
+  ],
+  [
+    "Giraffe",
+    "Girafa"
+  ],
+  [
+    "Gorilla",
+    "Gorila"
+  ],
+  [
+    "Hammerhead",
+    "Tubarão-martelo"
+  ],
+  [
+    "Hedgehog",
+    "Ouriço"
+  ],
+  [
+    "Hippo",
+    "Hipopótamo"
+  ],
+  [
+    "Horse",
+    "Cavalo"
+  ],
+  [
+    "Kiwi",
+    "Kiwi"
+  ],
+  [
+    "Koala",
+    "Coala"
+  ],
+  [
+    "LadyBug",
+    "Joaninha"
+  ],
+  [
+    "Lemur",
+    "Lêmure"
+  ],
+  [
+    "Lion",
+    "Leão"
+  ],
+  [
+    "Llama",
+    "Lhama"
+  ],
+  [
+    "Monkey",
+    "Macaco"
+  ],
+  [
+    "Moose",
+    "Alce"
+  ],
+  [
+    "Mosquito",
+    "Mosquito"
+  ],
+  [
+    "Narwal",
+    "Narval"
+  ],
+  [
+    "Night Wolf",
+    "Lobo noturno"
+  ],
+  [
+    "Orangutan",
+    "Orangotango"
+  ],
+  [
+    "Otter",
+    "Lontra"
+  ],
+  [
+    "Owl",
+    "Coruja"
+  ],
+  [
+    "Panda",
+    "Panda"
+  ],
+  [
+    "Pangolin",
+    "Pangolim"
+  ],
+  [
+    "Pelican",
+    "Pelicano"
+  ],
+  [
+    "Penguin",
+    "Pinguim"
+  ],
+  [
+    "Possum",
+    "Gambá"
+  ],
+  [
+    "Racoon",
+    "Guaxinim"
+  ],
+  [
+    "Red Panda",
+    "Panda-vermelho"
+  ],
+  [
+    "Rhino",
+    "Rinoceronte"
+  ],
+  [
+    "Robin",
+    "Pisco"
+  ],
+  [
+    "Seahorse",
+    "Cavalo-marinho"
+  ],
+  [
+    "Seal",
+    "Foca"
+  ],
+  [
+    "Shrew",
+    "Musaranho"
+  ],
+  [
+    "Shrimp",
+    "Camarão"
+  ],
+  [
+    "Skunk",
+    "Cangambá"
+  ],
+  [
+    "Snail",
+    "Caracol"
+  ],
+  [
+    "Snake",
+    "Cobra"
+  ],
+  [
+    "Sphynx",
+    "Sphynx"
+  ],
+  [
+    "Squirrel",
+    "Esquilo"
+  ],
+  [
+    "StarBunny",
+    "Coelho-estrela"
+  ],
+  [
+    "Starfish",
+    "Estrela-do-mar"
+  ],
+  [
+    "Tapir",
+    "Anta"
+  ],
+  [
+    "Tiger",
+    "Tigre"
+  ],
+  [
+    "Turtle",
+    "Tartaruga"
+  ],
+  [
+    "Unicorn",
+    "Unicórnio"
+  ],
+  [
+    "Worm",
+    "Verme"
+  ],
+  [
+    "Anteater",
+    "Tamanduá"
+  ],
+  [
+    "Axolotl",
+    "Axolote"
+  ],
+  [
+    "Abomination",
+    "Abominação"
+  ],
+  [
+    "Deer Skull",
+    "Caveira de veado"
+  ],
+  [
+    "Deer Ritual",
+    "Veado ritual"
+  ],
+  [
+    "DogTeddy",
+    "Cachorro de pelúcia"
+  ],
+  [
+    "Webber Skull",
+    "Caveira de Webber"
+  ],
+  [
+    "Twitch Cat",
+    "Gato da Twitch"
+  ],
+  [
+    "Twitch Dog",
+    "Cachorro da Twitch"
+  ],
+  [
+    "Twitch Dog (Alt)",
+    "Cachorro da Twitch (alternativo)"
+  ],
+  [
+    "Twitch Mouse",
+    "Rato da Twitch"
+  ],
+  [
+    "Twitch Poggers",
+    "Poggers da Twitch"
+  ],
+  [
+    "Boss Baal",
+    "Baal"
+  ],
+  [
+    "Boss Death Cat",
+    "Aquele Que Espera"
+  ],
+  [
+    "Boss Beholder 1",
+    "Chefe observador 1"
+  ],
+  [
+    "Boss Beholder 2",
+    "Chefe observador 2"
+  ],
+  [
+    "Boss Beholder 3",
+    "Chefe observador 3"
+  ],
+  [
+    "Boss Beholder 4",
+    "Chefe observador 4"
+  ],
+  [
+    "Boss Burrow Worm",
+    "Chefe verme escavador"
+  ],
+  [
+    "Boss Charger",
+    "Chefe investidor"
+  ],
+  [
+    "Boss Egg Hopper",
+    "Chefe saltador de ovos"
+  ],
+  [
+    "Boss Flying Burp Frog",
+    "Chefe sapo voador"
+  ],
+  [
+    "Boss Mama Maggot",
+    "Chefe mãe larva"
+  ],
+  [
+    "Boss Mama Worm",
+    "Chefe mãe verme"
+  ],
+  [
+    "Boss Millipede Poisoner",
+    "Chefe milípede venenoso"
+  ],
+  [
+    "Boss Mortar Hopper",
+    "Chefe saltador de morteiro"
+  ],
+  [
+    "Boss Scorpion",
+    "Chefe escorpião"
+  ],
+  [
+    "Boss Scuttle Turret",
+    "Chefe torreta rastejante"
+  ],
+  [
+    "Boss Spider Jump",
+    "Chefe aranha saltadora"
+  ],
+  [
+    "Boss Spiker",
+    "Chefe espinhoso"
+  ],
+  [
+    "CultLeader 1",
+    "Leshy"
+  ],
+  [
+    "CultLeader 1 Healed",
+    "Leshy curado"
+  ],
+  [
+    "CultLeader 2",
+    "Heket"
+  ],
+  [
+    "CultLeader 3",
+    "Kallamar"
+  ],
+  [
+    "CultLeader 3 Healed",
+    "Kallamar curado"
+  ],
+  [
+    "CultLeader 4",
+    "Shamura"
+  ],
+  [
+    "CultLeader 4 Healed",
+    "Shamura curada"
+  ],
+  [
+    "Basic",
+    "Básica"
+  ],
+  [
+    "Meat",
+    "Carne"
+  ],
+  [
+    "Fish",
+    "Peixe"
+  ],
+  [
+    "Mixed",
+    "Mista"
+  ],
+  [
+    "Vegetable",
+    "Vegetais"
+  ],
+  [
+    "Tasty veggy dish.",
+    "Um prato saboroso de vegetais."
+  ],
+  [
+    "+5% chance of causing illness and diarrhea.",
+    "+5% de chance de causar doença e diarreia."
+  ],
+  [
+    "+25% chance of causing illness.",
+    "+25% de chance de causar doença."
+  ],
+  [
+    "+10% chance of causing illness.",
+    "+10% de chance de causar doença."
+  ],
+  [
+    "+10% chance of causing exhaustion.",
+    "+10% de chance de causar exaustão."
+  ],
+  [
+    "+25% chance of dropping valuable resources, +15% chance of the Follower pooping instantly.",
+    "+25% de chance de soltar recursos valiosos; +15% de chance de o seguidor defecar imediatamente."
+  ],
+  [
+    "+25% chance of dropping valuable resources, +15% chance of the Follower vomiting instantly.",
+    "+25% de chance de soltar recursos valiosos; +15% de chance de o seguidor vomitar imediatamente."
+  ],
+  [
+    "+50% chance of increasing Follower loyalty, +5 Faith",
+    "+50% de chance de aumentar a lealdade do seguidor; +5 de fé."
+  ],
+  [
+    "+75% chance of causing illness, +25% chance of increasing Follower loyalty, +40 chance of stopping a Follower from dissenting, -20 Faith.",
+    "+75% de chance de causar doença; +25% de chance de aumentar a lealdade; +40 de chance de interromper a dissidência; −20 de fé."
+  ],
+  [
+    "+50% chance of causing illness and diarrhea, -20 Faith.",
+    "+50% de chance de causar doença e diarreia; −20 de fé."
+  ],
+  [
+    "+25% chance of dropping valuable resources, +30% chance of a sick Follower recovering from illness, +5 Faith.",
+    "+25% de chance de soltar recursos valiosos; +30% de chance de um seguidor doente se recuperar; +5 de fé."
+  ],
+  [
+    "+15% chance of the follower pooping instantly.",
+    "+15% de chance de o seguidor defecar imediatamente."
+  ],
+  [
+    "+25% chance of dropping valuable resources, +5% chance of causing illness.",
+    "+25% de chance de soltar recursos valiosos; +5% de chance de causar doença."
+  ],
+  [
+    "+10% chance of increasing Follower loyalty.",
+    "+10% de chance de aumentar a lealdade do seguidor."
+  ],
+  [
+    "+20% chance of increasing Follower loyalty.",
+    "+20% de chance de aumentar a lealdade do seguidor."
+  ],
+  [
+    "+100% chance of increasing Follower loyalty, +100% chance of stopping a Follower from dissenting.",
+    "+100% de chance de aumentar a lealdade do seguidor; +100% de chance de interromper a dissidência."
+  ],
+  [
+    "+75% chance of the follower dying instantly, +100% chance of dropping valuable resources.",
+    "+75% de chance de o seguidor morrer imediatamente; +100% de chance de soltar recursos valiosos."
+  ],
+  [
+    "+75% chance of dropping valuable resources.",
+    "+75% de chance de soltar recursos valiosos."
+  ],
+  [
+    "After being released from the Prison, the follower may gain this temporary trait.",
+    "Após sair da prisão, o seguidor pode receber este traço temporário."
+  ],
+  [
+    "After returning alive from a Missionary, the follower may gain this temporary trait.",
+    "Ao voltar vivo de uma missão, o seguidor pode receber este traço temporário."
+  ],
+  [
+    "This trait is exclusive to the ex-Bishops of Old Faith, which is hidden by default until you clear their corresponding quest fully.",
+    "Traço exclusivo dos antigos bispos da Antiga Fé. Fica oculto até você concluir a missão correspondente."
+  ],
+  [
+    "This trait is(?) currently unused and is still in the game files and can be added to a follower through save-editing. It has no icon.",
+    "Este traço parece não ser usado atualmente, mas permanece nos arquivos do jogo e pode ser adicionado pelo editor. Não possui ícone."
+  ],
+  [
+    "Work speed and devotion generation increased by 10%, but 50% chance of Followers becoming sick after the Brainwashing ritual.",
+    "Aumenta a velocidade de trabalho e a geração de devoção em 10%, mas há 50% de chance de os seguidores adoecerem após o ritual de lavagem cerebral."
+  ],
+  [
+    "Gain +5 Faith when a Follower eats a meal made from Follower meat.",
+    "Ganhe +5 de fé quando um seguidor comer uma refeição feita com carne de seguidor."
+  ],
+  [
+    "Gain 10 Faith if an elder is sacrificed, murdered or consumed, but lose 20 Faith if an elder dies naturally.",
+    "Ganhe 10 de fé se um idoso for sacrificado, assassinado ou consumido, mas perca 20 de fé se ele morrer naturalmente."
+  ],
+  [
+    "Gain 10 Faith when a Follower becomes an elder.",
+    "Ganhe 10 de fé quando um seguidor se tornar idoso."
+  ],
+  [
+    "Gain 20 Faith whenever a follower is sacrificed.",
+    "Ganhe 20 de fé sempre que um seguidor for sacrificado."
+  ],
+  [
+    "Gain 5 Faith when a building is constructed.",
+    "Ganhe 5 de fé quando uma construção for concluída."
+  ],
+  [
+    "Gain 7 Faith when a decoration is built.",
+    "Ganhe 7 de fé quando uma decoração for construída."
+  ],
+  [
+    "Internal entry without a published name or effect in this version. Preserved for saves already using this ID.",
+    "Entrada interna sem nome ou efeito publicado na tradução desta versão. Mantida para preservar saves que já utilizem este ID."
+  ],
+  [
+    "Additional items and meals",
+    "Itens e refeições adicionais"
+  ],
+  [
+    "Law and Order",
+    "Lei e ordem"
+  ],
+  [
+    "Work and Worship",
+    "Trabalho e adoração"
+  ],
+  [
+    "A round ball of snow",
+    "Uma bola redonda de neve"
+  ],
+  [
+    "Forged from fire, useless as a rock",
+    "Forjado no fogo, inútil como uma pedra"
+  ],
+  [
+    "Black Soul",
+    "Alma negra"
+  ],
+  [
+    "Blood Stone",
+    "Pedra de sangue"
+  ],
+  [
+    "Blue Print",
+    "Projeto"
+  ],
+  [
+    "Charcoal",
+    "Carvão"
+  ],
+  [
+    "ChosenChild",
+    "Criança escolhida"
+  ],
+  [
+    "Criminal Evangelizing",
+    "Evangelização criminosa"
+  ],
+  [
+    "Crystal Doctrine Fragment",
+    "Fragmento de doutrina de cristal"
+  ],
+  [
+    "Curse Card",
+    "Carta de maldição"
+  ],
+  [
+    "Disciple Points",
+    "Pontos de discípulo"
+  ],
+  [
+    "Double Coins",
+    "Moedas em dobro"
+  ],
+  [
+    "Egg Follower",
+    "Ovo de seguidor"
+  ],
+  [
+    "Fish Catfish",
+    "Bagre"
+  ],
+  [
+    "Fish Cod",
+    "Bacalhau"
+  ],
+  [
+    "Fish Pike",
+    "Lúcio"
+  ],
+  [
+    "Flowers",
+    "Flores"
+  ],
+  [
+    "Found Item Curse",
+    "Maldição encontrada"
+  ],
+  [
+    "Found Item Decoration Alt",
+    "Decoração alternativa encontrada"
+  ],
+  [
+    "Found Item Outfit",
+    "Traje encontrado"
+  ],
+  [
+    "Found Item Weapon",
+    "Arma encontrada"
+  ],
+  [
+    "Generic",
+    "Genérico"
+  ],
+  [
+    "Goop Damage",
+    "Dano de gosma"
+  ],
+  [
+    "Immune To Projectiles",
+    "Imune a projéteis"
+  ],
+  [
+    "Invincible While Healing",
+    "Invencível ao curar"
+  ],
+  [
+    "Key",
+    "Chave"
+  ],
+  [
+    "Key Piece",
+    "Parte de chave"
+  ],
+  [
+    "Map",
+    "Mapa"
+  ],
+  [
+    "Married Devoted",
+    "Cônjuge devoto"
+  ],
+  [
+    "Max 1",
+    "Máximo 1"
+  ],
+  [
+    "Meal Rotten",
+    "Refeição podre"
+  ],
+  [
+    "Meat Rotten",
+    "Carne podre"
+  ],
+  [
+    "Mushroom",
+    "Cogumelo"
+  ],
+  [
+    "Mushroom Big",
+    "Cogumelo grande"
+  ],
+  [
+    "Necklace Bell",
+    "Colar de sino"
+  ],
+  [
+    "Neutral",
+    "Neutro"
+  ],
+  [
+    "Relic",
+    "Relíquia"
+  ],
+  [
+    "Rope",
+    "Corda"
+  ],
+  [
+    "Seed Flower White",
+    "Semente de flor branca"
+  ],
+  [
+    "Seed Sword",
+    "Semente de espada"
+  ],
+  [
+    "Seed Tree",
+    "Semente de árvore"
+  ],
+  [
+    "Sins",
+    "Pecados"
+  ],
+  [
+    "Snow Chunk",
+    "Pedaço de neve"
+  ],
+  [
+    "Soul Fragment",
+    "Fragmento de alma"
+  ],
+  [
+    "Stained Glass",
+    "Vitral"
+  ],
+  [
+    "Thorns",
+    "Espinhos"
+  ],
+  [
+    "Time Token",
+    "Ficha de tempo"
+  ],
+  [
+    "Trinket Card Unlocked",
+    "Carta de amuleto desbloqueada"
+  ],
+  [
+    "Tripleshot",
+    "Disparo triplo"
+  ],
+  [
+    "Unused",
+    "Não utilizado"
+  ],
+  [
+    "Vines",
+    "Vinhas"
+  ],
+  [
+    "Weapon Card",
+    "Carta de arma"
+  ],
+  [
+    "Wheat",
+    "Trigo"
+  ],
+  [
+    "Heals when equipping a Relic, takes damage when using one.",
+    "Cura ao equipar uma Relíquia, sofre dano ao usar uma Relíquia."
+  ],
+  [
+    "Gain 2 Diseased Hearts; all Relics become fragile.",
+    "Ganha 2 Corações Doentes, todas as Relíquias se tornam frágeis."
+  ],
+  [
+    "Gain a Blue Heart; taking damage spawns enemy bombs at your feet.",
+    "Ganha um Coração Azul, ao sofrer dano, bombas inimigas surgem aos seus pés."
+  ],
+  [
+    "Relics deal 2x damage and start uncharged.",
+    "Relíquias causam 2x mais dano, Relíquias começam sem carga."
+  ],
+  [
+    "Drops 2x Coins, takes 2x poison damage.",
+    "Solta 2x mais Moedas, recebe 2x mais dano de veneno."
+  ],
+  [
+    "Heavy attacks need no Fervour; movement speed reduced by 25%.",
+    "Ataques pesados não necessitam de Fervor, a velocidade de movimento é reduzida em 25%."
+  ],
+  [
+    "Creates black slime while walking; attack rate reduced by 25%.",
+    "Cria gosma preta ao caminhar, taxa de ataque é reduzida em 25%"
+  ],
+  [
+    "Taking damage deals heavy damage to all enemies; you take 2x damage.",
+    "Ao ser acertado, todos os inimigos sofrem muito dano, você sofre 2x mais dano."
+  ],
+  [
+    "Weapon and Curse damage increased 3x; positive effects from corrupted Relics and Tarot Cards are removed.",
+    "Dano de Armas e Maldições aumentado em 3x, efeitos positivos de Relíquias e Cartas de Tarô corrompidas são removidos."
+  ],
+  [
+    "x4 Pumpkin",
+    "x4 Abóbora"
+  ],
+  [
+    "x5 Grass",
+    "x5 Grama"
+  ],
+  [
+    "x2 Meat",
+    "x2 Carne"
+  ],
+  [
+    "x6 Beetroot, x2 Pumpkin, x2 Cauliflower",
+    "x6 Beterraba, x2 Abóbora, x2 Couve-flor"
+  ],
+  [
+    "x3 Salmon",
+    "x3 Salmão"
+  ],
+  [
+    "x3 Follower Meat, x5 Bone",
+    "x3 Carne de seguidor, x5 Osso"
+  ],
+  [
+    "x3 Fertilizer",
+    "x3 Fertilizante"
+  ],
+  [
+    "x1 Squid, x1 Octopus, x1 Blowfish, x1 Swordfish.",
+    "x1 Lula, x1 Polvo, x1 Baiacu, x1 Peixe-espada."
+  ],
+  [
+    "x3 Minnow",
+    "x3 Peixinho"
+  ],
+  [
+    "x6 Berry",
+    "x6 Baga"
+  ],
+  [
+    "x4 Cauliflower",
+    "x4 Couve-flor"
+  ],
+  [
+    "x4 Berry, x2 Minnow, x2 Morsel",
+    "x4 Baga, x2 Peixinho, x2 Pedacinho de carne"
+  ],
+  [
+    "x4 Pumpkin, x2 Salmon, x2 Meat",
+    "x4 Abóbora, x2 Salmão, x2 Carne"
+  ],
+  [
+    "x4 Beetroot, x2 Tuna, x2 Meat",
+    "x4 Beterraba, x2 Atum, x2 Carne"
+  ],
+  [
+    "x1 Follower Meat, x1 Fertilizer, x1 Grass",
+    "x1 Carne de seguidor, x1 Fertilizante, x1 Grama"
+  ],
+  [
+    "x3 Morsel",
+    "x3 Pedacinho de carne"
+  ],
+  [
+    "x4 Meat, x1 Crab, x1 Lobster",
+    "x4 Carne, x1 Caranguejo, x1 Lagosta"
+  ],
+  [
+    "Adoration",
+    "Adoração"
+  ],
+  [
+    "Maximum level reached",
+    "Nível máximo atingido"
+  ],
+  [
+    "Age",
+    "Idade"
+  ],
+  [
+    "Life expectancy",
+    "Expectativa de vida"
+  ],
+  [
+    "Elder",
+    "Idoso"
+  ],
+  [
+    "Sacrificial value",
+    "Valor de sacrifício"
+  ],
+  [
+    "Disciple",
+    "Discípulo"
+  ],
+  [
+    "Traits",
+    "Traços"
+  ],
+  [
+    "Traits set",
+    "Traços definidos"
+  ],
+  [
+    "Maximum health",
+    "Vida máxima"
+  ],
+  [
+    "Current health",
+    "Vida atual"
+  ],
+  [
+    "Happiness",
+    "Felicidade"
+  ],
+  [
+    "Faith",
+    "Fé"
+  ],
+  [
+    "Fear/love",
+    "Medo/amor"
+  ],
+  [
+    "Satiation",
+    "Saciedade"
+  ],
+  [
+    "Hunger",
+    "Fome"
+  ],
+  [
+    "Starving indicator",
+    "Sinal de fome"
+  ],
+  [
+    "Bathroom need",
+    "Necessidade de banheiro"
+  ],
+  [
+    "Bathroom target",
+    "Alvo de banheiro"
+  ],
+  [
+    "Social",
+    "Social"
+  ],
+  [
+    "Vomit",
+    "Vômito"
+  ],
+  [
+    "Rest",
+    "Descanso"
+  ],
+  [
+    "Illness",
+    "Doença"
+  ],
+  [
+    "Injury",
+    "Ferimento"
+  ],
+  [
+    "Exhaustion",
+    "Exaustão"
+  ],
+  [
+    "Drunkenness",
+    "Embriaguez"
+  ],
+  [
+    "Drunk",
+    "Embriagado"
+  ],
+  [
+    "Dissent",
+    "Dissidência"
+  ],
+  [
+    "Dissent duration",
+    "Duração da dissidência"
+  ],
+  [
+    "Reeducation",
+    "Reeducação"
+  ],
+  [
+    "Cursed state",
+    "Estado de maldição"
+  ],
+  [
+    "Initial cursed state",
+    "Estado inicial de maldição"
+  ],
+  [
+    "Cursed state variant",
+    "Variante de maldição"
+  ],
+  [
+    "Preview unavailable in this browser.",
+    "Prévia indisponível neste navegador."
+  ],
+  [
+    "Could not load the appearance files.",
+    "Não foi possível carregar os arquivos da aparência."
+  ],
+  [
+    "Appearance image unavailable.",
+    "Imagem da aparência indisponível."
+  ],
+  [
+    "This appearance has no images available.",
+    "Esta aparência não tem imagens disponíveis."
+  ],
+  [
+    "Preview unavailable.",
+    "Prévia indisponível."
+  ],
+  [
+    "Clothing colour not cataloged — base form.",
+    "Cor da roupa não catalogada — forma base."
+  ],
+  [
+    "Skin colour not cataloged — base form.",
+    "Cor da skin não catalogada — forma base."
+  ],
+  [
+    "Colour {id}",
+    "Cor {id}"
+  ],
+  [
+    "Colour {id} (current, not cataloged)",
+    "Cor {id} (atual, não catalogada)"
+  ],
+  [
+    "Outfit ID {id} has no special preview.",
+    "Outfit ID {id} sem prévia especial."
+  ],
+  [
+    "Image not cataloged: {name}",
+    "Imagem não catalogada: {name}"
+  ],
+  [
+    "Appearance not cataloged: {name}",
+    "Aparência não catalogada: {name}"
+  ],
+  [
+    "Clothing variant not cataloged: {name}",
+    "Variante de roupa não catalogada: {name}"
+  ],
+  [
+    "This is a legacy clothing value without artwork in the installed game (ID {id}). Choose an available item in the list.",
+    "Esta roupa é um valor legado sem imagem no jogo instalado (ID {id}). Escolha uma roupa disponível na lista."
+  ],
+  [
+    "Internal name: {name}",
+    "Nome interno: {name}"
+  ],
+  [
+    "This appearance/variant combination has not been identified yet. The original appearance was preserved.",
+    "Esta combinação de aparência e variante ainda não foi identificada. A aparência original foi preservada."
+  ],
+  [
+    "Form {name}, colour {id}",
+    "Forma {name}, cor {id}"
+  ],
+  [
+    "Clothing preview, base colour",
+    "Prévia da roupa, cor base"
+  ],
+  [
+    "Outfit ID",
+    "ID do traje"
+  ],
+  [
+    "Necklace ID",
+    "ID do colar"
+  ],
+  [
+    "Outfit ID {id}",
+    "ID do traje {id}"
+  ],
+  [
+    "Clothing ID {id}",
+    "ID da roupa {id}"
+  ],
+  [
+    "Variant ID {id}",
+    "ID da variante {id}"
+  ],
+  [
+    "(ID",
+    "(ID"
+  ],
+  [
+    "Appearance of {name}",
+    "Aparência de {name}"
+  ],
+  [
+    "Apply",
+    "Aplicar"
+  ],
+  [
+    "Array",
+    "Lista"
+  ],
+  [
+    "Object",
+    "Objeto"
+  ],
+  [
+    "Value",
+    "Valor"
+  ],
+  [
+    "Structure",
+    "Estrutura"
+  ],
+  [
+    "Format",
+    "Formatar"
+  ],
+  [
+    "Sort",
+    "Ordenar"
+  ],
+  [
+    "Transform",
+    "Transformar"
+  ],
+  [
+    "Extract",
+    "Extrair"
+  ],
+  [
+    "Paste",
+    "Colar"
+  ],
+  [
+    "Remove",
+    "Remover"
+  ],
+  [
+    "Duplicate",
+    "Duplicar"
+  ],
+  [
+    "Edit key",
+    "Editar chave"
+  ],
+  [
+    "Edit row",
+    "Editar linha"
+  ],
+  [
+    "Duplicate row",
+    "Duplicar linha"
+  ],
+  [
+    "Remove row",
+    "Remover linha"
+  ],
+  [
+    "Remove current row",
+    "Remover linha atual"
+  ],
+  [
+    "Insert before",
+    "Inserir antes"
+  ],
+  [
+    "Insert after",
+    "Inserir depois"
+  ],
+  [
+    "Copy compacted",
+    "Copiar sem espaços"
+  ],
+  [
+    "Copy formatted",
+    "Copiar formatado"
+  ],
+  [
+    "Cut",
+    "Recortar"
+  ],
+  [
+    "Cut compacted",
+    "Recortar sem espaços"
+  ],
+  [
+    "Cut formatted",
+    "Recortar formatado"
+  ],
+  [
+    "Expand all",
+    "Expandir tudo"
+  ],
+  [
+    "Collapse all",
+    "Recolher tudo"
+  ],
+  [
+    "Enforce string",
+    "Manter como texto"
+  ],
+  [
+    "Copying and pasting",
+    "Copiar e colar"
+  ],
+  [
+    "Table cell:",
+    "Célula da tabela:"
+  ],
+  [
+    "Table row:",
+    "Linha da tabela:"
+  ],
+  [
+    "tree",
+    "árvore"
+  ],
+  [
+    "table",
+    "tabela"
+  ],
+  [
+    "text",
+    "texto"
+  ],
+  [
+    "Undo (Ctrl+Z)",
+    "Desfazer (Ctrl+Z)"
+  ],
+  [
+    "Redo (Ctrl+Shift+Z)",
+    "Refazer (Ctrl+Shift+Z)"
+  ],
+  [
+    "Copy (Ctrl+C)",
+    "Copiar (Ctrl+C)"
+  ],
+  [
+    "Search (Ctrl+F)",
+    "Buscar (Ctrl+F)"
+  ],
+  [
+    "Paste clipboard contents (Ctrl+V)",
+    "Colar conteúdo da área de transferência (Ctrl+V)"
+  ],
+  [
+    "Extract selected contents",
+    "Extrair conteúdo selecionado"
+  ],
+  [
+    "Remove selected contents (Delete)",
+    "Remover conteúdo selecionado (Delete)"
+  ],
+  [
+    "Duplicate selected contents (Ctrl+D)",
+    "Duplicar conteúdo selecionado (Ctrl+D)"
+  ],
+  [
+    "Duplicate the current row (Ctrl+D)",
+    "Duplicar a linha atual (Ctrl+D)"
+  ],
+  [
+    "Edit the current row",
+    "Editar a linha atual"
+  ],
+  [
+    "Edit the key (Double-click on the key)",
+    "Editar a chave (clique duas vezes na chave)"
+  ],
+  [
+    "Edit the value (Double-click on the value)",
+    "Editar o valor (clique duas vezes no valor)"
+  ],
+  [
+    "Insert a row after the current row",
+    "Inserir uma linha após a linha atual"
+  ],
+  [
+    "Insert a row before the current row",
+    "Inserir uma linha antes da linha atual"
+  ],
+  [
+    "Select area after current entry to insert or paste contents",
+    "Selecione a área após a entrada atual para inserir ou colar conteúdo"
+  ],
+  [
+    "Select area before current entry to insert or paste contents",
+    "Selecione a área antes da entrada atual para inserir ou colar conteúdo"
+  ],
+  [
+    "Format JSON: add proper indentation and new lines (Ctrl+I)",
+    "Formatar JSON: adicionar recuo e quebras de linha (Ctrl+I)"
+  ],
+  [
+    "Compact JSON: remove all white spacing and new lines (Ctrl+Shift+I)",
+    "Compactar JSON: remover espaços e quebras de linha (Ctrl+Shift+I)"
+  ],
+  [
+    "Sort array or object contents",
+    "Ordenar o conteúdo da lista ou do objeto"
+  ],
+  [
+    "Transform array or object contents (filter, sort, project)",
+    "Transformar o conteúdo da lista ou do objeto (filtrar, ordenar, projetar)"
+  ],
+  [
+    "Transform contents (filter, sort, project)",
+    "Transformar conteúdo (filtrar, ordenar, projetar)"
+  ],
+  [
+    "Enforce keeping the value as string when it contains a numeric value",
+    "Manter o valor como texto mesmo quando ele contém um número"
+  ],
+  [
+    "Copy selected contents, formatted with indentation (Ctrl+C)",
+    "Copiar conteúdo selecionado com recuo (Ctrl+C)"
+  ],
+  [
+    "Copy selected contents, without indentation (Ctrl+Shift+C)",
+    "Copiar conteúdo selecionado sem recuo (Ctrl+Shift+C)"
+  ],
+  [
+    "Cut selected contents, formatted with indentation (Ctrl+X)",
+    "Recortar conteúdo selecionado com recuo (Ctrl+X)"
+  ],
+  [
+    "Cut selected contents, without indentation (Ctrl+Shift+X)",
+    "Recortar conteúdo selecionado sem recuo (Ctrl+Shift+X)"
+  ],
+  [
+    "Switch to table mode (current mode: {mode})",
+    "Mudar para o modo tabela (modo atual: {mode})"
+  ],
+  [
+    "Switch to text mode (current mode: {mode})",
+    "Mudar para o modo texto (modo atual: {mode})"
+  ],
+  [
+    "Switch to tree mode (current mode: {mode})",
+    "Mudar para o modo árvore (modo atual: {mode})"
+  ],
+  [
+    "Trait ID {id}",
+    "ID do traço {id}"
+  ],
+  [
+    "Trait present in the save; not identified in the catalog yet.",
+    "Traço presente no save; ainda não identificado no catálogo."
+  ],
+  [
+    "No special outfit",
+    "Nenhum outfit especial"
+  ]
+]

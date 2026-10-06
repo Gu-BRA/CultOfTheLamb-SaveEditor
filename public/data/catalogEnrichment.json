@@ -1,0 +1,9 @@
+{
+  "source": "Installed game 1.4.12: I2Languages PT-BR and Unity Sprite assets. Tarot fronts are extracted from named regions in WeaponCard.atlas.",
+  "counts": {
+    "traitsWithDescriptions": 79,
+    "playerTarotCards": 67,
+    "tarotFronts": 67,
+    "itemsWithImages": 147
+  }
+}

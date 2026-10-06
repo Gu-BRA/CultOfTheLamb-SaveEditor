@@ -1,0 +1,3362 @@
+[
+  [
+    "Devotion",
+    "Devoção"
+  ],
+  [
+    "Cannibal",
+    "Canibal"
+  ],
+  [
+    "Massive Monster",
+    "Massive Monster"
+  ],
+  [
+    "Knocks back enemies within your range while also damaging them.",
+    "Empurra os inimigos ao seu alcance para trás e causa dano a eles."
+  ],
+  [
+    "Divine Blast",
+    "Explosão Divina"
+  ],
+  [
+    "Shoot a piercing bolt of fire.",
+    "Dispare um raio de fogo perfurante."
+  ],
+  [
+    "Flaming Shot",
+    "Tiro Flamejante"
+  ],
+  [
+    "Ichor Thrown",
+    "Icor Derramado"
+  ],
+  [
+    "A projectile that spreads black Ichor on landing.",
+    "Projétil de gosma preta."
+  ],
+  [
+    "The Gates",
+    "Os Portões"
+  ],
+  [
+    "Create a vortex that pulls enemies towards it.",
+    "Crie um vórtice que puxa inimigos."
+  ],
+  [
+    "Death's Sweep",
+    "Rasteira da Morte"
+  ],
+  [
+    "A devastating melee attack that can be charged for increased power.",
+    "Um ataque corpo a corpo devastador com carga para aumentar seu poder."
+  ],
+  [
+    "Convoke a violent eruption of powerful tentacles.",
+    "Invoque uma erupção de tentáculos poderosos."
+  ],
+  [
+    "Touch of Turua",
+    "Toque de Turua"
+  ],
+  [
+    "A well-balanced blade dealing moderate damage.",
+    "Uma lâmina bem equilibrada que causa dano moderado."
+  ],
+  [
+    "Crusader's Blade",
+    "Lâmina do Cavaleiro"
+  ],
+  [
+    "A mighty tool of unstoppable brutality.",
+    "Uma potente ferramenta de brutalidade incontrolável."
+  ],
+  [
+    "Apostate's Cleaver",
+    "Cutelo do Apóstata"
+  ],
+  [
+    "A set of deadly spiked gloves.",
+    "Luvas com pontas de ferro letais."
+  ],
+  [
+    "Tempest's Gauntlets",
+    "Manoplas da Tempestade"
+  ],
+  [
+    "A fast blade designed for many cuts, low damage but lightning quick.",
+    "Uma adaga para muitos cortes que causa pouco dano, mas é ultrarrápida."
+  ],
+  [
+    "Traitor's Razor",
+    "Navalha do Traidor"
+  ],
+  [
+    "Slow to fall, yet calamitous upon landing.",
+    "Queda lenta, porém, calamitosa."
+  ],
+  [
+    "Warmaker's Hammer",
+    "Martelo do Beligerante"
+  ],
+  [
+    "Curses consume 25% less Fervour",
+    "Maldições consomem 25% a menos de Fervor"
+  ],
+  [
+    "Curses consume  50% less Fervour",
+    "Maldições consomem  50% a menos de Fervor"
+  ],
+  [
+    "Curses consume  75% less Fervour",
+    "Maldições consomem menos  75% de Fervor"
+  ],
+  [
+    "Divine Curse",
+    "Maldição Divina"
+  ],
+  [
+    "Fervour  replenishes fully when entering a new combat room.",
+    "Fervor reabastece completamente ao entrar em uma nova sala de combate."
+  ],
+  [
+    "Fervour's Host",
+    "Anfitrião do Fervor"
+  ],
+  [
+    "Attack rate increased by 1.25x",
+    "Taxa de ataque aumentada em 1,25x"
+  ],
+  [
+    "Attack rate increased by  1.5x",
+    "Taxa de ataque aumentada em  1,5x"
+  ],
+  [
+    "Attack rate increased by  2x",
+    "Taxa de ataque aumentada em  2x"
+  ],
+  [
+    "Divine Strength",
+    "Força Divina"
+  ],
+  [
+    "Fervour  will slowly replenish over time   2.5s cooldown",
+    "Fervor  reabastece lentamente com o tempo   2,5 seg. de recarga"
+  ],
+  [
+    "Fervour  will slowly replenish over time    1.5s cooldown",
+    "Fervor  reabastece lentamente com o tempo    1,5 seg. de recarga"
+  ],
+  [
+    "Strength from Within",
+    "Força Interior"
+  ],
+  [
+    "Receive 5 Fervour  when hit.",
+    "Receba 5 de Fervor  ao sofrer dano"
+  ],
+  [
+    "Receive  10 Fervour  when hit.",
+    "Receba  10 Fervores  ao sofrer dano"
+  ],
+  [
+    "Strength from Without",
+    "Força Exterior"
+  ],
+  [
+    "Drop an explosive when you roll.   10s cooldown.",
+    "Solte um explosivo quando fizer um rolamento   10 seg. de recarga"
+  ],
+  [
+    "Drop an explosive when you roll.   5s cooldown.",
+    "Solte um explosivo quando fizer um rolamento   5 seg. de recarga"
+  ],
+  [
+    "The Bomb",
+    "A Bomba"
+  ],
+  [
+    "Rolling into an enemy will damage them.",
+    "Rolar nos inimigos causa dano a eles."
+  ],
+  [
+    "Blazing Trail",
+    "Rastro Flamejante"
+  ],
+  [
+    "When hit down to , all enemies will be dealt 2 damage.",
+    "Ao sofrer dano até chegar a , todos os inimigos receberão 2 de dano"
+  ],
+  [
+    "When hit down to , all enemies will be dealt  3 damage.",
+    "Ao sofrer dano até chegar a , todos os inimigos receberão  3 de dano"
+  ],
+  [
+    "When hit down to , all enemies will be dealt  10 damage.",
+    "Ao sofrer dano até chegar a , todos os inimigos receberão  10 de dano"
+  ],
+  [
+    "Death's Door",
+    "A Porta da Morte"
+  ],
+  [
+    "Damages everything on screen when hit.",
+    "Causa dano em toda a tela quando sofrer dano."
+  ],
+  [
+    "Diseased Heart",
+    "Coração Doente"
+  ],
+  [
+    "10% chance to deal a critical hit.",
+    "10% de chance de causar um acerto crítico"
+  ],
+  [
+    "True Sight",
+    "Visão Verdadeira"
+  ],
+  [
+    "10% chance of gaining  when killing an enemy.",
+    "10% de chance de ganhar  quando matar um inimigo."
+  ],
+  [
+    "20% chance of gaining  when killing an enemy.",
+    "20% de chance de ganhar  quando matar um inimigo."
+  ],
+  [
+    "Gift From Below",
+    "Presente Lá Debaixo"
+  ],
+  [
+    "Drop black Ichor on hit.",
+    "Solte gosma preta ao receber dano."
+  ],
+  [
+    "Ichor Earned",
+    "Icor Recebido"
+  ],
+  [
+    "Drop black Ichor when you roll   10s cooldown.",
+    "Solte gosma preta quando fizer um rolamento   10 seg. de recarga."
+  ],
+  [
+    "Drop black Ichor when you roll    5s cooldown.",
+    "Solte gosma preta quando fizer um rolamento    5 seg. de recarga."
+  ],
+  [
+    "Ichor Lingered",
+    "Icor Prolongado"
+  ],
+  [
+    "Fire a projectile when you swing your weapon.  10s cooldown.",
+    "Atire um projétil quando usar sua arma  10 seg. de recarga."
+  ],
+  [
+    "Fire a projectile when you swing your weapon.   5s cooldown.",
+    "Atire um projétil quando usar sua arma   5 seg. de recarga."
+  ],
+  [
+    "Hands of Rage",
+    "Mãos Furiosas"
+  ],
+  [
+    "When killing an enemy, 10% chance of healing.",
+    "10% de chance de se curar ao matar um inimigo."
+  ],
+  [
+    "When killing an enemy,  20% chance of healing.",
+    "20% de chance de se curar quando matar um inimigo."
+  ],
+  [
+    "Soul Snatcher",
+    "Ladrão de Almas"
+  ],
+  [
+    "Receive double the health when healing.",
+    "Receba o dobro de saúde quando se curar."
+  ],
+  [
+    "Fortune's Blessing",
+    "Benção da Sorte"
+  ],
+  [
+    "Gain an extra",
+    "Ganhe um  extra."
+  ],
+  [
+    "The Hearts I",
+    "Os Corações I"
+  ],
+  [
+    "Gain an extra",
+    "Ganhe um  extra."
+  ],
+  [
+    "The Hearts II",
+    "Os Corações II"
+  ],
+  [
+    "Gain an extra two",
+    "Ganhe dois  extras."
+  ],
+  [
+    "The Hearts III",
+    "Os Corações III"
+  ],
+  [
+    "Enemies will drop 2x more Fervour",
+    "Inimigos soltam 2x mais Fervor"
+  ],
+  [
+    "Enemies will drop  3x more Fervour",
+    "Inimigos soltam  3x mais Fervor"
+  ],
+  [
+    "Fervour's Harvest",
+    "Colheita do Fervor"
+  ],
+  [
+    "Overall weapon damage increased by 1.2x",
+    "Dano total de armas aumentado em 1,2x"
+  ],
+  [
+    "Overall weapon damage increased by  1.5x",
+    "Dano total de armas aumentado em  1,5x"
+  ],
+  [
+    "Master of the Art",
+    "Mestre da Arte"
+  ],
+  [
+    "+1",
+    "+1"
+  ],
+  [
+    "The Lovers I",
+    "Os Amantes I"
+  ],
+  [
+    "+2",
+    "+2"
+  ],
+  [
+    "The Lovers II",
+    "Os Amantes II"
+  ],
+  [
+    "30% more damage during the night.",
+    "Mais 30% de dano durante a noite."
+  ],
+  [
+    "Weeping Moon",
+    "Lua Chorosa"
+  ],
+  [
+    "Increased movement speed by 1.25x",
+    "Velocidade de movimento aumentada em 1,25x"
+  ],
+  [
+    "Increased movement speed by 1.5x",
+    "Velocidade de movimento aumentada em 1,5x"
+  ],
+  [
+    "Increased movement speed by 2x",
+    "Velocidade de movimento aumentada em 2x"
+  ],
+  [
+    "The Path",
+    "O Caminho"
+  ],
+  [
+    "Harvest bonus resources.",
+    "Colha bônus de recursos."
+  ],
+  [
+    "Nature's Boon",
+    "Dádiva da Natureza"
+  ],
+  [
+    "When attacked, 10% chance of negating damage.",
+    "10% de chance de invalidar o dano ao sofrer um ataque."
+  ],
+  [
+    "When attacked,  20% chance of negating damage.",
+    "20% de chance de invalidar o dano ao sofrer um ataque."
+  ],
+  [
+    "Shield of Faith",
+    "Escudo de Fé"
+  ],
+  [
+    "Immune to poison.",
+    "Imune a veneno."
+  ],
+  [
+    "Mithridatism",
+    "Mitridatismo"
+  ],
+  [
+    "Increased Curse attack damage by 1.25x",
+    "Dano do ataque de maldição aumentado em 1,25x"
+  ],
+  [
+    "Increased Curse attack damage by  1.5x",
+    "Dano do ataque de maldição aumentado em  1,5x"
+  ],
+  [
+    "Increased Curse attack damage by  2x",
+    "Dano do ataque de maldição aumentado em  2x"
+  ],
+  [
+    "Ambrosia",
+    "Ambrósia"
+  ],
+  [
+    "Dead enemy bodies explode, damaging other enemies.",
+    "Os corpos de inimigos mortos explodem, causando dano a outros inimigos."
+  ],
+  [
+    "The Burning Dead",
+    "Os Mortos em Chamas"
+  ],
+  [
+    "Deals poison damage to enemies struck.",
+    "Causa dano de veneno aos inimigos atingidos."
+  ],
+  [
+    "The Arachnid",
+    "O Aracnídeo"
+  ],
+  [
+    "20% more damage during the day.",
+    "Mais 20% de dano durante o dia."
+  ],
+  [
+    "All Seeing Sun",
+    "Sol Que Tudo Vê"
+  ],
+  [
+    "Reveal the map.",
+    "Revele o mapa."
+  ],
+  [
+    "Telescope",
+    "Telescópio"
+  ],
+  [
+    "When killed, resurrect with",
+    "Ao morrer, ressuscite com"
+  ],
+  [
+    "The Deal",
+    "O Acordo"
+  ],
+  [
+    "Neptune’s Curse",
+    "A Maldição de Netuno"
+  ],
+  [
+    "Enemies have a chance to drop a fish.",
+    "Há uma chance de os inimigos soltarem um peixe."
+  ],
+  [
+    "Rabbits Foot",
+    "Pé de Coelho"
+  ],
+  [
+    "Increases chance to spawn better chests.",
+    "Aumenta as chances de aparecer baús melhores."
+  ],
+  [
+    "Wraith's Will",
+    "Vontade do Espectro"
+  ],
+  [
+    "Destroy breakable rocks on touch.",
+    "Destrua rochas quebráveis com um toque."
+  ],
+  [
+    "The Intangible",
+    "Intangível"
+  ],
+  [
+    "Environmental traps cause no damage.",
+    "Armadilhas do ambiente não causam dano."
+  ],
+  [
+    "Retribution",
+    "Retaliação"
+  ],
+  [
+    "Drop a friendly bomb when hit.",
+    "Solte uma bomba amiga ao sofrer dano."
+  ],
+  [
+    "Godly Moment",
+    "Momento Celestial"
+  ],
+  [
+    "Begin each room with a brief moment of invincibility.",
+    "Em toda sala, comece com um breve momento de invencibilidade."
+  ],
+  [
+    "Kin of Turua",
+    "Família de Turua"
+  ],
+  [
+    "When hit, spawn a tentacle that damages enemies on contact.",
+    "Ao sofrer dano, aparece um tentáculo que causa dano aos inimigos ao fazer contato."
+  ],
+  [
+    "The Collector",
+    "O Colecionador"
+  ],
+  [
+    "Higher chance of Relics spawning.",
+    "Maior chance de surgir Relíquias."
+  ],
+  [
+    "Sacred Treatment",
+    "Tratamento Sagrado"
+  ],
+  [
+    "Drain all Fervour in exchange for half a heart.",
+    "Drene todo o Fervor em troca de meio coração."
+  ],
+  [
+    "Consecrated Oil of Renewal",
+    "Óleo Consagrado da Renovação"
+  ],
+  [
+    "Relics charge 1.25x as fast.",
+    "Relíquias carregam 1,25x mais rapidamente."
+  ],
+  [
+    "Relics charge  1.5x as fast.",
+    "Relíquias carregam  1,5x mais rapidamente."
+  ],
+  [
+    "Relics charge  2x as fast.",
+    "Relíquias carregam  2x mais rapidamente."
+  ],
+  [
+    "The Reaching Tree",
+    "A Árvore de Atalhos"
+  ],
+  [
+    "Travel to any chamber in a row of the adventure map.",
+    "Vá para qualquer sala de uma linha do mapa de aventura."
+  ],
+  [
+    "Spirit Salvager",
+    "Reaproveitamento Espiritual"
+  ],
+  [
+    "Recycle any Weapon or Curse to gain half a Blue Heart",
+    "Recicle uma Arma ou Maldição para ganhar meio coração azul"
+  ],
+  [
+    "Blind Wrath",
+    "Fúria Cega"
+  ],
+  [
+    "When hit, a random enemy will be struck by lightning.",
+    "Ao sofrer dano, um inimigo aleatório será atingido por raio."
+  ],
+  [
+    "The Vanquisher",
+    "O Conquistador"
+  ],
+  [
+    "When an enemy is killed, 10% chance of striking a random enemy with lightning.",
+    "Quando um inimigo morre, há 10% de chance de um raio atingir um inimigo aleatório."
+  ],
+  [
+    "When an enemy is killed,  20% chance of striking a random enemy with lightning.",
+    "Quando um inimigo morre, há  20% de chance de um raio atingir um inimigo aleatório."
+  ],
+  [
+    "When an enemy is killed,  30% chance of striking a random enemy with lightning.",
+    "Quando um inimigo morre, há  30% de chance de um raio atingir um inimigo aleatório."
+  ],
+  [
+    "Usurper Blessed",
+    "Usurpador Abençoado"
+  ],
+  [
+    "Heal fully when entering a boss room.",
+    "Cura completamente ao entrar em uma sala de chefe."
+  ],
+  [
+    "Order of Purity",
+    "Ordem da Pureza"
+  ],
+  [
+    "Removes the negative effects from corrupted Relics and Tarot Cards.",
+    "Remove os efeitos negativos de Relíquias e Cartas de Tarô."
+  ],
+  [
+    "Temptation's Fate",
+    "Destino da Tentação"
+  ],
+  [
+    "10% chance of enemies dropping Sin",
+    "10% de chance de inimigos deixarem Pecado"
+  ],
+  [
+    "Favourable Winds",
+    "Vento Oportuno"
+  ],
+  [
+    "Move 2 rows forward on the adventure map.",
+    "Mova 2 linhas para a frente no mapa de aventura."
+  ],
+  [
+    "The Labyrinth",
+    "O Labirinto"
+  ],
+  [
+    "Once per row on the adventure map, shuffle any chamber of your choosing.",
+    "Uma vez por linha no mapa de aventura, troque qualquer sala de lugar."
+  ],
+  [
+    "Reckoning",
+    "Acerto de Contas"
+  ],
+  [
+    "Mortal Oath",
+    "Juramento Mortal"
+  ],
+  [
+    "Blighted Core",
+    "Núcleo Corrompido"
+  ],
+  [
+    "The Loathed",
+    "O Odiado"
+  ],
+  [
+    "The Hoarder",
+    "O Acumulador"
+  ],
+  [
+    "Renegade Victorious",
+    "Traidor Vitorioso"
+  ],
+  [
+    "Poison Taster",
+    "Degustador de Veneno"
+  ],
+  [
+    "Sullied Oil",
+    "Óleo Maculado"
+  ],
+  [
+    "Ichor Drained",
+    "Icor Drenado"
+  ],
+  [
+    "The Comrades",
+    "Os Camaradas"
+  ],
+  [
+    "When fighting close together, deal 2x Weapon damage.",
+    "Ao lutar próximo a outro jogador, causa 2x o dano da arma."
+  ],
+  [
+    "The Rivals",
+    "Os Rivais"
+  ],
+  [
+    "When fighting far apart, deal 2x Weapon damage.",
+    "Ao lutar longe de outro jogador, causa 2x o dano da arma."
+  ],
+  [
+    "Bonds of Battle",
+    "Laços de Batalha"
+  ],
+  [
+    "Both players are connected by a beam that damages enemies on touch.",
+    "Os jogadores ficam conectados por um feixe que causa dano aos inimigos."
+  ],
+  [
+    "The Synchronous",
+    "A Sincronia"
+  ],
+  [
+    "Deal critical hits when both players attack at the same time.",
+    "Realiza acertos críticos quando os dois jogadores atacam ao mesmo tempo."
+  ],
+  [
+    "Flint and Steel",
+    "Pedra e Aço"
+  ],
+  [
+    "Rolling through one another has a 20% chance to cause an explosion.",
+    "Rolar sobre outro jogador tem 20% de chance de causar uma explosão."
+  ],
+  [
+    "Paltry Pumpkin Soup",
+    "Sopa de Abóbora Simples"
+  ],
+  [
+    "A healthy meal of vegetables.",
+    "Uma refeição saudável feita de vegetais."
+  ],
+  [
+    "Hearty Meat Broth",
+    "Refeição de Carne Vigorosa"
+  ],
+  [
+    "A filling, carnivorous affair.",
+    "A paixão dos carnívoros, e enche a barriga."
+  ],
+  [
+    "Grassy Gruel",
+    "Gororoba de Mato"
+  ],
+  [
+    "Better than nothing.",
+    "Melhor que nada."
+  ],
+  [
+    "Minced Follower Meat",
+    "Picadinho de Seguidor"
+  ],
+  [
+    "A dish made of the flesh of fellow Cult members.",
+    "Um prato feito da carne de colegas membros do Culto."
+  ],
+  [
+    "Bowl of Poop",
+    "Tigela de Cocô"
+  ],
+  [
+    "A \"meal\" made of excrement...",
+    "Uma \"refeição\" feita de excremento..."
+  ],
+  [
+    "Mushroom Meal",
+    "Refeição de Cogumelos"
+  ],
+  [
+    "Sauteed mushrooms, hopefully not poisonous.",
+    "Tomara que esses cogumelos refogados não sejam venenosos."
+  ],
+  [
+    "Tasty Fish Meal",
+    "Refeição de Peixe Gostosa"
+  ],
+  [
+    "A satisfying dish, made with care.",
+    "Um prato satisfatório feito com carinho."
+  ],
+  [
+    "Delicious Fish Feast",
+    "Banquete de Peixe Delicioso"
+  ],
+  [
+    "Rich ingredients, perfectly prepared.",
+    "Preparada perfeitamente com ingredientes ricos."
+  ],
+  [
+    "Splendid Vegetable Feast",
+    "Banquete de Vegetais Divino"
+  ],
+  [
+    "A divine culinary experience!",
+    "Uma experiência culinária divina!"
+  ],
+  [
+    "Pungent Fish Stew",
+    "Ensopado de Peixe Picante"
+  ],
+  [
+    "Tastes better than it looks.",
+    "É mais gostosa do que parece."
+  ],
+  [
+    "Basic Berry Bowl",
+    "Tigela Simples de Fruta"
+  ],
+  [
+    "Simple meal made from berries.",
+    "Uma simples refeição de frutas."
+  ],
+  [
+    "Deadly Dish",
+    "Prato Letal"
+  ],
+  [
+    "A truly vile concoction.",
+    "Uma mistura verdadeiramente infame."
+  ],
+  [
+    "Meager Mixed Meal",
+    "Refeição Mista Fraca"
+  ],
+  [
+    "Not great.",
+    "Nada boa."
+  ],
+  [
+    "Modest Mixed Meal",
+    "Refeição Mista Modesta"
+  ],
+  [
+    "Tastes better than it looks.",
+    "É mais gostosa do que parece."
+  ],
+  [
+    "Magnificent Mixed Meal",
+    "Refeição Mista Magnífica"
+  ],
+  [
+    "A fine meal made from the very best mixed ingredients.",
+    "Uma boa refeição feita com a mistura dos melhores ingredientes."
+  ],
+  [
+    "Cheery Cauliflower Chowder",
+    "Sopa de Couve-Flor Alegre"
+  ],
+  [
+    "Tasty veggie dish.",
+    "Uma refeição vegetariana gostosa."
+  ],
+  [
+    "Stringy Meat Gruel",
+    "Gororoba Pegajosa de Carne"
+  ],
+  [
+    "Made from scraps.",
+    "Feita de restos."
+  ],
+  [
+    "Mighty Meat Feast",
+    "Banquete Poderoso de Carne"
+  ],
+  [
+    "Great hunks of juicy meat.",
+    "Pedaços generosos de carne suculenta."
+  ],
+  [
+    "Burnt Meal",
+    "Refeição Queimada"
+  ],
+  [
+    "Seasoned with flames",
+    "Temperada com fogo."
+  ],
+  [
+    "Hot Chilli Mash",
+    "Purê de Pimenta"
+  ],
+  [
+    "Be careful, it's spicy!",
+    "Cuidado, é picante!"
+  ],
+  [
+    "Brog Brew",
+    "Bebida Duvidosa"
+  ],
+  [
+    "Perfect after a long day.",
+    "Perfeita para tomar depois de um dia longo."
+  ],
+  [
+    "Poop Juice",
+    "Suco de Cocô"
+  ],
+  [
+    "Chewy chunks blended into juice.",
+    "Suco com pedaços borrachudos."
+  ],
+  [
+    "Shroom Shake",
+    "Shake-Melo"
+  ],
+  [
+    "Mushroom chunks in a shake.",
+    "Pedaços de cogumelos batidos."
+  ],
+  [
+    "Fruit Elixir",
+    "Elixir de Fruta"
+  ],
+  [
+    "Fruity, fresh and fabulous.",
+    "Drinque de frutas refrescante e fabuloso."
+  ],
+  [
+    "Juniper Drink",
+    "Suco de Zimbro"
+  ],
+  [
+    "For drowning sorrows.",
+    "Para afogar as mágoas."
+  ],
+  [
+    "Eggnog",
+    "Gemada"
+  ],
+  [
+    "A creamy and festive beverage.",
+    "Um drinque cremoso e festivo."
+  ],
+  [
+    "Grape Nectar",
+    "Néctar de Uva"
+  ],
+  [
+    "Perfect for toasting a great Leader.",
+    "Perfeito para homenagear grandes Líderes."
+  ],
+  [
+    "Egg Meal",
+    "Refeição de Ovo"
+  ],
+  [
+    "A meal made from a delicious fresh egg.",
+    "Uma refeição feita com um delicioso ovo fresco."
+  ],
+  [
+    "Sozo",
+    "Sozo"
+  ],
+  [
+    "Heket",
+    "Heket"
+  ],
+  [
+    "Baal",
+    "Baal"
+  ],
+  [
+    "Aym",
+    "Aym"
+  ],
+  [
+    "Darkwood",
+    "Floresta Sombria"
+  ],
+  [
+    "Anura",
+    "Anura"
+  ],
+  [
+    "Anchordeep",
+    "Ancorada"
+  ],
+  [
+    "Silk Cradle",
+    "Berço de Seda"
+  ],
+  [
+    "Better than nothing.",
+    "Melhor que nada"
+  ],
+  [
+    "Wooden Planks",
+    "Tábuas de Madeira"
+  ],
+  [
+    "Poop",
+    "Cocô"
+  ],
+  [
+    "Tempest's Gauntlets",
+    "Manoplas da Tempestade"
+  ],
+  [
+    "A set of deadly spiked gloves.",
+    "Luvas com pontas de ferro letais."
+  ],
+  [
+    "Warmaker's Hammer",
+    "Martelo do Beligerante"
+  ],
+  [
+    "Touch of Turua",
+    "Toque de Turua"
+  ],
+  [
+    "Death's Sweep",
+    "Rasteira da Morte"
+  ],
+  [
+    "Crusader's Blade",
+    "Lâmina do Cavaleiro"
+  ],
+  [
+    "A well balanced blade dealing moderate damage.",
+    "Uma lâmina bem equilibrada que causa dano moderado."
+  ],
+  [
+    "Apostate's Cleaver",
+    "Cutelo do Apóstata"
+  ],
+  [
+    "A mighty tool of unstoppable brutality.",
+    "Uma potente ferramenta de brutalidade incontrolável."
+  ],
+  [
+    "Warmaker's Hammer",
+    "Martelo do Beligerante"
+  ],
+  [
+    "Slow to fall, yet calamitous upon landing.",
+    "Queda lenta, porém, calamitosa."
+  ],
+  [
+    "Traitor's Razor",
+    "Navalha do Traidor"
+  ],
+  [
+    "A fast blade designed for many cuts, low damage but lightning quick.",
+    "Uma adaga para muitos cortes que causa pouco dano, mas é ultrarrápida."
+  ],
+  [
+    "Tempest's Gauntlets",
+    "Manoplas da Tempestade"
+  ],
+  [
+    "Touch of Turua",
+    "Toque de Turua"
+  ],
+  [
+    "Convoke a violent eruption of powerful tentacles.",
+    "Invoque uma erupção de tentáculos poderosos."
+  ],
+  [
+    "Divine Blast",
+    "Explosão Divina"
+  ],
+  [
+    "Knocks back enemies within your range while also damaging them.",
+    "Empurra os inimigos ao seu alcance para trás e causa dano a eles."
+  ],
+  [
+    "Divine Force",
+    "Força Divina"
+  ],
+  [
+    "Ichor Thrown",
+    "Icor Derramado"
+  ],
+  [
+    "A projectile that spreads black Ichor on landing.",
+    "Projétil de gosma preta."
+  ],
+  [
+    "Flaming Shot",
+    "Tiro Flamejante"
+  ],
+  [
+    "Death's Sweep",
+    "Rasteira da Morte"
+  ],
+  [
+    "A devastating melee attack that can be charged for increased power.",
+    "Um ataque corpo a corpo devastador com carga para aumentar seu poder."
+  ],
+  [
+    "Poppy",
+    "Papoula"
+  ],
+  [
+    "Follower Form",
+    "Forma do Seguidor"
+  ],
+  [
+    "Food",
+    "Comida"
+  ],
+  [
+    "Currency",
+    "Dinheiro"
+  ],
+  [
+    "Fragile",
+    "Frágil"
+  ],
+  [
+    "Necklaces",
+    "Colares"
+  ],
+  [
+    "Sin",
+    "Pecado"
+  ],
+  [
+    "Other",
+    "Outros"
+  ],
+  [
+    "Freezing",
+    "Congelando"
+  ],
+  [
+    "Berry",
+    "Fruta"
+  ],
+  [
+    "A tasty ingredient for cooking meals.",
+    "Um ingrediente gostoso para refeições."
+  ],
+  [
+    "Coin",
+    "Moeda"
+  ],
+  [
+    "A currency used for all manner of things.",
+    "Tipo de dinheiro usado para uma variedade de coisas."
+  ],
+  [
+    "Bone",
+    "Osso"
+  ],
+  [
+    "A useful offering for clandestine rituals.",
+    "Uma oferenda útil para rituais clandestinos."
+  ],
+  [
+    "Salmon",
+    "Salmão"
+  ],
+  [
+    "A satisfactory main dish.",
+    "Um prato principal satisfatório."
+  ],
+  [
+    "Tuna",
+    "Atum"
+  ],
+  [
+    "A delicacy for dedicated Followers.",
+    "Uma iguaria para Seguidores dedicados."
+  ],
+  [
+    "Minnow",
+    "Peixinho"
+  ],
+  [
+    "A small addition to any meal.",
+    "Uma pequena adição a qualquer refeição."
+  ],
+  [
+    "Crab",
+    "Caranguejo"
+  ],
+  [
+    "A wee nipper.",
+    "Um pequeno pinçador."
+  ],
+  [
+    "Lobster",
+    "Lagosta"
+  ],
+  [
+    "A big nipper.",
+    "Um grande pinçador."
+  ],
+  [
+    "Octopus",
+    "Polvo"
+  ],
+  [
+    "It has eight wiggling legs.",
+    "Tem oito braços que se mexem."
+  ],
+  [
+    "Squid",
+    "Lula"
+  ],
+  [
+    "It has eight wiggling tendrils.",
+    "Tem oito tentáculos que se mexem."
+  ],
+  [
+    "Swordfish",
+    "Peixe-Espada"
+  ],
+  [
+    "A truly remarkable catch.",
+    "Uma pesca realmente notável."
+  ],
+  [
+    "Blowfish",
+    "Baiacu"
+  ],
+  [
+    "Both delicate and dangerous.",
+    "Tão delicado quanto perigoso."
+  ],
+  [
+    "Camellia",
+    "Camélia"
+  ],
+  [
+    "A delicate flower useful for its beauty and medicinal benefits.",
+    "Uma flor delicada, útil por sua beleza e benefícios medicinais."
+  ],
+  [
+    "Big Gift",
+    "Presente Grande"
+  ],
+  [
+    "A gift to raise the Loyalty of a Follower.",
+    "Um presente para aumentar a Lealdade de um Seguidor."
+  ],
+  [
+    "Small Gift",
+    "Presente Pequeno"
+  ],
+  [
+    "A small gift to raise the Loyalty of a Follower.",
+    "Um pequeno presente para aumentar a Lealdade de um Seguidor."
+  ],
+  [
+    "Gold Nugget",
+    "Pepita de Ouro"
+  ],
+  [
+    "A nugget of gold that can be refined into coin.",
+    "Uma pepita de ouro que pode ser refinada em uma moeda."
+  ],
+  [
+    "Gold Bars",
+    "Barras de Ouro"
+  ],
+  [
+    "An expensive material used for building sacred structures.",
+    "Material caro usado para construir estruturas sagradas."
+  ],
+  [
+    "Grass",
+    "Mato"
+  ],
+  [
+    "A simple material used as fuel.",
+    "Material simples usado como combustível."
+  ],
+  [
+    "Lumber",
+    "Madeira"
+  ],
+  [
+    "A simple material used for building structures.",
+    "Material simples usado para construir estruturas."
+  ],
+  [
+    "Wooden Planks",
+    "Tábuas de Madeira"
+  ],
+  [
+    "A material used for building sturdy structures.",
+    "Material usado para construir estruturas robustas."
+  ],
+  [
+    "Meat",
+    "Carne"
+  ],
+  [
+    "A nourishing food to sink your teeth into.",
+    "Uma refeição nutritiva para você cravar seus dentes."
+  ],
+  [
+    "Follower Meat",
+    "Carne de Seguidor"
+  ],
+  [
+    "The harvested meat of one who once followed you.",
+    "A carne colhida de alguém que costumava te seguir."
+  ],
+  [
+    "Follower Meat Rotten",
+    "Carne de Seguidor Apodrecida"
+  ],
+  [
+    "The rotten meat of one who once followed you.",
+    "A carne apodrecida de alguém que costumava te seguir."
+  ],
+  [
+    "Heart of a Heretic",
+    "Coração de Herege"
+  ],
+  [
+    "Menticide Mushroom",
+    "Cogumelo Menticida"
+  ],
+  [
+    "An insidious fungus, with an intoxicating musk.",
+    "Um cogumelo traiçoeiro com um odor intoxicante."
+  ],
+  [
+    "Flower Necklace",
+    "Colar de Flores"
+  ],
+  [
+    "Follower will generate Devotion faster.",
+    "O Seguidor gerará devoção mais rapidamente"
+  ],
+  [
+    "Feather Necklace",
+    "Colar de Penas"
+  ],
+  [
+    "Follower will have increased movement speed.",
+    "O Seguidor terá a velocidade de movimento aumentada"
+  ],
+  [
+    "Skull Necklace",
+    "Colar de Crânio"
+  ],
+  [
+    "Follower will live an unnaturally long life, double what would usually be expected.",
+    "O Seguidor terá uma vida estranhamente longa, o dobro do que se esperaria."
+  ],
+  [
+    "Natures Necklace",
+    "Colar da Natureza"
+  ],
+  [
+    "Follower will harvest bonus resources.",
+    "O Seguidor coletará bônus de recursos"
+  ],
+  [
+    "Moon Necklace",
+    "Colar da Lua"
+  ],
+  [
+    "Follower will never sleep.",
+    "O Seguidor nunca dormirá"
+  ],
+  [
+    "Fertilizer",
+    "Fertilizante"
+  ],
+  [
+    "Rich in nutrients, useful on Farm Plots.",
+    "Rico em nutrientes, útil para Terrenos Agrícolas."
+  ],
+  [
+    "Pumpkin",
+    "Abóbora"
+  ],
+  [
+    "A hearty ingredient.",
+    "Um ingrediente vigoroso."
+  ],
+  [
+    "Eye of the Witness",
+    "Olho da Testemunha"
+  ],
+  [
+    "Take this to Plimbo for a reward.",
+    "Leve isso para o Plimbo e ganhe uma recompensa."
+  ],
+  [
+    "Cauliflower",
+    "Couve-Flor"
+  ],
+  [
+    "Delicious and healthy ingredient for cooking.",
+    "Um ingrediente de cozinha delicioso e saudável."
+  ],
+  [
+    "Cauliflower Seed",
+    "Semente de Couve-Flor"
+  ],
+  [
+    "Plant this in a Farm Plot.",
+    "Plante em um Terreno Agrícola."
+  ],
+  [
+    "Beetroot",
+    "Beterraba"
+  ],
+  [
+    "Appetizing and invigorating ingredient for cooking.",
+    "Ingrediente de cozinha apetitoso e revigorante."
+  ],
+  [
+    "Beetroot Seeds",
+    "Sementes de Beterraba"
+  ],
+  [
+    "Plant this in a Farm Plot.",
+    "Plante em um Terreno Agrícola."
+  ],
+  [
+    "Berry Bush Seed",
+    "Semente de Fruta do Arbusto"
+  ],
+  [
+    "Plant this in a Farm Plot.",
+    "Plante em um Terreno Agrícola."
+  ],
+  [
+    "Camellia Seed",
+    "Semente de Camélia"
+  ],
+  [
+    "Plant this in a Farm Plot.",
+    "Plante em um Terreno Agrícola."
+  ],
+  [
+    "Menticide Mushroom Spore",
+    "Esporo de Cogumelo Menticida"
+  ],
+  [
+    "Plant this in a Farm Plot.",
+    "Plante em um Terreno Agrícola."
+  ],
+  [
+    "Pumpkin Seed",
+    "Semente de Abóbora"
+  ],
+  [
+    "Plant this in a Farm Plot.",
+    "Plante em um Terreno Agrícola."
+  ],
+  [
+    "Devotion",
+    "Devoção"
+  ],
+  [
+    "The currency of Cult leaders.",
+    "A moeda dos líderes de Cultos."
+  ],
+  [
+    "Stone",
+    "Pedra"
+  ],
+  [
+    "A useful building material.",
+    "Um material de construção útil."
+  ],
+  [
+    "Stone Blocks",
+    "Blocos de Pedra"
+  ],
+  [
+    "A material used for building sturdy structures.",
+    "Material usado para construir estruturas robustas."
+  ],
+  [
+    "Crystal Shards",
+    "Fragmentos de Cristal"
+  ],
+  [
+    "A material used for building pretty decorations.",
+    "Material usado para construir belas decorações."
+  ],
+  [
+    "Spider Silk",
+    "Seda de Aranha"
+  ],
+  [
+    "Delicate yet strong, pulled from the webs of spiders and used for building decorations.",
+    "Delicada, porém forte. É retirada de teias de aranhas e usada para decorar construções."
+  ],
+  [
+    "Blue Heart",
+    "Coração Azul"
+  ],
+  [
+    "Half Blue Heart",
+    "Meio Coração Azul"
+  ],
+  [
+    "Red Heart",
+    "Coração Vermelho"
+  ],
+  [
+    "Half Red Heart",
+    "Meio Coração Vermelho"
+  ],
+  [
+    "Diseased Heart",
+    "Coração Doente"
+  ],
+  [
+    "Followers",
+    "Seguidores"
+  ],
+  [
+    "Morsel",
+    "Petisco"
+  ],
+  [
+    "A scrawny piece of meat.",
+    "Um pedaço de carne bem magro."
+  ],
+  [
+    "Holy Talisman",
+    "Talismã Sagrado"
+  ],
+  [
+    "Mystical relics that can unlock new Fleeces from the Altar in your Temple.",
+    "Relíquias Místicas que podem debloquear novas Lãs no Altar do seu Templo."
+  ],
+  [
+    "Unholy hearts that can unlock new Crown Abilities from the Altar in your Temple.",
+    "Corações profanos que podem debloquear novas Habilidades da Coroa no Altar do seu Templo."
+  ],
+  [
+    "Follower Form",
+    "Forma do Seguidor"
+  ],
+  [
+    "Commandment Stone Fragment",
+    "Fragmento de Pedra da Lei"
+  ],
+  [
+    "Commandment Stones that can be used to declare new Doctrines from the Altar in your Temple.",
+    "Pedras da Lei que podem ser usadas para declarar novas Doutrinas no Altar do seu Templo."
+  ],
+  [
+    "Tarot Card",
+    "Carta de Tarô"
+  ],
+  [
+    "Blueprint",
+    "Modelo"
+  ],
+  [
+    "Shell",
+    "Concha"
+  ],
+  [
+    "It looks like it was once part of a shrine of some kind...",
+    "Parece que isso fazia parte de um tipo de santuário..."
+  ],
+  [
+    "Missionary Necklace",
+    "Colar Missionário"
+  ],
+  [
+    "Follower chances of a successful missionary increased.",
+    "Aumenta as chances de o trabalho missionário do Seguidor ser bem-sucedido."
+  ],
+  [
+    "Loyalty Necklace",
+    "Colar da Lealdade"
+  ],
+  [
+    "Follower will never Dissent.",
+    "O Seguidor nunca se rebelará."
+  ],
+  [
+    "Gold Skull Necklace",
+    "Colar de Crânio de Ouro"
+  ],
+  [
+    "Follower gains the Immortal trait.",
+    "Seguidor ganha o aspecto Imortal."
+  ],
+  [
+    "Dark Necklace",
+    "Colar Sombrio"
+  ],
+  [
+    "No known effect... though knowledge is oft gained through sacrifice.",
+    "Não se sabe se possui algum efeito... mas geralmente o conhecimento é obtido por meio do sacrifício."
+  ],
+  [
+    "Demonic Necklace",
+    "Colar Demoníaco"
+  ],
+  [
+    "Follower has increased demon level.",
+    "O seguidor aumentou o nível de demônio."
+  ],
+  [
+    "Light Necklace",
+    "Colar da Luz"
+  ],
+  [
+    "No known effect... though knowledge is oft gained through sacrifice.",
+    "Não se sabe se possui algum efeito... mas geralmente o conhecimento é obtido por meio do sacrifício."
+  ],
+  [
+    "Forgotten Commandment Stone",
+    "Pedra da Lei Esquecida"
+  ],
+  [
+    "Stone used for unlocking unused Doctrines.",
+    "Pedra usada para desbloquear Doutrinas inutilizadas."
+  ],
+  [
+    "God Tear",
+    "Lágrima de Deus"
+  ],
+  [
+    "A crystalised tear from one of the First Gods.",
+    "Uma lágrima cristalizada, derramada por um dos Primeiros Deuses."
+  ],
+  [
+    "God Tear Fragment",
+    "Fragmento de Lágrima de Deus"
+  ],
+  [
+    "A fragment of the fabled God Tear.",
+    "Um fragmento da lendária Lágrima de Deus."
+  ],
+  [
+    "Silk Thread",
+    "Fio de Seda"
+  ],
+  [
+    "A fine thread for crafting clothes.",
+    "Um fio refinado que serve para fabricar roupas."
+  ],
+  [
+    "Cotton",
+    "Algodão"
+  ],
+  [
+    "A soft fabric for crafting clothes.",
+    "Um tecido macio que serve para fabricar roupas."
+  ],
+  [
+    "Cotton Seed",
+    "Semente de Algodão"
+  ],
+  [
+    "Plant this in a Farm Plot.",
+    "Plante em um Terreno Agrícola."
+  ],
+  [
+    "Ancient Tablet",
+    "Tábua Antiga"
+  ],
+  [
+    "Writings from a time long passed.",
+    "Escrituras de um tempo muito antigo."
+  ],
+  [
+    "Golden Fertiliser",
+    "Fertilizante Dourado"
+  ],
+  [
+    "Crops grown with this will produce gold when harvested.",
+    "Plantações cultivadas com isto produzirão ouro na colheita."
+  ],
+  [
+    "Rainbow Fertiliser",
+    "Fertilizante de Arco-Íris"
+  ],
+  [
+    "Crops grown with this will grow instantly.",
+    "Plantações cultivadas com isto crescerão instantaneamente."
+  ],
+  [
+    "Glowing Fertiliser",
+    "Fertilizante Reluzente"
+  ],
+  [
+    "Crops grown with this attracts fireflies at night.",
+    "Plantações cultivadas com isto atraem vaga-lumes à noite."
+  ],
+  [
+    "Devoted Fertiliser",
+    "Fertilizante Devoto"
+  ],
+  [
+    "Crops grown with this will generate Devotion when fully grown.",
+    "Plantações cultivadas com isto gerarão Devoção ao crescer totalmente."
+  ],
+  [
+    "Hops",
+    "Lúpulo"
+  ],
+  [
+    "Used to make drinks.",
+    "Usada para criar bebidas."
+  ],
+  [
+    "Grapes",
+    "Uvas"
+  ],
+  [
+    "Used to make drinks.",
+    "Usada para criar bebidas."
+  ],
+  [
+    "Hop Seeds",
+    "Sementes de Lúpulo"
+  ],
+  [
+    "Plant this in a Farm Plot.",
+    "Plante em um Terreno Agrícola."
+  ],
+  [
+    "Grape Seeds",
+    "Sementes de Uvas"
+  ],
+  [
+    "Plant this in a Farm Plot.",
+    "Plante em um Terreno Agrícola."
+  ],
+  [
+    "Sin",
+    "Pecado"
+  ],
+  [
+    "The manifestation of your flock's impurity. Absolved, repentant and at your disposal.",
+    "A manifestação da impureza em seu rebanho. Absolvida, arrependida e à sua disposição."
+  ],
+  [
+    "Yolk",
+    "Gema"
+  ],
+  [
+    "Not a dead Follower...",
+    "Não é um Seguidor morto..."
+  ],
+  [
+    "Seed of Sozo",
+    "Semente de Sozo"
+  ],
+  [
+    "Plant this in a Farm Plot.",
+    "Plante em um Terreno Agrícola."
+  ],
+  [
+    "Plant this in a Farm Plot.",
+    "Plante em um Terreno Agrícola."
+  ],
+  [
+    "Charged Shard",
+    "Fragmento Energizado"
+  ],
+  [
+    "A crackling shard of lightning caught from the sky.",
+    "O fragmento crepitante de um raio capturado dos céus."
+  ],
+  [
+    "Take this to Plimbo for a reward.",
+    "Leve isso para o Plimbo e ganhe uma recompensa."
+  ],
+  [
+    "Snowdrop",
+    "Galanto"
+  ],
+  [
+    "A flower of purity, with many uses.",
+    "Uma flor da pureza, com muitos usos."
+  ],
+  [
+    "Forget-Me-Not",
+    "Não-me-esqueças"
+  ],
+  [
+    "A flower that grows in shade, with many uses.",
+    "Uma flor que cresce na sombra, com muitos usos."
+  ],
+  [
+    "Fish",
+    "Pescar"
+  ],
+  [
+    "Heart of a Heretic",
+    "Coração de Herege"
+  ],
+  [
+    "Ingredients",
+    "Ingredientes"
+  ],
+  [
+    "Meals",
+    "Refeições"
+  ],
+  [
+    "Faithful",
+    "Fiel"
+  ],
+  [
+    "Bowl o' Poop",
+    "Tigela de Cocô"
+  ],
+  [
+    "Mighty Meat Feast",
+    "Banquete de Carne Poderoso"
+  ],
+  [
+    "Food",
+    "Comida"
+  ],
+  [
+    "Heart of a Heretic",
+    "Coração de Herege"
+  ],
+  [
+    "Sin",
+    "Pecado"
+  ],
+  [
+    "Blunderbuss",
+    "Bacamarte"
+  ],
+  [
+    "Freezing",
+    "Congelando"
+  ],
+  [
+    "Eye of the Witness",
+    "Olho da Testemunha"
+  ],
+  [
+    "Freezing",
+    "Congelando"
+  ],
+  [
+    "Freezing",
+    "Congelando"
+  ],
+  [
+    "Against Sacrifice",
+    "Contra Sacrifícios"
+  ],
+  [
+    "-5 Faith when a Follower is Sacrificed.",
+    "-5 de Fé quando um Seguidor é Sacrificado."
+  ],
+  [
+    "False Idols",
+    "Falsos Ídolos"
+  ],
+  [
+    "Gain +7 Faith when a decoration is built",
+    "Ganha 7 de Fé ao construir uma decoração"
+  ],
+  [
+    "Cannibal",
+    "Canibal"
+  ],
+  [
+    "Gain +5 Faith when a Follower eats a meals made from Follower meat.",
+    "Ganha 5 de Fé quando Seguidores comem refeições feitas com carne de Seguidores."
+  ],
+  [
+    "Gullible",
+    "Ingenuidade"
+  ],
+  [
+    "15% easier to level up.",
+    "15% mais fácil subir de nível."
+  ],
+  [
+    "Sacral Architecture",
+    "Arquitetura Sagrada"
+  ],
+  [
+    "Gain +5 Faith when a building is constructed.",
+    "Ganha 5 de Fé quando uma construção é concluída."
+  ],
+  [
+    "Coprophiliac",
+    "Coprofilia"
+  ],
+  [
+    "Gain +10 Faith when falling ill.",
+    "Ganha 10 de Fé ao ficar doente."
+  ],
+  [
+    "Cynical",
+    "Cinismo"
+  ],
+  [
+    "15% harder to level up.",
+    "15% mais difícil subir de nível."
+  ],
+  [
+    "Belief in Afterlife",
+    "Crença no Pós-Vida"
+  ],
+  [
+    "Death is not the end. When a Follower dies -5 Faith instead of -20.",
+    "A morte não é o fim. Perde apenas 5 de Fé quando um Seguidor morre, em vez de 20."
+  ],
+  [
+    "Belief in Original Sin",
+    "Crença no Pecado Original"
+  ],
+  [
+    "All are born guilty. Reduced Faith loss when putting a Follower in jail who is not dissenting.",
+    "Todos nascem com culpa. Perda de Fé reduzida ao mandar Seguidores que não se rebelaram para a prisão."
+  ],
+  [
+    "Faithful",
+    "Fidelidade"
+  ],
+  [
+    "Generates Devotion 15% faster.",
+    "Gera Devoção 15% mais rápido."
+  ],
+  [
+    "Faithless",
+    "Infiel"
+  ],
+  [
+    "Generates Devotion 15% slower.",
+    "Gera Devoção 15% mais devagar."
+  ],
+  [
+    "Terrified of Death",
+    "Pavor da Morte"
+  ],
+  [
+    "-5 Faith whenever another Follower dies.",
+    "Perde 5 de Fé sempre que outro Seguidor morre."
+  ],
+  [
+    "Fear of the Sick",
+    "Medo da Peste"
+  ],
+  [
+    "-5 Faith when another Cult member becomes sick.",
+    "-5 de Fé quando outro membro do Culto ficar doente."
+  ],
+  [
+    "Germaphobe",
+    "Germofobia"
+  ],
+  [
+    "-10 Faith when falling ill.",
+    "Perde 10 de Fé ao ficar doente."
+  ],
+  [
+    "Grass Eater",
+    "Pastoreio"
+  ],
+  [
+    "No longer lose Faith when a follower eats a Grass Meal.",
+    "Não perderá Fé quando um Seguidor comer uma Refeição de Mato"
+  ],
+  [
+    "Good Die Young",
+    "Os Bons Morrem Jovens"
+  ],
+  [
+    "Gain +10 Faith if an elder is sacrificed, murdered or consumed, but  -20 Faith if an elder dies naturally.",
+    "Ganha 10 de Fé se um idoso for sacrificado, assassinado ou consumido, mas  perde 20 de Fé se idosos morrerem naturalmente."
+  ],
+  [
+    "Industrious",
+    "Diligência"
+  ],
+  [
+    "Increased work speed by 15%.",
+    "Velocidade de trabalho aumentada em 15%."
+  ],
+  [
+    "Strong Constitution",
+    "Saúde Forte"
+  ],
+  [
+    "Heals 15% faster when sick and in bed rest.",
+    "A cura de doenças é 15% mais rápida ao repousar."
+  ],
+  [
+    "Sloth",
+    "Preguiça"
+  ],
+  [
+    "Work and devotion generation speed reduced by 10%.",
+    "Velocidade de trabalho e geração de devoção reduzida em 10%."
+  ],
+  [
+    "Absolution",
+    "Absolvição"
+  ],
+  [
+    "Freedom above all else. Every day that begins without anyone in prison, gain +10 Faith.",
+    "Liberdade acima de tudo. Ganha 10 de Fé para cada dia que começa sem ninguém na prisão."
+  ],
+  [
+    "Respect Your Elders",
+    "Respeito aos Idosos"
+  ],
+  [
+    "Gain +5 Faith when a Follower becomes an elder.",
+    "Ganha 5 de Fé quando um Seguidor se torna idoso."
+  ],
+  [
+    "Believes Illness is Divine Punishment",
+    "Crença em Doença como Punição Divina"
+  ],
+  [
+    "Gain +5 Faith when another Cult member becomes ill.",
+    "Ganha 5 de Fé quando outro membro do Culto fica doente."
+  ],
+  [
+    "Materialistic",
+    "Materialista"
+  ],
+  [
+    "Gain Faith when building better sleeping quarters.",
+    "Ganha Fé ao construir melhores alojamentos para dormir."
+  ],
+  [
+    "Prohibitionist",
+    "Proibicionista"
+  ],
+  [
+    "Work speed and devotion generation increased by 10% but  50% chance of Followers becoming sick after the Brainwashing ritual.",
+    "Velocidade de trabalho e geração de devoção aumentam em 10%, mas com  50% de chance de Seguidores adoecerem após o ritual."
+  ],
+  [
+    "Substances Encouraged",
+    "Incentivo a Substâncias"
+  ],
+  [
+    "Gain +20 Faith when Brainwashing Ritual is performed.",
+    "Ganha 20 de Fé ao realizar o ritual de Lavagem Cerebral."
+  ],
+  [
+    "Naturally Obedient",
+    "Obediente por Natureza"
+  ],
+  [
+    "On recruiting this Follower immediately gain +10 Faith.",
+    "Imediatamente ganha 10 de Fé ao recrutar este Seguidor."
+  ],
+  [
+    "Natural Skeptic",
+    "Cético por Natureza"
+  ],
+  [
+    "On recruiting Follower immediately -10 Faith.",
+    "Imediatamente perde 10 de Fé ao recrutar este Seguidor."
+  ],
+  [
+    "Belief in Sacrifice",
+    "Crença no Sacrifício"
+  ],
+  [
+    "Gain +20 Faith when a Follower is sacrificed.",
+    "Ganha 20 de Fé quando um Seguidor é sacrificado."
+  ],
+  [
+    "Devotee",
+    "Devoto"
+  ],
+  [
+    "Gain more Faith when you give a sermon.",
+    "Ganha mais Fé quando você prega um sermão."
+  ],
+  [
+    "Sickly",
+    "Frágil"
+  ],
+  [
+    "Heals 15% slower when sick and in bed rest.",
+    "A cura de doenças é 15% mais lenta ao repousar."
+  ],
+  [
+    "Worker",
+    "Trabalhador"
+  ],
+  [
+    "Zealous",
+    "Zelo"
+  ],
+  [
+    "Ignores dissenters when they preach.",
+    "Ignora rebeldes que estiverem pregando."
+  ],
+  [
+    "Immortal",
+    "Imortal"
+  ],
+  [
+    "Will never reach old age.",
+    "Nunca vai envelhecer."
+  ],
+  [
+    "Don't Starve",
+    "Sem Fome"
+  ],
+  [
+    "Will never starve.",
+    "Nunca sentirá fome."
+  ],
+  [
+    "Ex-Cult Leader",
+    "Ex-Líder de Culto"
+  ],
+  [
+    "Raises the loyalty of a nearby Follower once a day.",
+    "Aumenta a Lealdade de um Seguidor nas proximidades uma vez por dia."
+  ],
+  [
+    "Disciple",
+    "Discípulo"
+  ],
+  [
+    "A member of the Inner Circle. Can re-educate Dissenters and use special Shrines.",
+    "Um membro do Círculo Interno. Pode reeducar Rebeldes e usar Santuários especiais."
+  ],
+  [
+    "Jerk",
+    "Babaca"
+  ],
+  [
+    "Likes to cause mischief.",
+    "Gosta de fazer travessuras."
+  ],
+  [
+    "Coward",
+    "Covarde"
+  ],
+  [
+    "Might run away if frightened.",
+    "Provavelmente fugirá quando se assustar."
+  ],
+  [
+    "Hot Tempered",
+    "Cabeça Quente"
+  ],
+  [
+    "May start a fight with other Followers.",
+    "Pode iniciar brigas com outros Seguidores."
+  ],
+  [
+    "Royal Pooper",
+    "Cocô Real"
+  ],
+  [
+    "All poops are golden.",
+    "Todos os cocôs são dourados."
+  ],
+  [
+    "Terrified",
+    "Pavor"
+  ],
+  [
+    "Sits in the corner and cries.",
+    "Senta no canto e chora."
+  ],
+  [
+    "Lustful",
+    "Carnal"
+  ],
+  [
+    "Very... affectionate towards other Followers.",
+    "Têm muito \"afeto\" por outros Seguidores."
+  ],
+  [
+    "Celibate",
+    "Celibato"
+  ],
+  [
+    "Not very... affectionate towards other Followers.",
+    "Não têm muito \"afeto\" por outros Seguidores."
+  ],
+  [
+    "Fashionable",
+    "Na Moda"
+  ],
+  [
+    "Generates Devotion 20% faster when wearing a unique outfit.",
+    "Gera Devoção 20% mais rapidamente enquanto vestir um traje único."
+  ],
+  [
+    "Doctrinal Extremist",
+    "Extremista da Doutrina"
+  ],
+  [
+    "Choose to generate Sin  from the Confession Booth instead of Loyalty.",
+    "Escolha para gerar Pecado  do Confessionário em vez de Lealdade."
+  ],
+  [
+    "Violent Extremist",
+    "Extremista da Violência"
+  ],
+  [
+    "Chance of Sin  appearing as a reward from mini-bosses.",
+    "Chance de obter Pecado  como recompensa ao derrotar minichefes."
+  ],
+  [
+    "Born of Sin",
+    "Fruto do Pecado"
+  ],
+  [
+    "Followers hatched in the Cult will be born with some Sin",
+    "Seguidores chocados no Culto nascerão com algum Pecado"
+  ],
+  [
+    "Blind Allegiance",
+    "Lealdade Cega"
+  ],
+  [
+    "Followers hatched in the Cult will be born with a high Loyalty level.",
+    "Seguidores chocados no Culto nascerão com um alto nível de Lealdade."
+  ],
+  [
+    "Hedonist",
+    "Hedonista"
+  ],
+  [
+    "Decreases productivity by 10% but increases Sin generation by 15%.",
+    "Diminui a produtividade em 10%, mas aumenta a geração de Pecado  em 15%."
+  ],
+  [
+    "Ascetic",
+    "Asceta"
+  ],
+  [
+    "Decreases Sin generation by 10% but increases productivity by 15%.",
+    "Diminui a geração de Pecado  em 10%, mas aumenta a produtividade em 15%."
+  ],
+  [
+    "Virtuous",
+    "Inocente"
+  ],
+  [
+    "Produces Sin  20% slower.",
+    "Produz Pecado  20% mais devagar."
+  ],
+  [
+    "Unrepentant",
+    "Impenitente"
+  ],
+  [
+    "Produces Sin  15% faster.",
+    "Produz Pecado  15% mais rápido."
+  ],
+  [
+    "Snorer",
+    "Ronco"
+  ],
+  [
+    "Will wake nearby Followers with their snoring.",
+    "Acorda Seguidores próximos com seu ronco."
+  ],
+  [
+    "Night Owl",
+    "Coruja"
+  ],
+  [
+    "Sleeps during the day and works at night.",
+    "Dorme de dia e trabalha à noite."
+  ],
+  [
+    "Poet",
+    "Poeta"
+  ],
+  [
+    "Writes poems instead of working.",
+    "Escreve poemas em vez de trabalhar."
+  ],
+  [
+    "Unlawful",
+    "Desleal"
+  ],
+  [
+    "Will break themselves and others out of prison.",
+    "Foge da prisão, ou ajuda outros Seguidores presos."
+  ],
+  [
+    "Inspired by Mission",
+    "Inspirado pela Missão"
+  ],
+  [
+    "All interactions with other Followers will be positive.",
+    "As interações com outros Seguidores serão positivas."
+  ],
+  [
+    "Excited by Mission",
+    "Animado pela Missão"
+  ],
+  [
+    "20% more likely to be successful in the Mating Tent.",
+    "Probabilidade 20% maior de ter sucesso na Barraca de Acasalamento."
+  ],
+  [
+    "Disturbed by Mission",
+    "Perturbado pela Missão"
+  ],
+  [
+    "Has seen too much. Will need to be specially healed.",
+    "Viu coisas demais. Precisa de cuidados especiais."
+  ],
+  [
+    "Drowsy",
+    "Sonolento"
+  ],
+  [
+    "Has a 90% chance of falling asleep when given a task.",
+    "Seguidor tem 90% de chance de dormir durante a tarefa."
+  ],
+  [
+    "Pettable",
+    "Bichinho de Estimação"
+  ],
+  [
+    "Can be pet.",
+    "Pode receber carinho."
+  ],
+  [
+    "Reformed Criminal",
+    "Criminoso Reformado"
+  ],
+  [
+    "Productivity is increased by 10%.",
+    "A produtividade é 10% maior."
+  ],
+  [
+    "Scarred Criminal",
+    "Criminoso Assustado"
+  ],
+  [
+    "Might run away if frightened.",
+    "Provavelmente fugirá quando se assustar."
+  ],
+  [
+    "Hardened Criminal",
+    "Criminoso Incorrigível"
+  ],
+  [
+    "Will steal from the Lamb and other Followers.",
+    "Vai roubar do Cordeiro e de outros Seguidores."
+  ],
+  [
+    "Happily Married",
+    "Casamento Feliz"
+  ],
+  [
+    "Productivity is increased by 20%.",
+    "A produtividade é 20% maior."
+  ],
+  [
+    "Unhappily Married",
+    "Casamento Infeliz"
+  ],
+  [
+    "Productivity is decreased by 20%.",
+    "A produtividade é 20% menor."
+  ],
+  [
+    "Jealous Spouse",
+    "Ciúmes"
+  ],
+  [
+    "Will get into fights with other spouses.",
+    "Vai brigar com outros cônjuges."
+  ],
+  [
+    "Lethally Jealous Spouse",
+    "Ciúmes Fatal"
+  ],
+  [
+    "25% more likely to murder other spouses in fights.",
+    "Probabilidade 25% maior de assassinar outros cônjuges em brigas."
+  ],
+  [
+    "Catatonic",
+    "Catatônico"
+  ],
+  [
+    "Confronted by their resurrection. Will need to be specially healed.",
+    "Sente o impacto de sua ressurreição. Precisa de cuidados especiais."
+  ],
+  [
+    "Polyamorous",
+    "Poliamor"
+  ],
+  [
+    "Does not get jealous if the Lamb has more than 1 spouse.",
+    "Não sente ciúme de o Cordeiro ter mais de 1 cônjuge."
+  ],
+  [
+    "Spy",
+    "Espião"
+  ],
+  [
+    "Has not been indoctrinated into the Cult. Will try and take what they can.",
+    "Ainda não foi doutrinado no Culto. Vai tentar roubar o que conseguir."
+  ],
+  [
+    "Cursed",
+    "Amaldiçoado"
+  ],
+  [
+    "Corrupted by their resurrection. Will need to be specially healed.",
+    "Corrompido por sua ressurreição. Precisa de cuidados especiais."
+  ],
+  [
+    "Bishop of {0}",
+    "Bispo de {0}"
+  ],
+  [
+    "Will not dissent against the Lamb.",
+    "Não se rebelará contra o Cordeiro."
+  ],
+  [
+    "Overwhelmed Parent",
+    "Esgotado pelo Filho"
+  ],
+  [
+    "Exhausted and likely to have negative interactions with other Followers.",
+    "Está com exaustão e tende a interagir negativamente com outros Seguidores."
+  ],
+  [
+    "Proud Parent",
+    "Orgulhoso do Filho"
+  ],
+  [
+    "Affectionate to their child and proud to have made the Lamb a new Follower.",
+    "Adora sua criança e tem orgulho de criar um novo Seguidor para o Cordeiro."
+  ],
+  [
+    "Pedigree I",
+    "Pedigree I"
+  ],
+  [
+    "The great grandchild of this Follower will receive the 'Chosen Child' trait.",
+    "O bisneto deste Seguidor recebe o aspecto \"Criança Escolhida\"."
+  ],
+  [
+    "Pedigree II",
+    "Pedigree II"
+  ],
+  [
+    "The grandchild of this Follower will receive the 'Chosen Child' trait.",
+    "O neto deste Seguidor recebe o aspecto \"Criança Escolhida\"."
+  ],
+  [
+    "Pedigree III",
+    "Pedigree III"
+  ],
+  [
+    "The child of this Follower will receive the 'Chosen Child' trait.",
+    "O filho deste Seguidor recebe o aspecto \"Criança Escolhida\"."
+  ],
+  [
+    "Chosen Child",
+    "Criança Escolhida"
+  ],
+  [
+    "Descendant of the purest pedigree.",
+    "Descendente do pedigree mais puro."
+  ],
+  [
+    "Pedigree",
+    "Pedigree"
+  ],
+  [
+    "Ancestor of the Chosen Child.",
+    "Ancestral da Criança Escolhida."
+  ],
+  [
+    "All are born guilty. Reduced Faith loss when putting a Follower in jail who is not dissenting.",
+    "Todos nascem com culpa. Perda de Fé reduzida ao mandar Seguidores que não se rebelaram para a prisão."
+  ],
+  [
+    "Freedom above all else. Every day that begins without anyone in prison, gain +10 Faith.",
+    "Liberdade acima de tudo. Ganha 10 de Fé para cada dia que começa sem ninguém na prisão."
+  ],
+  [
+    "Afterlife",
+    "Pós-Vida"
+  ],
+  [
+    "Possessions",
+    "Possessões"
+  ],
+  [
+    "Sustenance",
+    "Sustento"
+  ],
+  [
+    "Sin",
+    "Pecado"
+  ],
+  [
+    "Doctrinal Extremist",
+    "Extremista da Doutrina"
+  ],
+  [
+    "Choose to generate Sin  from the Confession Booth instead of Loyalty.",
+    "Escolha para gerar Pecado  do Confessionário em vez de Lealdade."
+  ],
+  [
+    "Violent Extremist",
+    "Extremista da Violência"
+  ],
+  [
+    "Chance of Sin  appearing as a reward from mini-bosses.",
+    "Chance de obter Pecado  como recompensa ao derrotar minichefes."
+  ],
+  [
+    "Born of Sin",
+    "Fruto do Pecado"
+  ],
+  [
+    "Followers hatched in the Cult will be born with some Sin",
+    "Seguidores chocados no Culto nascerão com algum Pecado"
+  ],
+  [
+    "Blind Allegiance",
+    "Lealdade Cega"
+  ],
+  [
+    "Followers hatched in the Cult will be born with a high Loyalty level.",
+    "Seguidores chocados no Culto nascerão com um alto nível de Lealdade."
+  ],
+  [
+    "Ascetic",
+    "Asceta"
+  ],
+  [
+    "Decreases Sin  generation by 10% but increases productivity by 15%.",
+    "Diminui a geração de Pecado  em 10%, mas aumenta a produtividade em 15%."
+  ],
+  [
+    "Hedonist",
+    "Hedonista"
+  ],
+  [
+    "Decreases productivity by 10% but increases Sin  generation by 15%.",
+    "Diminui a produtividade em 10%, mas aumenta a geração de Pecado  em 15%."
+  ],
+  [
+    "Blind Allegiance",
+    "Lealdade Cega"
+  ],
+  [
+    "Followers hatched in the Cult will be born with a high Loyalty level.",
+    "Seguidores chocados no Culto nascerão com um alto nível de Lealdade."
+  ],
+  [
+    "Hedonist",
+    "Hedonista"
+  ],
+  [
+    "Decreases productivity by 10% but increases Sin  generation by 15%.",
+    "Diminui a produtividade em 10%, mas aumenta a geração de Pecado  em 15%."
+  ],
+  [
+    "Ascetic",
+    "Asceta"
+  ],
+  [
+    "Decreases Sin  generation by 10% but increases productivity by 15%.",
+    "Diminui a geração de Pecado  em 10%, mas aumenta a produtividade em 15%."
+  ],
+  [
+    "Virtuous",
+    "Inocente"
+  ],
+  [
+    "Produces Sin  20% slower.",
+    "Produz Pecado  20% mais devagar."
+  ],
+  [
+    "Unrepentant",
+    "Impenitente"
+  ],
+  [
+    "Produces Sin  15% faster.",
+    "Produz Pecado  15% mais rápido."
+  ],
+  [
+    "Followers",
+    "Seguidores"
+  ],
+  [
+    "Wedding Dress",
+    "Vestido de Casamento"
+  ],
+  [
+    "Fine regalia for that special someone.",
+    "Um privilégio elegante para alguém especial."
+  ],
+  [
+    "Wedding Suit",
+    "Terno de Casamento"
+  ],
+  [
+    "A smart suit for that special someone.",
+    "Um terno elegante para alguém especial."
+  ],
+  [
+    "Warrior's Cuirass",
+    "Couraça de Guerra"
+  ],
+  [
+    "Show the world how tough you are.",
+    "Mostre ao mundo como você é forte."
+  ],
+  [
+    "Garb of the Kawaii",
+    "Vestimenta Kawaii"
+  ],
+  [
+    "For the cutest Followers only.",
+    "Apenas para os Seguidores mais fofos."
+  ],
+  [
+    "Yeoman Coat",
+    "Casaco de Serviçal"
+  ],
+  [
+    "Well-presented and woodsy.",
+    "Bem apresentável e amadeirado."
+  ],
+  [
+    "Gothic Dress",
+    "Vestido Gótico"
+  ],
+  [
+    "Dark souls require dark clothes.",
+    "Almas sombrias precisam de roupas sombrias."
+  ],
+  [
+    "Mystic Robes",
+    "Trajes Místicos"
+  ],
+  [
+    "For those who want to look mysterious.",
+    "Para quem deseja um visual misterioso."
+  ],
+  [
+    "Officer Suit",
+    "Terno de Oficial"
+  ],
+  [
+    "A sharp outfit for rule followers.",
+    "Um traje estiloso para reger os seguidores."
+  ],
+  [
+    "Peasant Blouse",
+    "Blusa do Campo"
+  ],
+  [
+    "For the hardworking.",
+    "Para quem trabalha duro."
+  ],
+  [
+    "Labourer Tunic",
+    "Lã do Trabalho"
+  ],
+  [
+    "A breathable tunic for working up a sweat.",
+    "Uma lã arejada para trabalhar até suar."
+  ],
+  [
+    "Ragged Robes",
+    "Trajes Esfarrapados"
+  ],
+  [
+    "Either a design choice, or poorly made.",
+    "Talvez seja o estilo, talvez seja só malfeito."
+  ],
+  [
+    "Scholar Shirt",
+    "Camisa Acadêmica"
+  ],
+  [
+    "An ideal outfit for gazing longingly in.",
+    "É o traje ideal para fazer longas reflexões."
+  ],
+  [
+    "Modest Robes",
+    "Trajes Modestos"
+  ],
+  [
+    "Modest dress in a lovely purple.",
+    "Um vestido modesto com uma cor roxa adorável."
+  ],
+  [
+    "Sensible Dress",
+    "Vestido Prático"
+  ],
+  [
+    "A sensible outfit for everyday tasks.",
+    "Um traje prático para as tarefas diárias."
+  ],
+  [
+    "Grass Skirt",
+    "Saia de Mato"
+  ],
+  [
+    "Ideal for Followers who don't like to be restricted.",
+    "Ideal para Seguidores que não gostam de uma vida restrita."
+  ],
+  [
+    "Night Shirt",
+    "Camisa da Noite"
+  ],
+  [
+    "A moody ensemble, perfect for lurking.",
+    "Um conjunto taciturno, perfeito para espreitar."
+  ],
+  [
+    "Picnic Attire",
+    "Roupa de Piquenique"
+  ],
+  [
+    "For Followers who like to frolic.",
+    "Ideal para Seguidores que gostam de diversão."
+  ],
+  [
+    "Merchant Shirt",
+    "Camisa de Comerciante"
+  ],
+  [
+    "Perfect for doing business in.",
+    "Perfeita para fazer negócios."
+  ],
+  [
+    "Evening Frock",
+    "Bata da Noitinha"
+  ],
+  [
+    "A frock for the evening.",
+    "Uma bata para usar à noitinha."
+  ],
+  [
+    "Genteel Jacket",
+    "Jaqueta Polida"
+  ],
+  [
+    "A handsome jacket, for looking high class.",
+    "Uma bela jaqueta para quem deseja um visual de classe alta."
+  ],
+  [
+    "Spring Tunic",
+    "Lã da Primavera"
+  ],
+  [
+    "A lovely tunic to celebrate spring.",
+    "Uma lã adorável para celebrar a primavera."
+  ],
+  [
+    "Flowering Frock",
+    "Bata Florida"
+  ],
+  [
+    "A lush dress, woven of flowers.",
+    "Um vestido exuberante feito com flores."
+  ],
+  [
+    "Acolyte of the Old Faith",
+    "Acólito da Antiga Fé"
+  ],
+  [
+    "Simple robes, going out of style.",
+    "Trajes simples estão saindo da moda."
+  ],
+  [
+    "Enforcer of the Old Faith",
+    "Executor da Antiga Fé"
+  ],
+  [
+    "Garb for an Enforcer to wear.",
+    "Vestimenta para Executores."
+  ],
+  [
+    "Acolyte Robes",
+    "Trajes de Acólito"
+  ],
+  [
+    "Simple robes for simple Followers.",
+    "Trajes simples para Seguidores simples."
+  ],
+  [
+    "Chef's Jacket",
+    "Jaqueta de Chef"
+  ],
+  [
+    "For the culinary inclined.",
+    "Para quem gosta de culinária."
+  ],
+  [
+    "Knight Armour",
+    "Armadura de Cavalaria"
+  ],
+  [
+    "Noble armour for brave Followers.",
+    "Armadura nobre para Seguidores valentes."
+  ],
+  [
+    "Ceremonial Robes",
+    "Trajes Cerimoniais"
+  ],
+  [
+    "Ornamental dress for important occasions.",
+    "Vestido enfeitado para ocasiões importantes."
+  ],
+  [
+    "Maid Dress",
+    "Vestido de Empregada"
+  ],
+  [
+    "Perfect for cleaning in.",
+    "Perfeito para fazer limpezas."
+  ],
+  [
+    "Fancy Robes",
+    "Trajes Chiques"
+  ],
+  [
+    "The fanciest Followers deserve the fanciest robes.",
+    "Os Seguidores mais chiques merecem os trajes mais chiques."
+  ],
+  [
+    "Drinktender Vest",
+    "Colete de Taverneiro"
+  ],
+  [
+    "Made for serving in.",
+    "Feito para servir."
+  ],
+  [
+    "Jester Costume",
+    "Fantasia de Bobo da Corte"
+  ],
+  [
+    "Every Cult needs a clown.",
+    "Todo Culto precisa de um palhaço."
+  ],
+  [
+    "Naked",
+    "Corpo Nu"
+  ],
+  [
+    "Feel the cool air everywhere.",
+    "Sinta a brisa fresca por todo o corpo."
+  ],
+  [
+    "Olympian",
+    "Olimpiano"
+  ],
+  [
+    "Muscular and free, like the champions of old.",
+    "Forte e livre, como os campeões do passado."
+  ],
+  [
+    "Jalala's Coat",
+    "Casaco de Jalala"
+  ],
+  [
+    "Kept a pilgrim warm on a long, long journey.",
+    "Aquece o peregrino em sua longa jornada."
+  ],
+  [
+    "Rinor's Robes",
+    "Trajes de Rinor"
+  ],
+  [
+    "Quickly thrown together and surprisingly sturdy.",
+    "Fácil de vestir e muito resistente."
+  ],
+  [
+    "Garden Dress",
+    "Vestido de Jardim"
+  ],
+  [
+    "For slow strolls, picking flowers.",
+    "Perfeito para passeios lentos enquanto se colhe flores."
+  ],
+  [
+    "Outdoor Jacket",
+    "Jaqueta de Passeio"
+  ],
+  [
+    "Not too hot and not too cold; a light jacket.",
+    "Nem muito quente, nem muito fria. Uma jaqueta leve."
+  ],
+  [
+    "Writings from a time long passed.",
+    "Escrituras de um tempo muito antigo."
+  ],
+  [
+    "Writings from a time long passed.",
+    "Escrituras de um tempo muito antigo."
+  ],
+  [
+    "Writings from a time long passed.",
+    "Escrituras de um tempo muito antigo."
+  ],
+  [
+    "Writings from a time long passed.",
+    "Escrituras de um tempo muito antigo."
+  ],
+  [
+    "Writings from a time long passed.",
+    "Escrituras de um tempo muito antigo."
+  ],
+  [
+    "Writings from a time long passed.",
+    "Escrituras de um tempo muito antigo."
+  ],
+  [
+    "Writings from a time long passed.",
+    "Escrituras de um tempo muito antigo."
+  ],
+  [
+    "Writings from a time long passed.",
+    "Escrituras de um tempo muito antigo."
+  ],
+  [
+    "Writings from a time long passed.",
+    "Escrituras de um tempo muito antigo."
+  ],
+  [
+    "Writings from a time long passed.",
+    "Escrituras de um tempo muito antigo."
+  ],
+  [
+    "Darkwood",
+    "Floresta Sombria"
+  ],
+  [
+    "Anura",
+    "Anura"
+  ],
+  [
+    "Anchordeep",
+    "Ancorada"
+  ],
+  [
+    "Silk Cradle",
+    "Berço de Seda"
+  ],
+  [
+    "Lobster",
+    "3. Lagosta"
+  ],
+  [
+    "Crab",
+    "9. Caranguejo"
+  ],
+  [
+    "Permanent Half Heart",
+    "Meio Coração Permanente"
+  ],
+  [
+    "Beetroot Seed",
+    "Sementes de Beterraba"
+  ],
+  [
+    "On recruiting Follower immediately lose 10 Faith.",
+    "Imediatamente perde 10 de Fé ao recrutar este Seguidor."
+  ],
+  [
+    "On recruiting this Follower immediately gain 10 Faith.",
+    "Imediatamente ganha 10 de Fé ao recrutar este Seguidor."
+  ],
+  [
+    "Death is not the end. When a Follower dies only lose -5 faith instead of -20.",
+    "A morte não é o fim. Perde apenas 5 de Fé quando um Seguidor morre, em vez de 20."
+  ],
+  [
+    "Lose -5 Faith whenever another Follower dies.",
+    "Perde 5 de Fé sempre que outro Seguidor morre."
+  ],
+  [
+    "+5 Faith and no chance of sickness when eating Minced Follower Meat. No faith lost when Followers saw you butchered corpses.",
+    "Ganha 5 de Fé quando Seguidores comem refeições feitas com carne de Seguidores."
+  ],
+  [
+    "No negative Faith when a Follower eats Grassy Gruel, and no chance of sickness.",
+    "Não perderá Fé quando um Seguidor comer uma Refeição de Mato"
+  ],
+  [
+    "-2 Faith instead of -15 when putting a Follower in Prison who is not dissenting.",
+    "Todos nascem com culpa. Perda de Fé reduzida ao mandar Seguidores que não se rebelaram para a prisão."
+  ],
+  [
+    "Belief in Absolution",
+    "Absolvição"
+  ],
+  [
+    "Every day that begins without anyone in prison, gain +10 Faith.",
+    "Liberdade acima de tudo. Ganha 10 de Fé para cada dia que começa sem ninguém na prisão."
+  ],
+  [
+    "+20 Faith when Sacrifice of the Flesh is performed. Followers when ascended drop Bone and Follower Meat.",
+    "Ganha 20 de Fé quando um Seguidor é sacrificado."
+  ],
+  [
+    "Generates Devotion 15% faster. Mutually exclusive with Faithless. ",
+    "Gera Devoção 15% mais rápido."
+  ],
+  [
+    "Gain 5 Faith when another Cult member becomes ill. Note: Max 1",
+    "Ganha 5 de Fé quando outro membro do Culto fica doente."
+  ],
+  [
+    "Gain +7 Faith instead of +4 when placing a decoration building.",
+    "Ganha 7 de Fé ao construir uma decoração"
+  ],
+  [
+    "Follower receives extra +15% from all Loyalty sources. Mutually exclusive with Cynical.",
+    "15% mais fácil subir de nível."
+  ],
+  [
+    "Lose 10 Faith when falling ill.",
+    "Perde 10 de Fé ao ficar doente."
+  ],
+  [
+    "Gain 10 Faith when falling ill. Won't vomit when seeing poop or vomit. Mutually exclusive with Germaphobe.",
+    "Ganha 10 de Fé ao ficar doente."
+  ],
+  [
+    "Increase work speed by 15%.",
+    "Velocidade de trabalho aumentada em 15%."
+  ],
+  [
+    "Gain +15 Faith instead of +10 when delivering a Sermon.",
+    "Ganha mais Fé quando você prega um sermão."
+  ],
+  [
+    "When a new building is constructed, gain +5 Faith.",
+    "Ganha 5 de Fé quando uma construção é concluída."
+  ],
+  [
+    "Gain 20 Faith when Brainwashing Ritual is performed.",
+    "Ganha 20 de Fé ao realizar o ritual de Lavagem Cerebral."
+  ],
+  [
+    "Prohibitionism",
+    "Proibicionista"
+  ],
+  [
+    "Increase work speed and devotion generation increased by 10% but 50% chance of Followers becoming sick after the Brainwashing Ritual.",
+    "Velocidade de trabalho e geração de devoção aumentam em 10%, mas com  50% de chance de Seguidores adoecerem após o ritual."
+  ],
+  [
+    "+5 Faith whenever Cult has an elder Follower.",
+    "Ganha 5 de Fé quando um Seguidor se torna idoso."
+  ],
+  [
+    "Gain +10 Faith if an Elder is sacrificed, murdered, or consumed, but lose -20 Faith if an Elder dies of old age.",
+    "Ganha 10 de Fé se um idoso for sacrificado, assassinado ou consumido, mas  perde 20 de Fé se idosos morrerem naturalmente."
+  ],
+  [
+    "Raises the Loyalty of a nearby follower once per day.",
+    "Aumenta a Lealdade de um Seguidor nas proximidades uma vez por dia."
+  ],
+  [
+    "A member of the inner circle. Can re-educate Dissenters and use special Shrines.",
+    "Um membro do Círculo Interno. Pode reeducar Rebeldes e usar Santuários especiais."
+  ],
+  [
+    "Not very...affectionate towards other Followers.",
+    "Não têm muito \"afeto\" por outros Seguidores."
+  ],
+  [
+    "Very...affectionate towards other Followers.",
+    "Têm muito \"afeto\" por outros Seguidores."
+  ],
+  [
+    "Unlocks the ability to generate Sin from Confession Booth instead of Loyalty.",
+    "Escolha para gerar Pecado  do Confessionário em vez de Lealdade."
+  ],
+  [
+    "Sin has a chance to appear upon beating mini-bosses. Mini-bosses from the Purgatory do not grant Sin.",
+    "Chance de obter Pecado  como recompensa ao derrotar minichefes."
+  ],
+  [
+    "One Sin is automatically extracted from Followers hatched in the cult.",
+    "Seguidores chocados no Culto nascerão com algum Pecado"
+  ],
+  [
+    "Followers hatched in the cult with be born with a high Loyalty level.",
+    "Seguidores chocados no Culto nascerão com um alto nível de Lealdade."
+  ],
+  [
+    "Produces Sin 20% slower. Mutually exclusive with Unrepentant.",
+    "Produz Pecado  20% mais devagar."
+  ],
+  [
+    "Produces Sin 15% faster.",
+    "Produz Pecado  15% mais rápido."
+  ],
+  [
+    "Followers with the Snorer trait wake up followers who are sleeping nearby by snoring loudly at night.",
+    "Acorda Seguidores próximos com seu ronco."
+  ],
+  [
+    "Has a small chance each phase to break out of prison, and can even break other followers out of prison.",
+    "Foge da prisão, ou ajuda outros Seguidores presos."
+  ],
+  [
+    "Never work and have no interactions; they will sit near the edge of the base, writing poetry all day.",
+    "Escreve poemas em vez de trabalhar."
+  ],
+  [
+    "(Acts similarly to Coward trait).",
+    "Provavelmente fugirá quando se assustar."
+  ],
+  [
+    "Raises productivity by 10%.",
+    "A produtividade é 10% maior."
+  ],
+  [
+    "(Acts similarly to Jerk trait).",
+    "Vai roubar do Cordeiro e de outros Seguidores."
+  ],
+  [
+    "Only positive conversations with other followers.",
+    "As interações com outros Seguidores serão positivas."
+  ],
+  [
+    "Has a 20% higher chance to be successful in Mating Tent.",
+    "Probabilidade 20% maior de ter sucesso na Barraca de Acasalamento."
+  ],
+  [
+    "Followers with this trait will behave the same way as Catatonic followers.",
+    "Viu coisas demais. Precisa de cuidados especiais."
+  ],
+  [
+    "Can be pet regardless of the follower's form.",
+    "Pode receber carinho."
+  ],
+  [
+    "Productivity increased by 20%.",
+    "A produtividade é 20% maior."
+  ],
+  [
+    "Decreases productivity by 20%.",
+    "A produtividade é 20% menor."
+  ],
+  [
+    "Never gets jealous of other spouse from them; cannot get other wedding related traits upon getting married.",
+    "Não sente ciúme de o Cordeiro ter mais de 1 cônjuge."
+  ],
+  [
+    "Followers may join the cult by themselves. Followers with this trait work and behave like any other followers and will leave the cult with 10% of gold after 5 days.",
+    "Ainda não foi doutrinado no Culto. Vai tentar roubar o que conseguir."
+  ],
+  [
+    "Bishop of [Cult Name]",
+    "Bispo de {0}"
+  ],
+  [
+    "Will not dissent against the lamb.",
+    "Não se rebelará contra o Cordeiro."
+  ],
+  [
+    "Gain an extra half heart.",
+    "Ganhe um  extra."
+  ],
+  [
+    "Gain an extra heart.",
+    "Ganhe um  extra."
+  ],
+  [
+    "Gain an extra 2 hearts.",
+    "Ganhe dois  extras."
+  ],
+  [
+    "Blue Heart +1.",
+    "+1"
+  ],
+  [
+    "Blue Heart +2.",
+    "+2"
+  ],
+  [
+    "Do 20% more damage during the day.",
+    "Mais 20% de dano durante o dia."
+  ],
+  [
+    "The Lamb has a 10% chance of receiving a blue heart upon killing an enemy.",
+    "10% de chance de ganhar  quando matar um inimigo."
+  ],
+  [
+    "The Lamb has a 20% chance of receiving a blue heart upon killing an enemy.",
+    "20% de chance de ganhar  quando matar um inimigo."
+  ],
+  [
+    "Allows the Lamb to deal poison damage to enemies when attacking.",
+    "Causa dano de veneno aos inimigos atingidos."
+  ],
+  [
+    "Allows the Lamb to deal damage to everything on screen they are hit.",
+    "Causa dano em toda a tela quando sofrer dano."
+  ],
+  [
+    "The Lamb has a 10% chance of a crit when dealing damage.",
+    "10% de chance de causar um acerto crítico"
+  ],
+  [
+    "Fervour replenishes fully when entering a new combat room.",
+    "Fervor reabastece completamente ao entrar em uma nova sala de combate."
+  ],
+  [
+    "When hit down to half a heart, all enemies will be dealt 2 damage.",
+    "Ao sofrer dano até chegar a , todos os inimigos receberão 2 de dano"
+  ],
+  [
+    "When hit down to half a heart, all enemies will be dealt 3 damage.",
+    "Ao sofrer dano até chegar a , todos os inimigos receberão  3 de dano"
+  ],
+  [
+    "When hit down to half a heart, all enemies will be dealt 10 damage.",
+    "Ao sofrer dano até chegar a , todos os inimigos receberão  10 de dano"
+  ],
+  [
+    "When killed, resurrect with 1 heart",
+    "Ao morrer, ressuscite com"
+  ],
+  [
+    "Reveals the map.",
+    "Revele o mapa."
+  ],
+  [
+    "Fire a projectile when you swing your weapon. 10s cooldown.",
+    "Atire um projétil quando usar sua arma  10 seg. de recarga."
+  ],
+  [
+    "Fire a projectile when you swing your weapon. 5s cooldown.",
+    "Atire um projétil quando usar sua arma   5 seg. de recarga."
+  ],
+  [
+    "Increase curse damage by 1.25x.",
+    "Dano do ataque de maldição aumentado em 1,25x"
+  ],
+  [
+    "Increase curse damage by 1.5x.",
+    "Dano do ataque de maldição aumentado em  1,5x"
+  ],
+  [
+    "Increase curse damage by 1.75x.",
+    "Dano do ataque de maldição aumentado em  2x"
+  ],
+  [
+    "Increase movement speed by 1.25x.",
+    "Velocidade de movimento aumentada em 1,25x"
+  ],
+  [
+    "Increase movement speed by 1.5x.",
+    "Velocidade de movimento aumentada em 1,5x"
+  ],
+  [
+    "Increase movement speed by 2x.",
+    "Velocidade de movimento aumentada em 2x"
+  ],
+  [
+    "Attack rate increased by 1.25x.",
+    "Taxa de ataque aumentada em 1,25x"
+  ],
+  [
+    "Attack rate increased by 1.5x.",
+    "Taxa de ataque aumentada em  1,5x"
+  ],
+  [
+    "Attack rate increased by 2x.",
+    "Taxa de ataque aumentada em  2x"
+  ],
+  [
+    "The Lamb's overall weapon damage increases by 1.2x.",
+    "Dano total de armas aumentado em 1,2x"
+  ],
+  [
+    "The Lamb's overall weapon damage increases by 1.5x.",
+    "Dano total de armas aumentado em  1,5x"
+  ],
+  [
+    "Enemies drop 2x more Fervor.",
+    "Inimigos soltam 2x mais Fervor"
+  ],
+  [
+    "Enemies drop 3x more Fervor.",
+    "Inimigos soltam  3x mais Fervor"
+  ],
+  [
+    "When killing an enemy 10% chance of healing.",
+    "10% de chance de se curar ao matar um inimigo."
+  ],
+  [
+    "When killing an enemy 20% chance of healing.",
+    "20% de chance de se curar quando matar um inimigo."
+  ],
+  [
+    "When attacked 10% chance of negating damage.",
+    "10% de chance de invalidar o dano ao sofrer um ataque."
+  ],
+  [
+    "When attacked 20% chance of negating damage.",
+    "20% de chance de invalidar o dano ao sofrer um ataque."
+  ],
+  [
+    "Drop an explosive when you roll 10s cooldown.",
+    "Solte um explosivo quando fizer um rolamento   10 seg. de recarga"
+  ],
+  [
+    "Drop an explosive when you roll 5s cooldown.",
+    "Solte um explosivo quando fizer um rolamento   5 seg. de recarga"
+  ],
+  [
+    "Drop black Ichor when you roll 10s cooldown.",
+    "Solte gosma preta quando fizer um rolamento   10 seg. de recarga."
+  ],
+  [
+    "Drop black Ichor when you roll 5s cooldown.",
+    "Solte gosma preta quando fizer um rolamento    5 seg. de recarga."
+  ],
+  [
+    "Immune to poison from enemies.",
+    "Imune a veneno."
+  ],
+  [
+    "Blazing Trial",
+    "Rastro Flamejante"
+  ],
+  [
+    "The Lambs gains double health when healing.",
+    "Receba o dobro de saúde quando se curar."
+  ],
+  [
+    "Allows curses to consume 25% less Fervor.",
+    "Maldições consomem 25% a menos de Fervor"
+  ],
+  [
+    "Allows curses to consume 50% less Fervor.",
+    "Maldições consomem  50% a menos de Fervor"
+  ],
+  [
+    "Allows curses to consume 75% less Fervor.",
+    "Maldições consomem menos  75% de Fervor"
+  ],
+  [
+    "Fervour will slowly replenish over time 2.5s cooldown.",
+    "Fervor  reabastece lentamente com o tempo   2,5 seg. de recarga"
+  ],
+  [
+    "Fervour will slowly replenish over time 1.5s cooldown.",
+    "Fervor  reabastece lentamente com o tempo    1,5 seg. de recarga"
+  ],
+  [
+    "Receive 5 fervour when hit.",
+    "Receba 5 de Fervor  ao sofrer dano"
+  ],
+  [
+    "-",
+    "Receba  10 Fervores  ao sofrer dano"
+  ],
+  [
+    "Neptune's Curse",
+    "A Maldição de Netuno"
+  ],
+  [
+    "Enemies have a chance of dropping a fish upon death.",
+    "Há uma chance de os inimigos soltarem um peixe."
+  ],
+  [
+    "Rabbit's Foot",
+    "Pé de Coelho"
+  ],
+  [
+    "Increases the chance to spawn better chests.",
+    "Aumenta as chances de aparecer baús melhores."
+  ]
+]

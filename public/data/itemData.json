@@ -1,0 +1,1529 @@
+[
+  {
+    "name": "Currency",
+    "items": [
+      {
+        "id": 1,
+        "image": "/Items/1.png",
+        "name": "Madeira",
+        "gameKey": "LOG",
+        "textSource": "installed-game-localization",
+        "description": "Material simples usado para construir estruturas.",
+        "internal": false
+      },
+      {
+        "id": 2,
+        "image": "/Items/2.png",
+        "name": "Pedra",
+        "gameKey": "STONE",
+        "textSource": "installed-game-localization",
+        "description": "Um material de construção útil.",
+        "internal": false
+      },
+      {
+        "id": 9,
+        "image": "/Items/9.png",
+        "name": "Osso",
+        "gameKey": "BONE",
+        "textSource": "installed-game-localization",
+        "description": "Uma oferenda útil para rituais clandestinos.",
+        "internal": false
+      },
+      {
+        "id": 20,
+        "image": "/Items/20.png",
+        "name": "Moeda",
+        "gameKey": "BLACK_GOLD",
+        "textSource": "installed-game-localization",
+        "description": "Tipo de dinheiro usado para uma variedade de coisas.",
+        "internal": false
+      },
+      {
+        "id": 22,
+        "image": "/Items/22.png",
+        "name": "Coração de Herege",
+        "gameKey": "MONSTER_HEART",
+        "textSource": "installed-game-localization",
+        "description": "Corações profanos que podem debloquear novas Habilidades da Coroa no Altar do seu Templo.",
+        "internal": false
+      },
+      {
+        "id": 114,
+        "image": "/Items/114.png",
+        "name": "Talismã Sagrado",
+        "gameKey": "TALISMAN",
+        "textSource": "installed-game-localization",
+        "description": "Relíquias Místicas que podem debloquear novas Lãs no Altar do seu Templo.",
+        "internal": false
+      },
+      {
+        "id": 119,
+        "image": "/Items/119.png",
+        "name": "Lágrima de Deus",
+        "gameKey": "GOD_TEAR",
+        "textSource": "installed-game-localization",
+        "description": "Uma lágrima cristalizada, derramada por um dos Primeiros Deuses.",
+        "internal": false
+      },
+      {
+        "id": 128,
+        "image": "/Items/128.png",
+        "name": "Fragmento de Lágrima de Deus",
+        "gameKey": "GOD_TEAR_FRAGMENT",
+        "textSource": "installed-game-localization",
+        "description": "Um fragmento da lendária Lágrima de Deus.",
+        "internal": false
+      },
+      {
+        "id": 154,
+        "image": "/Items/154.png",
+        "name": "Pecado",
+        "gameKey": "PLEASURE_POINT",
+        "textSource": "installed-game-localization",
+        "description": "A manifestação da impureza em seu rebanho. Absolvida, arrependida e à sua disposição.",
+        "internal": false
+      }
+    ]
+  },
+  {
+    "name": "Food",
+    "items": [
+      {
+        "id": 6,
+        "image": "/Items/6.png",
+        "name": "Carne",
+        "gameKey": "MEAT",
+        "textSource": "installed-game-localization",
+        "description": "Uma refeição nutritiva para você cravar seus dentes.",
+        "internal": false
+      },
+      {
+        "id": 21,
+        "image": "/Items/21.png",
+        "name": "Fruta",
+        "gameKey": "BERRY",
+        "textSource": "installed-game-localization",
+        "description": "Um ingrediente gostoso para refeições.",
+        "internal": false
+      },
+      {
+        "id": 28,
+        "image": "/Items/28.png",
+        "name": "Salmão",
+        "gameKey": "FISH",
+        "textSource": "installed-game-localization",
+        "description": "Um prato principal satisfatório.",
+        "internal": false
+      },
+      {
+        "id": 33,
+        "image": "/Items/33.png",
+        "name": "Peixinho",
+        "gameKey": "FISH_SMALL",
+        "textSource": "installed-game-localization",
+        "description": "Uma pequena adição a qualquer refeição.",
+        "internal": false
+      },
+      {
+        "id": 34,
+        "image": "/Items/34.png",
+        "name": "Atum",
+        "gameKey": "FISH_BIG",
+        "textSource": "installed-game-localization",
+        "description": "Uma iguaria para Seguidores dedicados.",
+        "internal": false
+      },
+      {
+        "id": 35,
+        "image": "/Items/35.png",
+        "name": "Mato",
+        "gameKey": "GRASS",
+        "textSource": "installed-game-localization",
+        "description": "Material simples usado como combustível.",
+        "internal": false
+      },
+      {
+        "id": 39,
+        "image": "/Items/39.png",
+        "name": "Fertilizante",
+        "gameKey": "POOP",
+        "textSource": "installed-game-localization",
+        "description": "Rico em nutrientes, útil para Terrenos Agrícolas.",
+        "internal": false
+      },
+      {
+        "id": 50,
+        "image": "/Items/50.png",
+        "name": "Abóbora",
+        "gameKey": "PUMPKIN",
+        "textSource": "installed-game-localization",
+        "description": "Um ingrediente vigoroso.",
+        "internal": false
+      },
+      {
+        "id": 62,
+        "image": "/Items/62.png",
+        "name": "Carne de Seguidor",
+        "gameKey": "FOLLOWER_MEAT",
+        "textSource": "installed-game-localization",
+        "description": "A carne colhida de alguém que costumava te seguir.",
+        "internal": false
+      },
+      {
+        "id": 91,
+        "image": "/Items/91.png",
+        "name": "Caranguejo",
+        "gameKey": "FISH_CRAB",
+        "textSource": "installed-game-localization",
+        "description": "Um pequeno pinçador.",
+        "internal": false
+      },
+      {
+        "id": 92,
+        "image": "/Items/92.png",
+        "name": "Lagosta",
+        "gameKey": "FISH_LOBSTER",
+        "textSource": "installed-game-localization",
+        "description": "Um grande pinçador.",
+        "internal": false
+      },
+      {
+        "id": 93,
+        "image": "/Items/93.png",
+        "name": "Polvo",
+        "gameKey": "FISH_OCTOPUS",
+        "textSource": "installed-game-localization",
+        "description": "Tem oito braços que se mexem.",
+        "internal": false
+      },
+      {
+        "id": 94,
+        "image": "/Items/94.png",
+        "name": "Lula",
+        "gameKey": "FISH_SQUID",
+        "textSource": "installed-game-localization",
+        "description": "Tem oito tentáculos que se mexem.",
+        "internal": false
+      },
+      {
+        "id": 95,
+        "image": "/Items/95.png",
+        "name": "Peixe-Espada",
+        "gameKey": "FISH_SWORDFISH",
+        "textSource": "installed-game-localization",
+        "description": "Uma pesca realmente notável.",
+        "internal": false
+      },
+      {
+        "id": 96,
+        "image": "/Items/96.png",
+        "name": "Baiacu",
+        "gameKey": "FISH_BLOWFISH",
+        "textSource": "installed-game-localization",
+        "description": "Tão delicado quanto perigoso.",
+        "internal": false
+      },
+      {
+        "id": 97,
+        "image": "/Items/97.png",
+        "name": "Beterraba",
+        "gameKey": "BEETROOT",
+        "textSource": "installed-game-localization",
+        "description": "Ingrediente de cozinha apetitoso e revigorante.",
+        "internal": false
+      },
+      {
+        "id": 102,
+        "image": "/Items/102.png",
+        "name": "Couve-Flor",
+        "gameKey": "CAULIFLOWER",
+        "textSource": "installed-game-localization",
+        "description": "Um ingrediente de cozinha delicioso e saudável.",
+        "internal": false
+      },
+      {
+        "id": 105,
+        "image": "/Items/105.png",
+        "name": "Petisco",
+        "gameKey": "MEAT_MORSEL",
+        "textSource": "installed-game-localization",
+        "description": "Um pedaço de carne bem magro.",
+        "internal": false
+      },
+      {
+        "id": 159,
+        "image": "/Items/159.png",
+        "name": "Gema",
+        "gameKey": "YOLK",
+        "textSource": "installed-game-localization",
+        "description": "Não é um Seguidor morto...",
+        "internal": false
+      }
+    ]
+  },
+  {
+    "name": "Necklaces",
+    "items": [
+      {
+        "id": 45,
+        "image": "/Items/45.png",
+        "name": "Colar de Flores",
+        "gameKey": "Necklace_1",
+        "textSource": "installed-game-localization",
+        "description": "O Seguidor gerará devoção mais rapidamente",
+        "internal": false
+      },
+      {
+        "id": 46,
+        "image": "/Items/46.png",
+        "name": "Colar de Penas",
+        "gameKey": "Necklace_2",
+        "textSource": "installed-game-localization",
+        "description": "O Seguidor terá a velocidade de movimento aumentada",
+        "internal": false
+      },
+      {
+        "id": 47,
+        "image": "/Items/47.png",
+        "name": "Colar de Crânio",
+        "gameKey": "Necklace_3",
+        "textSource": "installed-game-localization",
+        "description": "O Seguidor terá uma vida estranhamente longa, o dobro do que se esperaria.",
+        "internal": false
+      },
+      {
+        "id": 48,
+        "image": "/Items/48.png",
+        "name": "Colar da Natureza",
+        "gameKey": "Necklace_4",
+        "textSource": "installed-game-localization",
+        "description": "O Seguidor coletará bônus de recursos",
+        "internal": false
+      },
+      {
+        "id": 49,
+        "image": "/Items/49.png",
+        "name": "Colar da Lua",
+        "gameKey": "Necklace_5",
+        "textSource": "installed-game-localization",
+        "description": "O Seguidor nunca dormirá",
+        "internal": false
+      },
+      {
+        "id": 122,
+        "image": "/Items/122.png",
+        "name": "Colar da Lealdade",
+        "gameKey": "Necklace_Loyalty",
+        "textSource": "installed-game-localization",
+        "description": "O Seguidor nunca se rebelará.",
+        "internal": false
+      },
+      {
+        "id": 123,
+        "image": "/Items/123.png",
+        "name": "Colar Demoníaco",
+        "gameKey": "Necklace_Demonic",
+        "textSource": "installed-game-localization",
+        "description": "O seguidor aumentou o nível de demônio.",
+        "internal": false
+      },
+      {
+        "id": 126,
+        "image": "/Items/126.png",
+        "name": "Colar Missionário",
+        "gameKey": "Necklace_Missionary",
+        "textSource": "installed-game-localization",
+        "description": "Aumenta as chances de o trabalho missionário do Seguidor ser bem-sucedido.",
+        "internal": false
+      },
+      {
+        "id": 127,
+        "image": "/Items/127.png",
+        "name": "Colar de Crânio de Ouro",
+        "gameKey": "Necklace_Gold_Skull",
+        "textSource": "installed-game-localization",
+        "description": "Seguidor ganha o aspecto Imortal.",
+        "internal": false
+      }
+    ]
+  },
+  {
+    "name": "Other",
+    "items": [
+      {
+        "id": 8,
+        "image": "/Items/8.png",
+        "name": "Semente de Fruta do Arbusto",
+        "gameKey": "SEED",
+        "textSource": "installed-game-localization",
+        "description": "Plante em um Terreno Agrícola.",
+        "internal": false
+      },
+      {
+        "id": 29,
+        "image": "/Items/29.png",
+        "name": "Cogumelo Menticida",
+        "gameKey": "MUSHROOM_SMALL",
+        "textSource": "installed-game-localization",
+        "description": "Um cogumelo traiçoeiro com um odor intoxicante.",
+        "internal": false
+      },
+      {
+        "id": 43,
+        "image": "/Items/43.png",
+        "name": "Presente Pequeno",
+        "gameKey": "GIFT_SMALL",
+        "textSource": "installed-game-localization",
+        "description": "Um pequeno presente para aumentar a Lealdade de um Seguidor.",
+        "internal": false
+      },
+      {
+        "id": 44,
+        "image": "/Items/44.png",
+        "name": "Presente Grande",
+        "gameKey": "GIFT_MEDIUM",
+        "textSource": "installed-game-localization",
+        "description": "Um presente para aumentar a Lealdade de um Seguidor.",
+        "internal": false
+      },
+      {
+        "id": 51,
+        "image": "/Items/51.png",
+        "name": "Semente de Abóbora",
+        "gameKey": "SEED_PUMPKIN",
+        "textSource": "installed-game-localization",
+        "description": "Plante em um Terreno Agrícola.",
+        "internal": false
+      },
+      {
+        "id": 55,
+        "image": "/Items/55.png",
+        "name": "Camélia",
+        "gameKey": "FLOWER_RED",
+        "textSource": "installed-game-localization",
+        "description": "Uma flor delicada, útil por sua beleza e benefícios medicinais.",
+        "internal": false
+      },
+      {
+        "id": 70,
+        "image": "/Items/70.png",
+        "name": "Esporo de Cogumelo Menticida",
+        "gameKey": "SEED_MUSHROOM",
+        "textSource": "installed-game-localization",
+        "description": "Plante em um Terreno Agrícola.",
+        "internal": false
+      },
+      {
+        "id": 72,
+        "image": "/Items/72.png",
+        "name": "Semente de Camélia",
+        "gameKey": "SEED_FLOWER_RED",
+        "textSource": "installed-game-localization",
+        "description": "Plante em um Terreno Agrícola.",
+        "internal": false
+      },
+      {
+        "id": 81,
+        "image": "/Items/81.png",
+        "name": "Tábuas de Madeira",
+        "gameKey": "LOG_REFINED",
+        "textSource": "installed-game-localization",
+        "description": "Material usado para construir estruturas robustas.",
+        "internal": false
+      },
+      {
+        "id": 82,
+        "image": "/Items/82.png",
+        "name": "Blocos de Pedra",
+        "gameKey": "STONE_REFINED",
+        "textSource": "installed-game-localization",
+        "description": "Material usado para construir estruturas robustas.",
+        "internal": false
+      },
+      {
+        "id": 83,
+        "image": "/Items/83.png",
+        "name": "Pepita de Ouro",
+        "gameKey": "GOLD_NUGGET",
+        "textSource": "installed-game-localization",
+        "description": "Uma pepita de ouro que pode ser refinada em uma moeda.",
+        "internal": false
+      },
+      {
+        "id": 86,
+        "image": "/Items/86.png",
+        "name": "Barras de Ouro",
+        "gameKey": "GOLD_REFINED",
+        "textSource": "installed-game-localization",
+        "description": "Material caro usado para construir estruturas sagradas.",
+        "internal": false
+      },
+      {
+        "id": 89,
+        "image": "/Items/89.png",
+        "name": "Fragmentos de Cristal",
+        "gameKey": "CRYSTAL",
+        "textSource": "installed-game-localization",
+        "description": "Material usado para construir belas decorações.",
+        "internal": false
+      },
+      {
+        "id": 90,
+        "image": "/Items/90.png",
+        "name": "Seda de Aranha",
+        "gameKey": "SPIDER_WEB",
+        "textSource": "installed-game-localization",
+        "description": "Delicada, porém forte. É retirada de teias de aranhas e usada para decorar construções.",
+        "internal": false
+      },
+      {
+        "id": 98,
+        "image": "/Items/98.png",
+        "name": "Sementes de Beterraba",
+        "gameKey": "SEED_BEETROOT",
+        "textSource": "installed-game-localization",
+        "description": "Plante em um Terreno Agrícola.",
+        "internal": false
+      },
+      {
+        "id": 101,
+        "image": "/Items/101.png",
+        "name": "Olho da Testemunha",
+        "gameKey": "BEHOLDER_EYE",
+        "textSource": "installed-game-localization",
+        "description": "Leve isso para o Plimbo e ganhe uma recompensa.",
+        "internal": false
+      },
+      {
+        "id": 103,
+        "image": "/Items/103.png",
+        "name": "Semente de Couve-Flor",
+        "gameKey": "SEED_CAULIFLOWER",
+        "textSource": "installed-game-localization",
+        "description": "Plante em um Terreno Agrícola.",
+        "internal": false
+      },
+      {
+        "id": 117,
+        "image": "/Items/117.png",
+        "name": "Concha",
+        "gameKey": "SHELL",
+        "textSource": "installed-game-localization",
+        "description": "Parece que isso fazia parte de um tipo de santuário...",
+        "internal": false
+      }
+    ]
+  },
+  {
+    "name": "Itens e refeições adicionais",
+    "items": [
+      {
+        "id": 0,
+        "gameKey": "NONE",
+        "name": "None",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 3,
+        "gameKey": "ROCK2",
+        "name": "Rock2",
+        "image": "/Items/3.png",
+        "imageSource": "Rock0002",
+        "internal": true
+      },
+      {
+        "id": 4,
+        "gameKey": "ROCK3",
+        "name": "Rock3",
+        "image": "/Items/4.png",
+        "imageSource": "Rock0003",
+        "internal": true
+      },
+      {
+        "id": 5,
+        "gameKey": "SEED_SWORD",
+        "name": "Seed Sword",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 7,
+        "gameKey": "WHEAT",
+        "name": "Wheat",
+        "image": "/Items/7.png",
+        "imageSource": "Wheat",
+        "internal": true
+      },
+      {
+        "id": 10,
+        "gameKey": "SOUL",
+        "name": "Devoção",
+        "image": "/Items/10.png",
+        "textSource": "installed-game-localization",
+        "description": "A moeda dos líderes de Cultos.",
+        "internal": false,
+        "imageIsPlaceholder": false,
+        "imageSource": "InventoryIconMapping:Soul_Icon"
+      },
+      {
+        "id": 11,
+        "gameKey": "VINES",
+        "name": "Vines",
+        "image": "/Items/11.png",
+        "internal": true,
+        "imageIsPlaceholder": false,
+        "imageSource": "InventoryIconMapping:Vine"
+      },
+      {
+        "id": 12,
+        "gameKey": "RED_HEART",
+        "name": "Coração Vermelho",
+        "image": "/Items/12.png",
+        "textSource": "installed-game-localization",
+        "internal": false,
+        "imageSource": "Red Heart Pick Up"
+      },
+      {
+        "id": 13,
+        "gameKey": "HALF_HEART",
+        "name": "Meio Coração Vermelho",
+        "image": "/Items/13.png",
+        "textSource": "installed-game-localization",
+        "internal": false,
+        "imageSource": "Red Heart Pick Up_Half"
+      },
+      {
+        "id": 14,
+        "gameKey": "BLUE_HEART",
+        "name": "Coração Azul",
+        "image": "/Items/14.png",
+        "textSource": "installed-game-localization",
+        "internal": false,
+        "imageSource": "Blue Heart Pick Up"
+      },
+      {
+        "id": 15,
+        "gameKey": "HALF_BLUE_HEART",
+        "name": "Meio Coração Azul",
+        "image": "/Items/15.png",
+        "textSource": "installed-game-localization",
+        "internal": false,
+        "imageSource": "Blue Heart Pick Up_Half"
+      },
+      {
+        "id": 16,
+        "gameKey": "TIME_TOKEN",
+        "name": "Time Token",
+        "image": "/Items/16.png",
+        "imageSource": "TimeToken",
+        "internal": true
+      },
+      {
+        "id": 17,
+        "gameKey": "GENERIC",
+        "name": "Generic",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 18,
+        "gameKey": "STAINED_GLASS",
+        "name": "Stained Glass",
+        "image": "/Items/18.png",
+        "imageSource": "StainedGlass",
+        "internal": true
+      },
+      {
+        "id": 19,
+        "gameKey": "FLOWERS",
+        "name": "Flowers",
+        "image": "/Items/19.png",
+        "internal": true,
+        "imageIsPlaceholder": false,
+        "imageSource": "InventoryIconMapping:SacredFlowers"
+      },
+      {
+        "id": 23,
+        "gameKey": "BLUE_PRINT",
+        "name": "Blue Print",
+        "image": "/Items/23.png",
+        "internal": true,
+        "imageIsPlaceholder": false,
+        "imageSource": "InventoryIconMapping:Wheat"
+      },
+      {
+        "id": 24,
+        "gameKey": "WEAPON_CARD",
+        "name": "Weapon Card",
+        "image": "/Items/24.png",
+        "internal": true,
+        "imageIsPlaceholder": false,
+        "imageSource": "InventoryIconMapping:KnowledgeScroll"
+      },
+      {
+        "id": 25,
+        "gameKey": "CURSE_CARD",
+        "name": "Curse Card",
+        "image": "/Items/25.png",
+        "internal": true,
+        "imageIsPlaceholder": false,
+        "imageSource": "InventoryIconMapping:KnowledgeScroll"
+      },
+      {
+        "id": 26,
+        "gameKey": "TRINKET_CARD",
+        "name": "Carta de Tarô",
+        "image": "/Items/26.png",
+        "textSource": "installed-game-localization",
+        "internal": false,
+        "imageSource": "CardBack_Trinket"
+      },
+      {
+        "id": 27,
+        "gameKey": "SOUL_FRAGMENT",
+        "name": "Soul Fragment",
+        "image": "/Items/27.png",
+        "internal": true,
+        "imageIsPlaceholder": false,
+        "imageSource": "InventoryIconMapping:Soul_Icon"
+      },
+      {
+        "id": 30,
+        "gameKey": "BLACK_SOUL",
+        "name": "Black Soul",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 31,
+        "gameKey": "MUSHROOM_BIG",
+        "name": "Mushroom Big",
+        "image": "/Items/31.png",
+        "internal": true,
+        "imageIsPlaceholder": false,
+        "imageSource": "InventoryIconMapping:FaceShroom"
+      },
+      {
+        "id": 32,
+        "gameKey": "MEAL",
+        "name": "Sopa de Abóbora Simples",
+        "image": "/Items/32.png",
+        "textSource": "installed-game-localization",
+        "description": "Uma refeição saudável feita de vegetais.",
+        "imageSource": "Meal",
+        "internal": false
+      },
+      {
+        "id": 36,
+        "gameKey": "THORNS",
+        "name": "Thorns",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 37,
+        "gameKey": "KEY_PIECE",
+        "name": "Key Piece",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 38,
+        "gameKey": "KEY",
+        "name": "Key",
+        "image": "/Items/38.png",
+        "imageSource": "Key",
+        "internal": true
+      },
+      {
+        "id": 40,
+        "gameKey": "FOUND_ITEM_DECORATION",
+        "name": "Modelo",
+        "image": "/Items/40.png",
+        "textSource": "installed-game-localization",
+        "internal": false,
+        "imageIsPlaceholder": false,
+        "imageSource": "InventoryIconMapping:Twitch Icon_Dark_Filled"
+      },
+      {
+        "id": 41,
+        "gameKey": "FOUND_ITEM_WEAPON",
+        "name": "Found Item Weapon",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 42,
+        "gameKey": "FOUND_ITEM_CURSE",
+        "name": "Found Item Curse",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 52,
+        "gameKey": "FOUND_ITEM_FOLLOWERSKIN",
+        "name": "Forma do Seguidor",
+        "image": "/Items/52.png",
+        "textSource": "installed-game-localization",
+        "internal": false,
+        "imageSource": "FormIcon"
+      },
+      {
+        "id": 53,
+        "gameKey": "BLACK_HEART",
+        "name": "Coração Doente",
+        "image": "/Items/53.png",
+        "textSource": "installed-game-localization",
+        "internal": false,
+        "imageSource": "Black Heart Pick Up"
+      },
+      {
+        "id": 54,
+        "gameKey": "PERMANENT_HALF_HEART",
+        "name": "Permanent Half Heart",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 56,
+        "gameKey": "FLOWER_WHITE",
+        "name": "Galanto",
+        "image": "/Items/56.png",
+        "textSource": "installed-game-localization",
+        "description": "Uma flor da pureza, com muitos usos.",
+        "imageSource": "SacredFlowers",
+        "internal": false
+      },
+      {
+        "id": 57,
+        "gameKey": "MEAL_GRASS",
+        "name": "Gororoba de Mato",
+        "image": "/Items/57.png",
+        "textSource": "installed-game-localization",
+        "description": "Melhor que nada.",
+        "imageSource": "Meal_Grass",
+        "internal": false
+      },
+      {
+        "id": 58,
+        "gameKey": "MEAL_MEAT",
+        "name": "Refeição de Carne Vigorosa",
+        "image": "/Items/58.png",
+        "textSource": "installed-game-localization",
+        "description": "A paixão dos carnívoros, e enche a barriga.",
+        "imageSource": "Meal_Meat",
+        "internal": false
+      },
+      {
+        "id": 59,
+        "gameKey": "MEAL_GREAT",
+        "name": "Banquete de Vegetais Divino",
+        "image": "/Items/59.png",
+        "textSource": "installed-game-localization",
+        "description": "Uma experiência culinária divina!",
+        "imageSource": "Meal_Great",
+        "internal": false
+      },
+      {
+        "id": 60,
+        "gameKey": "MEAL_GOOD_FISH",
+        "name": "Refeição de Peixe Gostosa",
+        "image": "/Items/60.png",
+        "textSource": "installed-game-localization",
+        "description": "Um prato satisfatório feito com carinho.",
+        "imageSource": "Meal_Good_Fish",
+        "internal": false
+      },
+      {
+        "id": 61,
+        "gameKey": "MEAT_ROTTEN",
+        "name": "Meat Rotten",
+        "image": "/Items/61.png",
+        "imageSource": "MeatLarge Rotten",
+        "internal": true
+      },
+      {
+        "id": 63,
+        "gameKey": "FOLLOWER_MEAT_ROTTEN",
+        "name": "Carne de Seguidor Apodrecida",
+        "image": "/Items/63.png",
+        "textSource": "installed-game-localization",
+        "description": "A carne apodrecida de alguém que costumava te seguir.",
+        "imageSource": "MeatRotten",
+        "internal": false
+      },
+      {
+        "id": 64,
+        "gameKey": "MEAL_ROTTEN",
+        "name": "Meal Rotten",
+        "image": "/Items/64.png",
+        "imageSource": "Meal_Rotten",
+        "internal": true
+      },
+      {
+        "id": 65,
+        "gameKey": "MEAL_FOLLOWER_MEAT",
+        "name": "Picadinho de Seguidor",
+        "image": "/Items/65.png",
+        "textSource": "installed-game-localization",
+        "description": "Um prato feito da carne de colegas membros do Culto.",
+        "imageSource": "Meal_Follower_Meat",
+        "internal": false
+      },
+      {
+        "id": 66,
+        "gameKey": "SEEDS",
+        "name": "Seeds",
+        "image": "/Items/66.png",
+        "internal": true,
+        "imageIsPlaceholder": false,
+        "imageSource": "InventoryIconMapping:Seeds_Icon_"
+      },
+      {
+        "id": 67,
+        "gameKey": "MEALS",
+        "name": "Meals",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 68,
+        "gameKey": "INGREDIENTS",
+        "name": "Ingredients",
+        "image": "/Items/68.png",
+        "internal": true,
+        "imageIsPlaceholder": false,
+        "imageSource": "InventoryIconMapping:Ingredients_Icon_"
+      },
+      {
+        "id": 69,
+        "gameKey": "MEAL_POOP",
+        "name": "Tigela de Cocô",
+        "image": "/Items/69.png",
+        "textSource": "installed-game-localization",
+        "description": "Uma \"refeição\" feita de excremento...",
+        "imageSource": "Meal_Poop",
+        "internal": false
+      },
+      {
+        "id": 71,
+        "gameKey": "SEED_FLOWER_WHITE",
+        "name": "Seed Flower White",
+        "image": "/Items/71.png",
+        "internal": true,
+        "imageIsPlaceholder": false,
+        "imageSource": "InventoryIconMapping:SeedWhiteFlower"
+      },
+      {
+        "id": 73,
+        "gameKey": "GRASS2",
+        "name": "Grass2",
+        "image": "/Items/73.png",
+        "imageSource": "Grass2",
+        "internal": true
+      },
+      {
+        "id": 74,
+        "gameKey": "GRASS3",
+        "name": "Grass3",
+        "image": "/Items/74.png",
+        "imageSource": "Grass3",
+        "internal": true
+      },
+      {
+        "id": 75,
+        "gameKey": "GRASS4",
+        "name": "Grass4",
+        "image": "/Items/75.png",
+        "imageSource": "Grass4",
+        "internal": true
+      },
+      {
+        "id": 76,
+        "gameKey": "GRASS5",
+        "name": "Grass5",
+        "image": "/Items/76.png",
+        "imageSource": "Grass5",
+        "internal": true
+      },
+      {
+        "id": 77,
+        "gameKey": "FLOWER_PURPLE",
+        "name": "Não-me-esqueças",
+        "image": "/Items/77.png",
+        "textSource": "installed-game-localization",
+        "description": "Uma flor que cresce na sombra, com muitos usos.",
+        "imageSource": "Flower_Purple",
+        "internal": false
+      },
+      {
+        "id": 78,
+        "gameKey": "SEED_TREE",
+        "name": "Seed Tree",
+        "image": "/Items/78.png",
+        "imageSource": "Acorn",
+        "internal": true
+      },
+      {
+        "id": 79,
+        "gameKey": "MAP",
+        "name": "Map",
+        "image": "/Items/79.png",
+        "imageSource": "Map",
+        "internal": true
+      },
+      {
+        "id": 80,
+        "gameKey": "MEAL_MUSHROOMS",
+        "name": "Refeição de Cogumelos",
+        "image": "/Items/80.png",
+        "textSource": "installed-game-localization",
+        "description": "Tomara que esses cogumelos refogados não sejam venenosos.",
+        "imageSource": "Meal_Mushrooms",
+        "internal": false
+      },
+      {
+        "id": 84,
+        "gameKey": "ROPE",
+        "name": "Rope",
+        "image": "/Items/84.png",
+        "imageSource": "Rope",
+        "internal": true
+      },
+      {
+        "id": 85,
+        "gameKey": "FOLLOWERS",
+        "name": "Seguidores",
+        "image": "/Items/85.png",
+        "textSource": "installed-game-localization",
+        "internal": false,
+        "imageSource": "FollowerBag"
+      },
+      {
+        "id": 87,
+        "gameKey": "BLOOD_STONE",
+        "name": "Blood Stone",
+        "image": "/Items/87.png",
+        "imageSource": "Bloodstone",
+        "internal": true
+      },
+      {
+        "id": 88,
+        "gameKey": "TRINKET_CARD_UNLOCKED",
+        "name": "Trinket Card Unlocked",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 99,
+        "gameKey": "MEAL_GREAT_FISH",
+        "name": "Banquete de Peixe Delicioso",
+        "image": "/Items/99.png",
+        "textSource": "installed-game-localization",
+        "description": "Preparada perfeitamente com ingredientes ricos.",
+        "imageSource": "Meal_Great_Fish",
+        "internal": false
+      },
+      {
+        "id": 100,
+        "gameKey": "MEAL_BAD_FISH",
+        "name": "Ensopado de Peixe Picante",
+        "image": "/Items/100.png",
+        "textSource": "installed-game-localization",
+        "description": "É mais gostosa do que parece.",
+        "imageSource": "Meal_Bad_Fish",
+        "internal": false
+      },
+      {
+        "id": 104,
+        "gameKey": "DISCIPLE_POINTS",
+        "name": "Disciple Points",
+        "image": "/Items/104.png",
+        "imageSource": "DivineInspiration",
+        "internal": true
+      },
+      {
+        "id": 106,
+        "gameKey": "MEAL_BERRIES",
+        "name": "Tigela Simples de Fruta",
+        "image": "/Items/106.png",
+        "textSource": "installed-game-localization",
+        "description": "Uma simples refeição de frutas.",
+        "imageSource": "Meal_Berries",
+        "internal": false
+      },
+      {
+        "id": 107,
+        "gameKey": "MEAL_MEDIUM_VEG",
+        "name": "Sopa de Couve-Flor Alegre",
+        "image": "/Items/107.png",
+        "textSource": "installed-game-localization",
+        "description": "Uma refeição vegetariana gostosa.",
+        "imageSource": "Meal_Medium_Veg",
+        "internal": false
+      },
+      {
+        "id": 108,
+        "gameKey": "MEAL_BAD_MIXED",
+        "name": "Refeição Mista Fraca",
+        "image": "/Items/108.png",
+        "textSource": "installed-game-localization",
+        "description": "Nada boa.",
+        "imageSource": "Meal_Bad_Mixed",
+        "internal": false
+      },
+      {
+        "id": 109,
+        "gameKey": "MEAL_MEDIUM_MIXED",
+        "name": "Refeição Mista Modesta",
+        "image": "/Items/109.png",
+        "textSource": "installed-game-localization",
+        "description": "É mais gostosa do que parece.",
+        "imageSource": "Meal_Medium_Mixed",
+        "internal": false
+      },
+      {
+        "id": 110,
+        "gameKey": "MEAL_GREAT_MIXED",
+        "name": "Refeição Mista Magnífica",
+        "image": "/Items/110.png",
+        "textSource": "installed-game-localization",
+        "description": "Uma boa refeição feita com a mistura dos melhores ingredientes.",
+        "imageSource": "Meal_Great_Mixed",
+        "internal": false
+      },
+      {
+        "id": 111,
+        "gameKey": "MEAL_DEADLY",
+        "name": "Prato Letal",
+        "image": "/Items/111.png",
+        "textSource": "installed-game-localization",
+        "description": "Uma mistura verdadeiramente infame.",
+        "imageSource": "Meal_Deadly",
+        "internal": false
+      },
+      {
+        "id": 112,
+        "gameKey": "MEAL_BAD_MEAT",
+        "name": "Gororoba Pegajosa de Carne",
+        "image": "/Items/112.png",
+        "textSource": "installed-game-localization",
+        "description": "Feita de restos.",
+        "imageSource": "Meal_Bad_Meat",
+        "internal": false
+      },
+      {
+        "id": 113,
+        "gameKey": "MEAL_GREAT_MEAT",
+        "name": "Banquete Poderoso de Carne",
+        "image": "/Items/113.png",
+        "textSource": "installed-game-localization",
+        "description": "Pedaços generosos de carne suculenta.",
+        "imageSource": "Meal_Great_Meat",
+        "internal": false
+      },
+      {
+        "id": 115,
+        "gameKey": "MEAL_BURNED",
+        "name": "Refeição Queimada",
+        "image": "/Items/115.png",
+        "textSource": "installed-game-localization",
+        "description": "Temperada com fogo.",
+        "internal": false,
+        "imageSource": "Meal_Burnt"
+      },
+      {
+        "id": 116,
+        "gameKey": "DOCTRINE_STONE",
+        "name": "Fragmento de Pedra da Lei",
+        "image": "/Items/116.png",
+        "textSource": "installed-game-localization",
+        "description": "Pedras da Lei que podem ser usadas para declarar novas Doutrinas no Altar do seu Templo.",
+        "imageSource": "Icon_DoctrineStone",
+        "internal": false
+      },
+      {
+        "id": 118,
+        "gameKey": "RELIC",
+        "name": "Relic",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 120,
+        "gameKey": "CRYSTAL_DOCTRINE_FRAGMENT",
+        "name": "Crystal Doctrine Fragment",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 121,
+        "gameKey": "CRYSTAL_DOCTRINE_STONE",
+        "name": "Pedra da Lei Esquecida",
+        "image": "/Items/121.png",
+        "textSource": "installed-game-localization",
+        "description": "Pedra usada para desbloquear Doutrinas inutilizadas.",
+        "imageSource": "CrystalDoctrineStone",
+        "internal": false
+      },
+      {
+        "id": 124,
+        "gameKey": "Necklace_Dark",
+        "name": "Colar Sombrio",
+        "image": "/Items/124.png",
+        "textSource": "installed-game-localization",
+        "description": "Não se sabe se possui algum efeito... mas geralmente o conhecimento é obtido por meio do sacrifício.",
+        "imageSource": "Item_GodDevilWings",
+        "internal": false
+      },
+      {
+        "id": 125,
+        "gameKey": "Necklace_Light",
+        "name": "Colar da Luz",
+        "image": "/Items/125.png",
+        "textSource": "installed-game-localization",
+        "description": "Não se sabe se possui algum efeito... mas geralmente o conhecimento é obtido por meio do sacrifício.",
+        "imageSource": "Item_GodAngelWings",
+        "internal": false
+      },
+      {
+        "id": 129,
+        "gameKey": "WEBBER_SKULL",
+        "name": "Webber Skull",
+        "image": "/Items/129.png",
+        "imageSource": "WebberSkull",
+        "internal": true
+      },
+      {
+        "id": 130,
+        "gameKey": "SNOW_CHUNK",
+        "name": "Snow Chunk",
+        "image": "/Items/130.png",
+        "textSource": "installed-game-localization",
+        "description": "A round ball of snow",
+        "imageSource": "SnowChunk",
+        "internal": false
+      },
+      {
+        "id": 131,
+        "gameKey": "CHARCOAL",
+        "name": "Charcoal",
+        "image": "/Items/131.png",
+        "textSource": "installed-game-localization",
+        "description": "Forged from fire, useless as a rock",
+        "imageSource": "Charcoal",
+        "internal": false
+      },
+      {
+        "id": 132,
+        "gameKey": "SILK_THREAD",
+        "name": "Fio de Seda",
+        "image": "/Items/132.png",
+        "textSource": "installed-game-localization",
+        "description": "Um fio refinado que serve para fabricar roupas.",
+        "internal": false,
+        "imageIsPlaceholder": false,
+        "imageSource": "Silk"
+      },
+      {
+        "id": 133,
+        "gameKey": "COTTON",
+        "name": "Algodão",
+        "image": "/Items/133.png",
+        "textSource": "installed-game-localization",
+        "description": "Um tecido macio que serve para fabricar roupas.",
+        "imageSource": "Cotton",
+        "internal": false
+      },
+      {
+        "id": 134,
+        "gameKey": "MEAL_SPICY",
+        "name": "Purê de Pimenta",
+        "image": "/Catalog/unmapped.svg",
+        "textSource": "installed-game-localization",
+        "description": "Cuidado, é picante!",
+        "internal": false,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 135,
+        "gameKey": "FISH_COD",
+        "name": "Fish Cod",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 136,
+        "gameKey": "FISH_PIKE",
+        "name": "Fish Pike",
+        "image": "/Items/136.png",
+        "imageSource": "Fish_Pike",
+        "internal": true
+      },
+      {
+        "id": 137,
+        "gameKey": "FISH_CATFISH",
+        "name": "Fish Catfish",
+        "image": "/Items/137.png",
+        "imageSource": "Fish_Catfish",
+        "internal": true
+      },
+      {
+        "id": 138,
+        "gameKey": "FOUND_ITEM_OUTFIT",
+        "name": "Found Item Outfit",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 139,
+        "gameKey": "LIGHTNING_SHARD",
+        "name": "Fragmento Energizado",
+        "image": "/Items/139.png",
+        "textSource": "installed-game-localization",
+        "description": "O fragmento crepitante de um raio capturado dos céus.",
+        "imageSource": "LightningShard",
+        "internal": false
+      },
+      {
+        "id": 140,
+        "gameKey": "SEED_COTTON",
+        "name": "Semente de Algodão",
+        "image": "/Items/140.png",
+        "textSource": "installed-game-localization",
+        "description": "Plante em um Terreno Agrícola.",
+        "imageSource": "SeedCotton",
+        "internal": false
+      },
+      {
+        "id": 141,
+        "gameKey": "LORE_STONE",
+        "name": "Tábua Antiga",
+        "image": "/Items/141.png",
+        "textSource": "installed-game-localization",
+        "description": "Escrituras de um tempo muito antigo.",
+        "imageSource": "LoreStone",
+        "internal": false
+      },
+      {
+        "id": 142,
+        "gameKey": "POOP_GOLD",
+        "name": "Fertilizante Dourado",
+        "image": "/Items/142.png",
+        "textSource": "installed-game-localization",
+        "description": "Plantações cultivadas com isto produzirão ouro na colheita.",
+        "imageSource": "Poop_Gold",
+        "internal": false
+      },
+      {
+        "id": 143,
+        "gameKey": "POOP_RAINBOW",
+        "name": "Fertilizante de Arco-Íris",
+        "image": "/Items/143.png",
+        "textSource": "installed-game-localization",
+        "description": "Plantações cultivadas com isto crescerão instantaneamente.",
+        "imageSource": "Poop_Rainbow",
+        "internal": false
+      },
+      {
+        "id": 144,
+        "gameKey": "POOP_GLOW",
+        "name": "Fertilizante Reluzente",
+        "image": "/Items/144.png",
+        "textSource": "installed-game-localization",
+        "description": "Plantações cultivadas com isto atraem vaga-lumes à noite.",
+        "imageSource": "Poop_Glow",
+        "internal": false
+      },
+      {
+        "id": 145,
+        "gameKey": "DRINK_BEER",
+        "name": "Bebida Duvidosa",
+        "image": "/Items/145.png",
+        "textSource": "installed-game-localization",
+        "description": "Perfeita para tomar depois de um dia longo.",
+        "imageSource": "Drink_Beer",
+        "internal": false
+      },
+      {
+        "id": 146,
+        "gameKey": "DRINK_WINE",
+        "name": "Néctar de Uva",
+        "image": "/Items/146.png",
+        "textSource": "installed-game-localization",
+        "description": "Perfeito para homenagear grandes Líderes.",
+        "imageSource": "Drink_Wine",
+        "internal": false
+      },
+      {
+        "id": 147,
+        "gameKey": "DRINK_COCKTAIL",
+        "name": "Elixir de Fruta",
+        "image": "/Items/147.png",
+        "textSource": "installed-game-localization",
+        "description": "Drinque de frutas refrescante e fabuloso.",
+        "imageSource": "Drink_Cocktail",
+        "internal": false
+      },
+      {
+        "id": 148,
+        "gameKey": "DRINK_EGGNOG",
+        "name": "Gemada",
+        "image": "/Items/148.png",
+        "textSource": "installed-game-localization",
+        "description": "Um drinque cremoso e festivo.",
+        "imageSource": "Drink_Eggnog",
+        "internal": false
+      },
+      {
+        "id": 149,
+        "gameKey": "DRINK_POOP_JUICE",
+        "name": "Suco de Cocô",
+        "image": "/Items/149.png",
+        "textSource": "installed-game-localization",
+        "description": "Suco com pedaços borrachudos.",
+        "imageSource": "Drink_Poop_Juice",
+        "internal": false
+      },
+      {
+        "id": 150,
+        "gameKey": "HOPS",
+        "name": "Lúpulo",
+        "image": "/Items/150.png",
+        "textSource": "installed-game-localization",
+        "description": "Usada para criar bebidas.",
+        "imageSource": "Hops",
+        "internal": false
+      },
+      {
+        "id": 151,
+        "gameKey": "GRAPES",
+        "name": "Uvas",
+        "image": "/Items/151.png",
+        "textSource": "installed-game-localization",
+        "description": "Usada para criar bebidas.",
+        "imageSource": "Grapes",
+        "internal": false
+      },
+      {
+        "id": 152,
+        "gameKey": "SEED_HOPS",
+        "name": "Sementes de Lúpulo",
+        "image": "/Items/152.png",
+        "textSource": "installed-game-localization",
+        "description": "Plante em um Terreno Agrícola.",
+        "imageSource": "SeedHops",
+        "internal": false
+      },
+      {
+        "id": 153,
+        "gameKey": "SEED_GRAPES",
+        "name": "Sementes de Uvas",
+        "image": "/Items/153.png",
+        "textSource": "installed-game-localization",
+        "description": "Plante em um Terreno Agrícola.",
+        "imageSource": "SeedGrapes",
+        "internal": false
+      },
+      {
+        "id": 155,
+        "gameKey": "EGG_FOLLOWER",
+        "name": "Egg Follower",
+        "image": "/Items/155.png",
+        "imageSource": "Yolk",
+        "internal": true
+      },
+      {
+        "id": 156,
+        "gameKey": "DRINK_GIN",
+        "name": "Suco de Zimbro",
+        "image": "/Items/156.png",
+        "textSource": "installed-game-localization",
+        "description": "Para afogar as mágoas.",
+        "imageSource": "Drink_Gin",
+        "internal": false
+      },
+      {
+        "id": 157,
+        "gameKey": "UNUSED",
+        "name": "Unused",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 158,
+        "gameKey": "DRINK_MUSHROOM_JUICE",
+        "name": "Shake-Melo",
+        "image": "/Items/158.png",
+        "textSource": "installed-game-localization",
+        "description": "Pedaços de cogumelos batidos.",
+        "imageSource": "Drink_Mushroom",
+        "internal": false
+      },
+      {
+        "id": 160,
+        "gameKey": "SEED_SOZO",
+        "name": "Semente de Sozo",
+        "image": "/Items/160.png",
+        "textSource": "installed-game-localization",
+        "description": "Plante em um Terreno Agrícola.",
+        "internal": false,
+        "imageSource": "Sozo Shroom"
+      },
+      {
+        "id": 161,
+        "gameKey": "MEAL_EGG",
+        "name": "Refeição de Ovo",
+        "image": "/Items/161.png",
+        "textSource": "installed-game-localization",
+        "description": "Uma refeição feita com um delicioso ovo fresco.",
+        "imageSource": "Meal_Egg",
+        "internal": false
+      },
+      {
+        "id": 162,
+        "gameKey": "POOP_DEVOTION",
+        "name": "Fertilizante Devoto",
+        "image": "/Items/162.png",
+        "textSource": "installed-game-localization",
+        "description": "Plantações cultivadas com isto gerarão Devoção ao crescer totalmente.",
+        "imageSource": "Poop_Devotion",
+        "internal": false
+      },
+      {
+        "id": 163,
+        "gameKey": "Necklace_Bell",
+        "name": "Necklace Bell",
+        "image": "/Catalog/unmapped.svg",
+        "internal": true,
+        "imageIsPlaceholder": true
+      },
+      {
+        "id": 164,
+        "gameKey": "FOUND_ITEM_DECORATION_ALT",
+        "name": "Found Item Decoration Alt",
+        "image": "/Items/164.png",
+        "internal": true,
+        "imageIsPlaceholder": false,
+        "imageSource": "InventoryIconMapping:KnowledgeScrollBlue"
+      }
+    ]
+  }
+]

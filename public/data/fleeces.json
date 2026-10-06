@@ -1,0 +1,147 @@
+[
+  {
+    "id": 0,
+    "name": "Default",
+    "gameKey": "Default"
+  },
+  {
+    "id": 1,
+    "name": "Gold",
+    "gameKey": "Gold"
+  },
+  {
+    "id": 2,
+    "name": "Green",
+    "gameKey": "Green"
+  },
+  {
+    "id": 3,
+    "name": "Purple",
+    "gameKey": "Purple"
+  },
+  {
+    "id": 4,
+    "name": "White",
+    "gameKey": "White"
+  },
+  {
+    "id": 5,
+    "name": "Blue",
+    "gameKey": "Blue"
+  },
+  {
+    "id": 6,
+    "name": "Curse Instead Of Weapon",
+    "gameKey": "CurseInsteadOfWeapon"
+  },
+  {
+    "id": 7,
+    "name": "One Hit Kills",
+    "gameKey": "OneHitKills"
+  },
+  {
+    "id": 8,
+    "name": "Hollow Heal",
+    "gameKey": "HollowHeal"
+  },
+  {
+    "id": 9,
+    "name": "No Rolling",
+    "gameKey": "NoRolling"
+  },
+  {
+    "id": 10,
+    "name": "Relic Instead Of Curse",
+    "gameKey": "RelicInsteadOfCurse"
+  },
+  {
+    "id": 11,
+    "name": "Blind Faith",
+    "gameKey": "BlindFaith"
+  },
+  {
+    "id": 666,
+    "name": "Fleece666",
+    "gameKey": "Fleece666"
+  },
+  {
+    "id": 667,
+    "name": "Fleece667",
+    "gameKey": "Fleece667"
+  },
+  {
+    "id": 668,
+    "name": "Fleece668",
+    "gameKey": "Fleece668"
+  },
+  {
+    "id": 669,
+    "name": "Fleece669",
+    "gameKey": "Fleece669"
+  },
+  {
+    "id": 670,
+    "name": "Fleece670",
+    "gameKey": "Fleece670"
+  },
+  {
+    "id": 671,
+    "name": "Fleece671",
+    "gameKey": "Fleece671"
+  },
+  {
+    "id": 672,
+    "name": "Fleece672",
+    "gameKey": "Fleece672"
+  },
+  {
+    "id": 673,
+    "name": "Fleece673",
+    "gameKey": "Fleece673"
+  },
+  {
+    "id": 674,
+    "name": "Fleece674",
+    "gameKey": "Fleece674"
+  },
+  {
+    "id": 675,
+    "name": "Fleece675",
+    "gameKey": "Fleece675"
+  },
+  {
+    "id": 676,
+    "name": "Fleece676",
+    "gameKey": "Fleece676"
+  },
+  {
+    "id": 680,
+    "name": "Fleece680",
+    "gameKey": "Fleece680"
+  },
+  {
+    "id": 999,
+    "name": "Outfit 999",
+    "gameKey": "Outfit_999"
+  },
+  {
+    "id": 1000,
+    "name": "God Of Death",
+    "gameKey": "GodOfDeath"
+  },
+  {
+    "id": 1001,
+    "name": "Outfit 1001",
+    "gameKey": "Outfit_1001"
+  },
+  {
+    "id": 1002,
+    "name": "Outfit 1002",
+    "gameKey": "Outfit_1002"
+  },
+  {
+    "id": 1003,
+    "name": "Goat",
+    "gameKey": "Goat"
+  }
+]

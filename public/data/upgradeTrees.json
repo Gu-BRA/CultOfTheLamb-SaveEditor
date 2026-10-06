@@ -1,0 +1,1300 @@
+{
+  "source": {
+    "gameVersion": "1.4.12",
+    "metadataSha256": "b9ea039aa4ffb4bf6336cde320d947253ba73f951220834ab5cd7227165038ea"
+  },
+  "trees": [
+    {
+      "key": "divine",
+      "name": "Divine Inspiration",
+      "tierField": "CurrentUpgradeTreeTier",
+      "tiers": [
+        {
+          "_tier": 0,
+          "_requiresCentralTier": 1,
+          "_centralNode": 42,
+          "_numRequiredToUnlock": 0
+        },
+        {
+          "_tier": 1,
+          "_requiresCentralTier": 1,
+          "_centralNode": 64,
+          "_numRequiredToUnlock": 4
+        },
+        {
+          "_tier": 2,
+          "_requiresCentralTier": 1,
+          "_centralNode": 34,
+          "_numRequiredToUnlock": 6
+        },
+        {
+          "_tier": 3,
+          "_requiresCentralTier": 1,
+          "_centralNode": 83,
+          "_numRequiredToUnlock": 10
+        },
+        {
+          "_tier": 4,
+          "_requiresCentralTier": 1,
+          "_centralNode": 84,
+          "_numRequiredToUnlock": 5
+        }
+      ],
+      "upgrades": [
+        {
+          "id": 42,
+          "gameKey": "Building_Temple",
+          "name": "Temple",
+          "description": "Establish a Temple to preach Sermons and perform Rituals.",
+          "image": "/Upgrades/42.png",
+          "tier": 0,
+          "parents": [],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 34,
+          "gameKey": "Economy_Refinery",
+          "name": "Refinery",
+          "description": "Consecrate resources into wooden planks, stone blocks and gold bars.",
+          "image": "/Upgrades/34.png",
+          "tier": 2,
+          "parents": [
+            64
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 64,
+          "gameKey": "Building_Temple2",
+          "name": "Cult II",
+          "description": "Upgrade Temple and Shrine. Collect more Devotion and allow more Followers to pray.",
+          "image": "/Upgrades/64.png",
+          "tier": 1,
+          "parents": [
+            42
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 52,
+          "gameKey": "Building_FollowerFarming",
+          "name": "Farming Bundle",
+          "description": "Farmer Station's allows Followers to water nearby crops.",
+          "image": "/Upgrades/52.png",
+          "tier": 0,
+          "parents": [
+            43
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 83,
+          "gameKey": "Temple_III",
+          "name": "Cult III",
+          "description": "Upgrade Temple and Shrine. Collect more Devotion and allow more Followers to pray.",
+          "image": "/Upgrades/83.png",
+          "tier": 3,
+          "parents": [
+            34
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 84,
+          "gameKey": "Temple_IV",
+          "name": "Cult IV",
+          "description": "Upgrade Temple and Shrine. Collect more Devotion and allow more Followers to pray.",
+          "image": "/Upgrades/84.png",
+          "tier": 4,
+          "parents": [
+            83
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 145,
+          "gameKey": "Building_DemonSummoner",
+          "name": "Demonic Summoning Circle",
+          "description": "Possess a Follower with the spirit of a demon so that they can join you on your next Crusade.",
+          "image": "/Upgrades/145.png",
+          "tier": 1,
+          "parents": [
+            117
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 155,
+          "gameKey": "Building_DemonSummoner_2",
+          "name": "Demonic Summoning Circle II",
+          "description": "Upgraded Demonic Summoning Circle. Summon 2 demons at a time.",
+          "image": "/Upgrades/155.png",
+          "tier": 2,
+          "parents": [
+            145
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 140,
+          "gameKey": "Building_Decorations2",
+          "name": "Bone Decorations",
+          "description": "Unlocks Bone Decorations. A collection of terrifying buildings built from enemy bones. Some decorations will give your Follower's faith when admired.",
+          "image": "/Upgrades/140.png",
+          "tier": 3,
+          "parents": [
+            155
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 43,
+          "gameKey": "Building_Farms",
+          "name": "Farm Plot",
+          "description": "Grow a seed into a crop.",
+          "image": "/Upgrades/43.png",
+          "tier": 0,
+          "parents": [
+            42
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 210,
+          "gameKey": "Building_MissionaryII",
+          "name": "Missionary II",
+          "description": "Send two Followers on a holy quest at once. Followers will have a higher likelihood of success and complete their mission more quickly.",
+          "image": "/Upgrades/210.png",
+          "tier": 2,
+          "parents": [
+            117
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 211,
+          "gameKey": "Building_MissionaryIII",
+          "name": "Missionary III",
+          "description": "Send three Followers on a holy quest at once. Followers will have an even higher likelihood of success and complete their mission even more quickly.",
+          "image": "/Upgrades/211.png",
+          "tier": 4,
+          "parents": [
+            210
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 33,
+          "gameKey": "Economy_Lumberyard",
+          "name": "Lumberyard",
+          "description": "A Follower will generate",
+          "image": "/Upgrades/33.png",
+          "tier": 1,
+          "parents": [
+            43
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 32,
+          "gameKey": "Economy_Mine",
+          "name": "Stone Mine",
+          "description": "A Follower will generate",
+          "image": "/Upgrades/32.png",
+          "tier": 1,
+          "parents": [
+            43
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 35,
+          "gameKey": "Economy_Refinery_2",
+          "name": "Refinery II",
+          "description": "Consecrate resources into wooden planks, stone blocks and gold bars.",
+          "image": "/Upgrades/35.png",
+          "tier": 3,
+          "parents": [
+            43
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 31,
+          "gameKey": "Economy_MineII",
+          "name": "Stone Mine II",
+          "description": "A Follower will generate",
+          "image": "/Upgrades/31.png",
+          "tier": 4,
+          "parents": [
+            32
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 36,
+          "gameKey": "Economy_LumberyardII",
+          "name": "Lumberyard II",
+          "description": "A Follower will generate",
+          "image": "/Upgrades/36.png",
+          "tier": 4,
+          "parents": [
+            33
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 44,
+          "gameKey": "Building_AdvancedFarming",
+          "name": "Scarecrow",
+          "description": "Prevents birds from stealing the seeds from Farm Plots within range.",
+          "image": "/Upgrades/44.png",
+          "tier": 1,
+          "parents": [
+            52
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 135,
+          "gameKey": "Building_HarvestTotem",
+          "name": "Harvest Totem",
+          "description": "Increase growth speed of all Farm Plots within range.",
+          "image": "/Upgrades/135.png",
+          "tier": 2,
+          "parents": [
+            44
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 126,
+          "gameKey": "Building_HarvestTotem2",
+          "name": "Devotion Harvest Totem",
+          "description": "Increase the growth speed of Farm Plots within range, while slowly generating Devotion .",
+          "image": "/Upgrades/126.png",
+          "tier": 4,
+          "parents": [
+            135
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 125,
+          "gameKey": "Building_Scarecrow2",
+          "name": "Trap Scarecrow",
+          "description": "Catches birds that try to steal the seeds from Farm Plots within range.",
+          "image": "/Upgrades/125.png",
+          "tier": 3,
+          "parents": [
+            44
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 117,
+          "gameKey": "Building_Missionary",
+          "name": "Missionary",
+          "description": "Send your Followers on a holy quest to gather resources. That is, if they make it back alive...",
+          "image": "/Upgrades/117.png",
+          "tier": 1,
+          "parents": [
+            43
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 121,
+          "gameKey": "Building_SiloFertiliser",
+          "name": "Fertiliser Silo",
+          "description": "Put fertiliser here for your Followers to use on Farm Plots.",
+          "image": "/Upgrades/121.png",
+          "tier": 2,
+          "parents": [
+            52
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 14,
+          "gameKey": "Followers_Compost",
+          "name": "Compost",
+          "description": "Deposit grass to turn it into fertilizer.",
+          "image": "/Upgrades/14.png",
+          "tier": 3,
+          "parents": [
+            121
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 213,
+          "gameKey": "Building_FarmStationII",
+          "name": "Farmer Station II",
+          "description": "Farmers will be able to harvest your crops and deposit them in a chest for you to collect.",
+          "image": "/Upgrades/213.png",
+          "tier": 3,
+          "parents": [
+            52
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 51,
+          "gameKey": "Building_Beds",
+          "name": "Sleeping Bags",
+          "description": "A place for a Follower to sleep. Very unstable, will often collapse.",
+          "image": "/Upgrades/51.png",
+          "tier": 0,
+          "parents": [
+            42
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 134,
+          "gameKey": "Building_BodyPit",
+          "name": "Body Pit",
+          "description": "Bury dead Followers in a simple pit. Avoids rotting corpses.",
+          "image": "/Upgrades/134.png",
+          "tier": 0,
+          "parents": [
+            51
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 139,
+          "gameKey": "Building_Decorations1",
+          "name": "Basic Decorations",
+          "description": "Unlocks Basic Decorations. A collection of simple decorations, to beautify your base.",
+          "image": "/Upgrades/139.png",
+          "tier": 1,
+          "parents": [
+            55
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 55,
+          "gameKey": "Building_BetterBeds",
+          "name": "Shelter",
+          "description": "Upgrade to a more stable shelter, which will collapse less often.",
+          "image": "/Upgrades/55.png",
+          "tier": 1,
+          "parents": [
+            51
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 136,
+          "gameKey": "Building_HealingBay",
+          "name": "Healing Bay",
+          "description": "A station for you to heal sick Followers.",
+          "image": "/Upgrades/136.png",
+          "tier": 2,
+          "parents": [
+            55
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 118,
+          "gameKey": "Building_Beds3",
+          "name": "Grand Shelter",
+          "description": "Give your Follower the luxury they deserve. Collects Devotion  while they sleep. Never collapses.",
+          "image": "/Upgrades/118.png",
+          "tier": 3,
+          "parents": [
+            136
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 137,
+          "gameKey": "Building_HealingBay2",
+          "name": "Healing Bay II",
+          "description": "A station for you to heal sick Followers. Requires less resources",
+          "image": "/Upgrades/137.png",
+          "tier": 4,
+          "parents": [
+            118
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 46,
+          "gameKey": "Building_Outhouse",
+          "name": "Outhouse",
+          "description": "Give your Followers somewhere to relieve themselves.",
+          "image": "/Upgrades/46.png",
+          "tier": 2,
+          "parents": [
+            55
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 144,
+          "gameKey": "Building_JanitorStation",
+          "name": "Janitor Station",
+          "description": "A building that allows Followers to clean up their own mess.",
+          "image": "/Upgrades/144.png",
+          "tier": 2,
+          "parents": [
+            55
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 260,
+          "gameKey": "Building_JanitorStation_2",
+          "name": "Janitor Station II",
+          "description": "A building that allows Followers to clean up their own mess. Followers will also clean outhouses.",
+          "image": "/Upgrades/260.png",
+          "tier": 3,
+          "parents": [
+            144
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 124,
+          "gameKey": "Building_Outhouse2",
+          "name": "Outhouse II",
+          "description": "Give your Followers somewhere nice to relieve themselves. Higher capacity.",
+          "image": "/Upgrades/124.png",
+          "tier": 4,
+          "parents": [
+            46
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 45,
+          "gameKey": "Building_Prison",
+          "name": "Prison",
+          "description": "Holds naughty Followers.",
+          "image": "/Upgrades/45.png",
+          "tier": 1,
+          "parents": [
+            51
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 50,
+          "gameKey": "Building_ConfessionBooth",
+          "name": "Confession Booth",
+          "description": "Hear a Follower's confession to increase their Loyalty. Can be used once a day.",
+          "image": "/Upgrades/50.png",
+          "tier": 2,
+          "parents": [
+            45
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 116,
+          "gameKey": "Building_PropagandaSpeakers",
+          "name": "Propaganda Speakers",
+          "description": "Ensure your Followers hear your message. When within range of speakers, Followers will work and pray 20% faster.",
+          "image": "/Upgrades/116.png",
+          "tier": 2,
+          "parents": [
+            45
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 74,
+          "gameKey": "Shrine_OfferingStatue",
+          "name": "Offering Statue",
+          "description": "A statue where Followers can leave Offerings in your honour.",
+          "image": "/Upgrades/74.png",
+          "tier": 1,
+          "parents": [
+            51
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 76,
+          "gameKey": "Shrine_PassiveShrines",
+          "name": "Tabernacle",
+          "description": "A place for Followers who are not worshipping to pray throughout the day and deposit Devotion.",
+          "image": "/Upgrades/76.png",
+          "tier": 1,
+          "parents": [
+            74
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 77,
+          "gameKey": "Shrine_PassiveShrinesII",
+          "name": "Tabernacle II",
+          "description": "A place for Followers who are not worshipping to pray throughout the day and deposit Devotion.",
+          "image": "/Upgrades/77.png",
+          "tier": 3,
+          "parents": [
+            73
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 80,
+          "gameKey": "Shrine_PassiveShrinesIII",
+          "name": "Tabernacle III",
+          "description": "A place for Followers who are not worshipping to pray throughout the day and deposit Devotion.",
+          "image": "/Upgrades/80.png",
+          "tier": 4,
+          "parents": [
+            77
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 73,
+          "gameKey": "Shrine_Flame",
+          "name": "Shrine Flame Bundle",
+          "description": "A place for your Followers to pray. The shrine will hold the Devotion  they create.",
+          "image": "/Upgrades/73.png",
+          "tier": 2,
+          "parents": [
+            76
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 82,
+          "gameKey": "Shrine_FlameII",
+          "name": "Shrine Flame II",
+          "description": "Feed the cleansing fire and harvest more Devotion.",
+          "image": "/Upgrades/82.png",
+          "tier": 3,
+          "parents": [
+            73
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 78,
+          "gameKey": "Shrine_FlameIII",
+          "name": "Shrine Flame III",
+          "description": "Blaze the cleansing fire and harvest more Devotion.",
+          "image": "/Upgrades/78.png",
+          "tier": 4,
+          "parents": [
+            82
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 89,
+          "gameKey": "Temple_CheaperRituals",
+          "name": "Cheaper Rituals",
+          "description": "Rituals cost 25% less.",
+          "image": "/Upgrades/89.png",
+          "tier": 2,
+          "parents": [
+            76
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 91,
+          "gameKey": "Temple_FasterCoolDowns",
+          "name": "Ritual Cool Downs",
+          "description": "Reduce Ritual cool downs by 25%",
+          "image": "/Upgrades/91.png",
+          "tier": 3,
+          "parents": [
+            89
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 156,
+          "gameKey": "Building_DemonSummoner_3",
+          "name": "Demonic Summoning Circle III",
+          "description": "Upgraded Demonic Summoning Circle. Summon 3 demons at a time.",
+          "image": "/Upgrades/156.png",
+          "tier": 4,
+          "parents": [
+            155
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 246,
+          "gameKey": "Building_Crypt_1",
+          "name": "Crypt I",
+          "description": "Lay multiple dead Followers to rest. Avoids rotting corpses.",
+          "image": "/Upgrades/246.png",
+          "tier": 2,
+          "parents": [
+            134
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 247,
+          "gameKey": "Building_Crypt_2",
+          "name": "Crypt II",
+          "description": "Lay multiple dead Followers to rest. Avoids rotting corpses. Holds more dead.",
+          "image": "/Upgrades/247.png",
+          "tier": 3,
+          "parents": [
+            246
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 248,
+          "gameKey": "Building_Crypt_3",
+          "name": "Crypt III",
+          "description": "Lay multiple dead Followers to rest. Avoids rotting corpses. Holds even more dead.",
+          "image": "/Upgrades/248.png",
+          "tier": 4,
+          "parents": [
+            247
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 71,
+          "gameKey": "Building_Kitchen",
+          "name": "Kitchen",
+          "description": "Allows Followers to cook meals for their fellow Cult members.",
+          "image": "/Upgrades/71.png",
+          "tier": 4,
+          "parents": [
+            213
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 249,
+          "gameKey": "Building_Shared_House",
+          "name": "Shared Shelter",
+          "description": "A place for multiple Followers to sleep. Never collapses.",
+          "image": "/Upgrades/249.png",
+          "tier": 3,
+          "parents": [
+            136
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 237,
+          "gameKey": "Building_Morgue_1",
+          "name": "Morgue I",
+          "description": "Followers can collect and store bodies while you are away here, but it must be emptied before it is full or it will cause illness.",
+          "image": "/Upgrades/237.png",
+          "tier": 3,
+          "parents": [
+            134
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 238,
+          "gameKey": "Building_Morgue_2",
+          "name": "Morgue II",
+          "description": "Followers can collect and store bodies while you are away here, but it must be emptied before it is full or it will cause illness.",
+          "image": "/Upgrades/238.png",
+          "tier": 4,
+          "parents": [
+            237
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 258,
+          "gameKey": "Building_PoopBucket",
+          "name": "Fertiliser Storage",
+          "description": "Followers will collect Fertiliser in storage to refill Fertiliser Silos.",
+          "image": "/Upgrades/258.png",
+          "tier": 4,
+          "parents": [
+            14
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 259,
+          "gameKey": "Building_SeedBucket",
+          "name": "Seed Storage",
+          "description": "Followers will collect Seeds in storage to refill Seed Silos.",
+          "image": "/Upgrades/259.png",
+          "tier": 4,
+          "parents": [
+            14
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 262,
+          "gameKey": "Building_Shrine_Disciple_Boost",
+          "name": "Empowered Shrine of Disciples",
+          "description": "Disciples pray at this Shrine to give you boosts while Crusading.",
+          "image": "/Upgrades/262.png",
+          "tier": 2,
+          "parents": [
+            76
+          ],
+          "requiresUpgrade": 270
+        },
+        {
+          "id": 271,
+          "gameKey": "Building_Shrine_Disciple_Collection",
+          "name": "Collected Shrine of Disciples",
+          "description": "Disciples will collect Devotion  from other structures within radius and deposit it here.",
+          "image": "/Upgrades/271.png",
+          "tier": 3,
+          "parents": [
+            262
+          ],
+          "requiresUpgrade": 270
+        },
+        {
+          "id": 263,
+          "gameKey": "Building_Pub",
+          "name": "Drinkhouse",
+          "description": "Brew drinks for your Followers to generate Sin",
+          "image": "/Upgrades/263.png",
+          "tier": 3,
+          "parents": [
+            45
+          ],
+          "requiresUpgrade": 265
+        },
+        {
+          "id": 269,
+          "gameKey": "Building_MatingTent",
+          "name": "Mating Tent",
+          "description": "Invite two Followers to decide if they wish to make an Egg together. Costs Sin   Also unlocks the Hatchery.",
+          "image": "/Upgrades/269.png",
+          "tier": 3,
+          "parents": [
+            45
+          ],
+          "requiresUpgrade": 265
+        },
+        {
+          "id": 275,
+          "gameKey": "Building_Hatchery_2",
+          "name": "Hatchery II",
+          "description": "A place for eggs to hatch. Eggs will hatch quicker.",
+          "image": "/Upgrades/275.png",
+          "tier": 4,
+          "parents": [
+            269
+          ],
+          "requiresUpgrade": 265
+        },
+        {
+          "id": 254,
+          "gameKey": "Building_Tailor",
+          "name": "Tailor",
+          "description": "Create outfits for Followers to keep them stylish.",
+          "image": "/Upgrades/254.png",
+          "tier": 0,
+          "parents": [
+            52
+          ],
+          "requiresUpgrade": 273
+        },
+        {
+          "id": 274,
+          "gameKey": "Building_Pub_2",
+          "name": "Drinkhouse II",
+          "description": "Brew drinks for your Followers to generate Sin   Stores more drinks.",
+          "image": "/Upgrades/274.png",
+          "tier": 4,
+          "parents": [
+            263
+          ],
+          "requiresUpgrade": 265
+        },
+        {
+          "id": 266,
+          "gameKey": "Building_Drum",
+          "name": "Drum Circle",
+          "description": "Perform at the Drum Circle and let the rhythmic beats tempt the faithful... Generates Sin",
+          "image": "/Upgrades/266.png",
+          "tier": 3,
+          "parents": [
+            45
+          ],
+          "requiresUpgrade": 265
+        },
+        {
+          "id": 255,
+          "gameKey": "Building_UpgradedIndoctrination",
+          "name": "Re-Indoctrination Stone",
+          "description": "Unlock the ablity to reform a Follower from Indoctrination Stone.",
+          "image": "/Upgrades/255.png",
+          "tier": 4,
+          "parents": [
+            266
+          ],
+          "requiresUpgrade": 265
+        },
+        {
+          "id": 282,
+          "gameKey": "Building_LeaderTent",
+          "name": "Leader Tent",
+          "description": "A resting place worthy of a glorious Leader, and their Crown.",
+          "image": "/Upgrades/282.png",
+          "tier": 4,
+          "parents": [
+            118
+          ],
+          "requiresUpgrade": 281
+        },
+        {
+          "id": 283,
+          "gameKey": "Building_Daycare",
+          "name": "Nursery",
+          "description": "Place babies in the Nursery to more easily care for them.",
+          "image": "/Upgrades/283.png",
+          "tier": 4,
+          "parents": [
+            269
+          ],
+          "requiresUpgrade": 265
+        }
+      ]
+    },
+    {
+      "key": "sermons",
+      "name": "Sermons",
+      "tierField": "CurrentPlayerUpgradeTreeTier",
+      "tiers": [
+        {
+          "_tier": 0,
+          "_requiresCentralTier": 1,
+          "_centralNode": 157,
+          "_numRequiredToUnlock": 0
+        },
+        {
+          "_tier": 1,
+          "_requiresCentralTier": 1,
+          "_centralNode": 223,
+          "_numRequiredToUnlock": 2
+        },
+        {
+          "_tier": 2,
+          "_requiresCentralTier": 1,
+          "_centralNode": 158,
+          "_numRequiredToUnlock": 3
+        },
+        {
+          "_tier": 3,
+          "_requiresCentralTier": 1,
+          "_centralNode": 224,
+          "_numRequiredToUnlock": 3
+        },
+        {
+          "_tier": 4,
+          "_requiresCentralTier": 1,
+          "_centralNode": 225,
+          "_numRequiredToUnlock": 4
+        },
+        {
+          "_tier": 5,
+          "_requiresCentralTier": 1,
+          "_centralNode": 226,
+          "_numRequiredToUnlock": 4
+        }
+      ],
+      "upgrades": [
+        {
+          "id": 157,
+          "gameKey": "PUpgrade_Heart_1",
+          "name": "Hearts of the Faithful",
+          "description": "Permanently gain half a Heart.",
+          "image": "/Upgrades/157.png",
+          "tier": 0,
+          "parents": [],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 214,
+          "gameKey": "PUpgrade_WeaponCritHit",
+          "name": "Merciless Weapons",
+          "description": "Merciless Weapons have a chance to deal a Critical Hit when attacking enemies.    They will appear on your Crusades.",
+          "image": "/Upgrades/214.png",
+          "tier": 4,
+          "parents": [
+            216
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 215,
+          "gameKey": "PUpgrade_WeaponPoison",
+          "name": "Bane Weapons",
+          "description": "Bane Weapons have a chance of poisoning enemies when attacking.    They will appear on your Crusades.",
+          "image": "/Upgrades/215.png",
+          "tier": 0,
+          "parents": [
+            157
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 216,
+          "gameKey": "PUpgrade_WeaponFervor",
+          "name": "Zealous Weapons",
+          "description": "Zealous Weapons will cause collected Fervour  to increase your Divine Inspiration bar.    They will appear on your Crusades.",
+          "image": "/Upgrades/216.png",
+          "tier": 3,
+          "parents": [
+            217
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 217,
+          "gameKey": "PUpgrade_WeaponNecromancy",
+          "name": "Necromantic Weapons",
+          "description": "Necromantic Weapons have a chance to summon dangerous ghosts from dead enemies that attack nearby foes.    They will appear on your Crusades.",
+          "image": "/Upgrades/217.png",
+          "tier": 2,
+          "parents": [
+            218
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 218,
+          "gameKey": "PUpgrade_WeaponHeal",
+          "name": "Vampiric Weapons",
+          "description": "Vampiric Weapons have a chance to heal the wielder using the life force of a slain foe.   They will appear on your Crusades.",
+          "image": "/Upgrades/218.png",
+          "tier": 1,
+          "parents": [
+            215
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 219,
+          "gameKey": "PUpgrade_WeaponGodly",
+          "name": "Godly Weapons",
+          "description": "Godly Weapons deal significantly more damage than mortal weapons, but are rare.   They will appear on your Crusades.",
+          "image": "/Upgrades/219.png",
+          "tier": 5,
+          "parents": [
+            214
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 207,
+          "gameKey": "PUpgrade_Ammo_1",
+          "name": "Fervour of the Righteous I",
+          "description": "Increase the total amount of Fervour you can hold, allowing you to cast an additional Curse.",
+          "image": "/Upgrades/207.png",
+          "tier": 1,
+          "parents": [
+            221
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 208,
+          "gameKey": "PUpgrade_Ammo_2",
+          "name": "Fervour of the Righteous II",
+          "description": "Increase the total amount of Fervour you can hold, allowing you to cast an additional Curse.",
+          "image": "/Upgrades/208.png",
+          "tier": 3,
+          "parents": [
+            207
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 221,
+          "gameKey": "PUpgrade_CursePack2",
+          "name": "Curse of the Horde",
+          "description": "Unlocks Curse of the Horde.",
+          "image": "/Upgrades/221.png",
+          "tier": 0,
+          "parents": [
+            157
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 231,
+          "gameKey": "PUpgrade_CursePack5",
+          "name": "Curse of the Occultist",
+          "description": "Unlocks Curse of the Occultist.",
+          "image": "/Upgrades/231.png",
+          "tier": 1,
+          "parents": [
+            221
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 220,
+          "gameKey": "PUpgrade_CursePack1",
+          "name": "Curse of the Tundra",
+          "description": "Unlocks Curse of the Tundra.",
+          "image": "/Upgrades/220.png",
+          "tier": 2,
+          "parents": [
+            231
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 230,
+          "gameKey": "PUpgrade_CursePack4",
+          "name": "Curse of the Necromancer",
+          "description": "Unlocks Curse of the Necromancer.",
+          "image": "/Upgrades/230.png",
+          "tier": 3,
+          "parents": [
+            220
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 222,
+          "gameKey": "PUpgrade_CursePack3",
+          "name": "Curse of the Beguiler",
+          "description": "Unlocks Curse of the Beguiler.",
+          "image": "/Upgrades/222.png",
+          "tier": 4,
+          "parents": [
+            230
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 223,
+          "gameKey": "PUpgrade_StartingWeapon_1",
+          "name": "Might of the Devout I",
+          "description": "Increase the starting level of weapons when you begin a new Crusade.",
+          "image": "/Upgrades/223.png",
+          "tier": 1,
+          "parents": [
+            157
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 158,
+          "gameKey": "PUpgrade_Heart_2",
+          "name": "Hearts of the Faithful II",
+          "description": "Permanently gain half a Heart.",
+          "image": "/Upgrades/158.png",
+          "tier": 2,
+          "parents": [
+            223
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 224,
+          "gameKey": "PUpgrade_StartingWeapon_2",
+          "name": "Might of the Devout II",
+          "description": "Increase the starting level of weapons when you begin a new Crusade.",
+          "image": "/Upgrades/224.png",
+          "tier": 3,
+          "parents": [
+            158
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 225,
+          "gameKey": "PUpgrade_StartingWeapon_3",
+          "name": "Might of the Devout III",
+          "description": "Increase the starting level of weapons when you begin a new Crusade.",
+          "image": "/Upgrades/225.png",
+          "tier": 4,
+          "parents": [
+            224
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 226,
+          "gameKey": "PUpgrade_StartingWeapon_4",
+          "name": "Might of the Devout IV",
+          "description": "Increase the starting level of weapons when you begin a new Crusade.",
+          "image": "/Upgrades/226.png",
+          "tier": 5,
+          "parents": [
+            225
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 227,
+          "gameKey": "PUpgrade_StartingWeapon_5",
+          "name": "Might of the Devout V",
+          "description": "Increase the starting level of weapons when you begin a new Crusade.",
+          "image": "/Upgrades/227.png",
+          "tier": 5,
+          "parents": [
+            226
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 240,
+          "gameKey": "PUpgrade_HeavyAttacks",
+          "name": "Weapon Mastery",
+          "description": "Press the Heavy Attack button to perform a Heavy Attack. Each weapon has its own unique move.",
+          "image": "/Upgrades/240.png",
+          "tier": 2,
+          "parents": [
+            223
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 241,
+          "gameKey": "PUpgrade_HA_Sword",
+          "name": "Sword Mastery",
+          "description": "Increase the damage dealt by the Sword's Heavy Attack.",
+          "image": "/Upgrades/241.png",
+          "tier": 5,
+          "parents": [
+            240
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 242,
+          "gameKey": "PUpgrade_HA_Axe",
+          "name": "Axe Mastery",
+          "description": "Increase the range and damage dealt by throwing the Axe.",
+          "image": "/Upgrades/242.png",
+          "tier": 5,
+          "parents": [
+            240
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 243,
+          "gameKey": "PUpgrade_HA_Dagger",
+          "name": "Dagger Mastery",
+          "description": "Increase the number of, and damage dealt by, thrown Daggers.",
+          "image": "/Upgrades/243.png",
+          "tier": 5,
+          "parents": [
+            240
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 244,
+          "gameKey": "PUpgrade_HA_Hammer",
+          "name": "Hammer Mastery",
+          "description": "Increase the damage dealt by the Charged Hammer.",
+          "image": "/Upgrades/244.png",
+          "tier": 5,
+          "parents": [
+            240
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 245,
+          "gameKey": "PUpgrade_HA_Gauntlets",
+          "name": "Gauntlets Mastery",
+          "description": "Increase the damage dealt by the Gauntlet's Spin Attack.",
+          "image": "/Upgrades/245.png",
+          "tier": 5,
+          "parents": [
+            240
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 234,
+          "gameKey": "Relic_Pack1",
+          "name": "Eyes of the Lost Relics",
+          "description": "New Relics will appear on your Crusades.",
+          "image": "/Upgrades/234.png",
+          "tier": 5,
+          "parents": [
+            225
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 233,
+          "gameKey": "Relics_Blessed_1",
+          "name": "Blessings of the Relics",
+          "description": "Unlock Blessed Relics. Some Relics will randomly appear as Blessed versions of themselves.",
+          "image": "/Upgrades/233.png",
+          "tier": 5,
+          "parents": [
+            234
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 235,
+          "gameKey": "Relics_Dammed_1",
+          "name": "Damnation of the Relics",
+          "description": "Unlock Damned Relics. Some Relics will randomly appear as Damned versions of themselves.",
+          "image": "/Upgrades/235.png",
+          "tier": 5,
+          "parents": [
+            234
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 251,
+          "gameKey": "PUpgrade_ResummonWeapon",
+          "name": "Kudaai's Blessing",
+          "description": "Resummon a Weapon or Curse, but it's level will be reduced by 1. Only works in the entrance room.",
+          "image": "/Upgrades/251.png",
+          "tier": 1,
+          "parents": [
+            215
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 228,
+          "gameKey": "PUpgrade_StartingWeapon_6",
+          "name": "Might of the Devout VI",
+          "description": "Increase the starting level of weapons when you begin a new Crusade.",
+          "image": "/Upgrades/228.png",
+          "tier": 5,
+          "parents": [
+            227
+          ],
+          "requiresUpgrade": 0
+        },
+        {
+          "id": 256,
+          "gameKey": "PUpgrade_HA_Blunderbuss",
+          "name": "Blunderbuss Mastery",
+          "description": "Increase the range and damage of the Blunderbuss.",
+          "image": "/Upgrades/256.png",
+          "tier": 5,
+          "parents": [
+            240
+          ],
+          "requiresUpgrade": 0
+        }
+      ]
+    }
+  ]
+}
