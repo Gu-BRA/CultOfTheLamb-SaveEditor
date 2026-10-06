@@ -48,7 +48,7 @@ function loadImage(url: string) {
         const image = new Image();
         image.onload = () => resolve(image);
         image.onerror = () => { images.delete(url); reject(new Error('Image unavailable')); };
-        image.src = url;
+        image.src = publicPath(url);
     }));
     return images.get(url)!;
 }
