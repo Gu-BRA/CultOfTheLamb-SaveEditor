@@ -480,8 +480,8 @@
     "Ao terminar, substitua o save antigo pelo novo."
   ],
   [
-    "Supports encrypted saves, .mp saves, JSON saves, and macOS slot_0 files using the ZB + GZIP format.",
-    "Aceita saves criptografados, arquivos .mp, saves JSON e arquivos slot_0 do macOS no formato ZB + GZIP."
+    "Supports encrypted saves, .mp saves, JSON saves, and Apple Arcade files using the ZB + GZIP format.",
+    "Aceita saves criptografados, arquivos .mp, saves JSON e arquivos do Apple Arcade no formato ZB + GZIP."
   ],
   [
     "If you don't know where your save file is located, copy the below path and paste in your file explorer top bar or, if you are on Windows, hit Windows key + R and paste the path in the Run dialog box.",
