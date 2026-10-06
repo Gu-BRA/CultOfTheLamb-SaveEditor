@@ -43,11 +43,11 @@
                         </div>
                     </div>
 
-                    <label>{{ t("Apple Arcade Save file location MacOS:") }}</label>
+                    <label>{{ t("Apple Arcade save file location MacOS:") }}</label>
                     <div class="input-group mb-5">
                         <input type="text" class="form-control"
                             value="~/Library/Containers/com.devolverdigital.cultofthelamb/Data/Library/Application Support/com.devolverdigital.cultofthelamb/user/"
-                            :aria-label="t('Apple Arcade Save file location MacOS')" disabled>
+                            :aria-label="t('Apple Arcade save file location MacOS')" disabled>
                         <div class="input-group-append">
                             <button class="btn btn-primary"
                                 @click="(event) => copyToClipboard(((event.target! as HTMLButtonElement).parentElement!.parentElement!.querySelector('input.form-control') as HTMLInputElement).value)"
