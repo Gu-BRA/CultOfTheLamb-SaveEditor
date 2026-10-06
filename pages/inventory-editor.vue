@@ -60,13 +60,13 @@ const filteredItems = computed(() => {
     const groups = (itemData.value ?? []).map(group => ({ ...group, items: [...group.items] }));
     const known = new Set(groups.flatMap(group => group.items.map(item => item.id)));
     const unknown = (getPropertyCaseInsensitive(saveStore.saveData, "items") ?? [])
-        .filter((item: any) => !known.has(item.type))
-        .map((item: any) => ({ id: item.type, name: `Item ID ${item.type}`, image: '' }));
+        .filter((item: any) => !known.has(Number(item.type)))
+        .map((item: any) => ({ id: Number(item.type), name: `Item ID ${item.type}`, image: '' }));
     if (unknown.length) groups.push({ name: 'Itens presentes no save sem descrição', items: unknown });
     return groups.map(group => ({ ...group, items: group.items.filter(item => (!item.internal || showInternal.value || itemQuantity(item.id) > 0) && (t(item.name) + ' ' + item.name).toLowerCase().includes(search.value.toLowerCase())) })).filter(group => group.items.length);
 });
 
-const itemQuantity = (id: number) => getPropertyCaseInsensitive(saveStore.saveData, "items")?.find((item: any) => item.type === id)?.quantity ?? 0;
+const itemQuantity = (id: number) => getPropertyCaseInsensitive(saveStore.saveData, "items")?.find((item: any) => Number(item.type) === id)?.quantity ?? 0;
 
 const setItemQuantity = (id: number, quantity: number) => {
     if (!saveStore.saveData || !Number.isFinite(quantity) || quantity < 0) return;
@@ -75,7 +75,7 @@ const setItemQuantity = (id: number, quantity: number) => {
         items = [];
         setPropertyCaseInsensitive(saveStore.saveData, "items", items);
     }
-    const item = items.find((entry: any) => entry.type === id);
+    const item = items.find((entry: any) => Number(entry.type) === id);
     if (item) {
         item.quantity = quantity;
         item.QuantityReserved = Math.min(Math.max(item.QuantityReserved ?? 0, 0), quantity);
