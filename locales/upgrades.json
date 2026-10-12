@@ -810,5 +810,389 @@
   [
     "Consecrate resources into wooden planks, stone blocks and gold bars.",
     "Consagre recursos para obter tábuas de madeira, blocos de pedra e barras de ouro."
+  ],
+  [
+    "Belief in Sacrifice",
+    "Crença no Sacrifício"
+  ],
+  [
+    "Gain 20 Faith when another follower is sacrificed.",
+    "Ganhe 20 de Fé quando outro seguidor for sacrificado."
+  ],
+  [
+    "Belief in Afterlife",
+    "Crença na Vida Após a Morte"
+  ],
+  [
+    "Lose 5 Faith instead of 20 when a follower dies.",
+    "Perca 5 de Fé em vez de 20 quando um seguidor morrer."
+  ],
+  [
+    "Ritual of Resurrection",
+    "Ritual de Ressurreição"
+  ],
+  [
+    "Unlock the ritual that brings a dead follower back to life.",
+    "Desbloqueia o ritual que traz um seguidor falecido de volta à vida."
+  ],
+  [
+    "Funeral",
+    "Funeral"
+  ],
+  [
+    "Unlock the funeral ritual for a recently deceased follower.",
+    "Desbloqueia o ritual funerário para um seguidor falecido recentemente."
+  ],
+  [
+    "Respect Your Elders",
+    "Respeito aos Idosos"
+  ],
+  [
+    "Gain Faith when a follower becomes an elder.",
+    "Ganhe Fé quando um seguidor se tornar idoso."
+  ],
+  [
+    "Good Die Young",
+    "Os Bons Morrem Jovens"
+  ],
+  [
+    "Gain Faith from sacrificing an elder, but lose Faith when one dies naturally.",
+    "Ganhe Fé ao sacrificar um idoso, mas perca Fé quando um morrer naturalmente."
+  ],
+  [
+    "Return to the Earth",
+    "Retorno à Terra"
+  ],
+  [
+    "Unlock the natural burial building.",
+    "Desbloqueia a construção de sepultamento natural."
+  ],
+  [
+    "Grieve the Fallen",
+    "Luto pelos Caídos"
+  ],
+  [
+    "Unlock graves where followers can grieve.",
+    "Desbloqueia túmulos onde os seguidores podem lamentar os mortos."
+  ],
+  [
+    "Faithful",
+    "Fiel"
+  ],
+  [
+    "Followers generate Devotion 15% faster.",
+    "Seguidores geram Devoção 15% mais rápido."
+  ],
+  [
+    "Industrious",
+    "Diligente"
+  ],
+  [
+    "Followers work 15% faster.",
+    "Seguidores trabalham 15% mais rápido."
+  ],
+  [
+    "Inspire",
+    "Inspirar"
+  ],
+  [
+    "Unlock the Inspire follower command.",
+    "Desbloqueia o comando Inspirar para seguidores."
+  ],
+  [
+    "Intimidate",
+    "Intimidar"
+  ],
+  [
+    "Unlock the Intimidate follower command.",
+    "Desbloqueia o comando Intimidar para seguidores."
+  ],
+  [
+    "The Glory of Construction",
+    "Glória da Construção"
+  ],
+  [
+    "Unlock the ritual that completes all ongoing construction.",
+    "Desbloqueia o ritual que conclui imediatamente todas as construções em andamento."
+  ],
+  [
+    "Ritual of Enlightenment",
+    "Ritual de Iluminação"
+  ],
+  [
+    "Unlock a ritual that increases Shrine Devotion generation.",
+    "Desbloqueia um ritual que aumenta a geração de Devoção no Santuário."
+  ],
+  [
+    "Glory Through Toil",
+    "Glória Através do Trabalho"
+  ],
+  [
+    "Unlock a ritual that lets followers work for two days without tiring.",
+    "Desbloqueia um ritual que permite aos seguidores trabalhar por dois dias sem se cansar."
+  ],
+  [
+    "Holy Day",
+    "Dia Sagrado"
+  ],
+  [
+    "Unlock a ritual that gives followers a day of rest and grants Faith.",
+    "Desbloqueia um ritual que dá um dia de descanso aos seguidores e concede Fé."
+  ],
+  [
+    "Extort Tithes",
+    "Cobrar Dízimos"
+  ],
+  [
+    "Unlock the command to collect Coins from a follower.",
+    "Desbloqueia o comando para cobrar Moedas de um seguidor."
+  ],
+  [
+    "Bribe Follower",
+    "Subornar Seguidor"
+  ],
+  [
+    "Unlock the command to bribe a follower with Coins.",
+    "Desbloqueia o comando para subornar um seguidor com Moedas."
+  ],
+  [
+    "Belief in Materialism",
+    "Crença no Materialismo"
+  ],
+  [
+    "Gain Faith when building better sleeping quarters.",
+    "Ganhe Fé ao construir alojamentos melhores."
+  ],
+  [
+    "Belief in False Idols",
+    "Crença em Falsos Ídolos"
+  ],
+  [
+    "Gain Faith when building decorations.",
+    "Ganhe Fé ao construir decorações."
+  ],
+  [
+    "Alms for the Poor",
+    "Esmolas para os Pobres"
+  ],
+  [
+    "Unlock a ritual that gives Coins to followers and grants Faith.",
+    "Desbloqueia um ritual que dá Moedas aos seguidores e concede Fé."
+  ],
+  [
+    "Ritual of Enrichment",
+    "Ritual de Enriquecimento"
+  ],
+  [
+    "Unlock a ritual in which followers donate Coins to you.",
+    "Desbloqueia um ritual em que os seguidores doam Moedas para você."
+  ],
+  [
+    "Sacral Architecture",
+    "Arquitetura Sacra"
+  ],
+  [
+    "Gain Faith when a building is constructed.",
+    "Ganhe Fé quando uma construção for concluída."
+  ],
+  [
+    "Devotee",
+    "Devoto"
+  ],
+  [
+    "Gain more Faith when preaching a Sermon.",
+    "Ganhe mais Fé ao pregar um Sermão."
+  ],
+  [
+    "Murder Follower",
+    "Assassinar Seguidor"
+  ],
+  [
+    "Unlock the Murder follower command.",
+    "Desbloqueia o comando para assassinar um seguidor."
+  ],
+  [
+    "Ascend Follower",
+    "Ascender Seguidor"
+  ],
+  [
+    "Unlock the ritual to ascend a follower.",
+    "Desbloqueia o ritual para ascender um seguidor."
+  ],
+  [
+    "Ritualistic Fight Pit",
+    "Ritual do Fosso de Luta"
+  ],
+  [
+    "Unlock a ritual where two followers fight.",
+    "Desbloqueia um ritual em que dois seguidores lutam."
+  ],
+  [
+    "Wedding",
+    "Casamento"
+  ],
+  [
+    "Unlock the Wedding ritual.",
+    "Desbloqueia o ritual de Casamento."
+  ],
+  [
+    "Belief in Original Sin",
+    "Crença no Pecado Original"
+  ],
+  [
+    "Reduce Faith loss for imprisoning a follower who is not dissenting.",
+    "Reduz a perda de Fé ao prender um seguidor que não está dissentindo."
+  ],
+  [
+    "Belief in Absolution",
+    "Crença na Absolvição"
+  ],
+  [
+    "Gain Faith each day that begins with no followers in prison.",
+    "Ganhe Fé a cada dia que começar sem seguidores na prisão."
+  ],
+  [
+    "Loyalty Enforcer",
+    "Executor da Lealdade"
+  ],
+  [
+    "Unlock the ritual to appoint a Loyalty Enforcer.",
+    "Desbloqueia o ritual para nomear um Executor da Lealdade."
+  ],
+  [
+    "Tax Enforcer",
+    "Coletor de Impostos"
+  ],
+  [
+    "Unlock the ritual to appoint a Tax Enforcer.",
+    "Desbloqueia o ritual para nomear um Coletor de Impostos."
+  ],
+  [
+    "Ritual Fast",
+    "Jejum Ritualístico"
+  ],
+  [
+    "Unlock a ritual that prevents followers from eating for three days.",
+    "Desbloqueia um ritual que impede os seguidores de comer por três dias."
+  ],
+  [
+    "Feasting Ritual",
+    "Ritual do Banquete"
+  ],
+  [
+    "Unlock a feast that fills hunger and grants Faith.",
+    "Desbloqueia um banquete que sacia a fome e concede Fé."
+  ],
+  [
+    "Cannibal",
+    "Canibal"
+  ],
+  [
+    "Gain Faith when a follower eats a meal made with follower meat.",
+    "Ganhe Fé quando um seguidor comer uma refeição feita com carne de seguidor."
+  ],
+  [
+    "Grass Eater",
+    "Comedor de Mato"
+  ],
+  [
+    "Followers do not lose Faith when eating a Grass Meal.",
+    "Seguidores não perdem Fé ao comer uma refeição de Mato."
+  ],
+  [
+    "Ritual of the Harvest",
+    "Ritual da Colheita"
+  ],
+  [
+    "Unlock a ritual that makes all crops ready to harvest.",
+    "Desbloqueia um ritual que deixa todas as plantações prontas para colher."
+  ],
+  [
+    "Ritual of the Ocean's Bounty",
+    "Ritual da Recompensa do Oceano"
+  ],
+  [
+    "Unlock a ritual that improves fishing for two days.",
+    "Desbloqueia um ritual que melhora a pesca por dois dias."
+  ],
+  [
+    "Substances Encouraged",
+    "Substâncias Encorajadas"
+  ],
+  [
+    "Gain Faith when performing the Brainwashing Ritual.",
+    "Ganhe Fé ao realizar o Ritual de Lavagem Cerebral."
+  ],
+  [
+    "Belief in Prohibitionism",
+    "Crença no Proibicionismo"
+  ],
+  [
+    "Increase work speed and Devotion, with a chance of sickness after brainwashing.",
+    "Aumenta a velocidade de trabalho e a Devoção, com chance de adoecimento após a lavagem cerebral."
+  ],
+  [
+    "Rite of Lust",
+    "Ritual da Luxúria"
+  ],
+  [
+    "Unlock a ritual that generates Sin through a dance.",
+    "Desbloqueia um ritual que gera Pecado por meio de uma dança."
+  ],
+  [
+    "Rite of Wrath",
+    "Ritual da Ira"
+  ],
+  [
+    "Unlock a ritual that generates Sin through a violent ceremony.",
+    "Desbloqueia um ritual que gera Pecado por meio de uma cerimônia violenta."
+  ],
+  [
+    "Sinner's Pride",
+    "Orgulho do Pecador"
+  ],
+  [
+    "Unlock a ritual that transfers followers’ Sin to one follower.",
+    "Desbloqueia um ritual que transfere o Pecado dos seguidores para um deles."
+  ],
+  [
+    "Gluttony of Cannibals",
+    "Gula dos Canibais"
+  ],
+  [
+    "Unlock a ritual that generates Sin by consuming a follower.",
+    "Desbloqueia um ritual que gera Pecado ao consumir um seguidor."
+  ],
+  [
+    "Doctrinal Extremist",
+    "Extremista Doutrinário"
+  ],
+  [
+    "Generate Sin from the Confession Booth instead of Loyalty.",
+    "Gera Pecado no Confessionário em vez de Lealdade."
+  ],
+  [
+    "Violent Extremist",
+    "Extremista Violento"
+  ],
+  [
+    "Gain a chance to find Sin after defeating mini-bosses.",
+    "Há uma chance de obter Pecado ao derrotar minichefes."
+  ],
+  [
+    "Born of Sin",
+    "Nascido do Pecado"
+  ],
+  [
+    "Followers hatched in the cult are born with Sin.",
+    "Seguidores nascidos no Culto já terão Pecado."
+  ],
+  [
+    "Blind Allegiance",
+    "Lealdade Cega"
+  ],
+  [
+    "Followers hatched in the cult are born with high Loyalty.",
+    "Seguidores nascidos no Culto terão Lealdade elevada."
   ]
 ]

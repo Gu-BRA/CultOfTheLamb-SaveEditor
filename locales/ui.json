@@ -145,7 +145,7 @@
   ],
   [
     "Cult Traits",
-    "Doutrinas do Culto"
+    "Traços do Culto"
   ],
   [
     "Cooking Recipes",
@@ -1094,5 +1094,189 @@
   [
     "The save contains more hearts than the 10 displayed.",
     "O save contém mais corações do que os 10 exibidos."
+  ],
+  [
+    "Supports encrypted saves, .mp saves, JSON saves, and macOS slot_0 files using the ZB + GZIP format.",
+    "Aceita saves criptografados, arquivos .mp, saves JSON e arquivos slot_0 do macOS no formato ZB + GZIP."
+  ],
+  [
+    "Save file location macOS:",
+    "Local do save no macOS:"
+  ],
+  [
+    "Saving…",
+    "Salvando…"
+  ],
+  [
+    "Save to game",
+    "Salvar no jogo"
+  ],
+  [
+    "Close the game before saving.",
+    "Feche o jogo antes de salvar."
+  ],
+  [
+    "Reload the page to load the installed save before saving.",
+    "Recarregue a página para carregar o save instalado antes de salvar."
+  ],
+  [
+    "slot_0 replaced. Backup created in the save folder.",
+    "slot_0 substituído. Backup criado na pasta do save."
+  ],
+  [
+    "The save changed on disk. Reload the page before saving.",
+    "O save mudou no disco. Recarregue a página antes de salvar."
+  ],
+  [
+    "Could not save. Your changes remain in the editor.",
+    "Não foi possível salvar. Suas alterações continuam no editor."
+  ],
+  [
+    "Loading installed save…",
+    "Carregando o save instalado…"
+  ],
+  [
+    "Could not load the installed slot_0. You can open a file manually.",
+    "Não foi possível carregar o slot_0 instalado. Você pode abrir um arquivo manualmente."
+  ],
+  [
+    "Doctrines",
+    "Doutrinas do Culto"
+  ],
+  [
+    "Doctrine choices",
+    "Escolhas de doutrina"
+  ],
+  [
+    "Choose at most one doctrine from each pair. Selecting one removes the opposing choice and synchronizes the related upgrades and cult traits.",
+    "Escolha no máximo uma doutrina de cada dupla. Ao selecionar uma, a opção oposta será removida e as melhorias e os traços correspondentes serão sincronizados."
+  ],
+  [
+    "Doctrine categories",
+    "Categorias de doutrina"
+  ],
+  [
+    "This save does not contain the required doctrine fields.",
+    "Este save não contém os campos necessários para editar doutrinas."
+  ],
+  [
+    "Both choices are present in this save. Select one to resolve the pair.",
+    "As duas opções desta dupla estão presentes no save. Selecione uma para resolver o conflito."
+  ],
+  [
+    "No choice selected",
+    "Nenhuma opção selecionada"
+  ],
+  [
+    "Work and Worship",
+    "Trabalho e Adoração"
+  ],
+  [
+    "Law and Order",
+    "Lei e Ordem"
+  ],
+  [
+    "Sins",
+    "Pecados"
+  ],
+  [
+    "Afterlife I",
+    "Pós-vida I"
+  ],
+  [
+    "Afterlife II",
+    "Pós-vida II"
+  ],
+  [
+    "Afterlife III",
+    "Pós-vida III"
+  ],
+  [
+    "Afterlife IV",
+    "Pós-vida IV"
+  ],
+  [
+    "Work and Worship I",
+    "Trabalho e Adoração I"
+  ],
+  [
+    "Work and Worship II",
+    "Trabalho e Adoração II"
+  ],
+  [
+    "Work and Worship III",
+    "Trabalho e Adoração III"
+  ],
+  [
+    "Work and Worship IV",
+    "Trabalho e Adoração IV"
+  ],
+  [
+    "Possessions I",
+    "Possessões I"
+  ],
+  [
+    "Possessions II",
+    "Possessões II"
+  ],
+  [
+    "Possessions III",
+    "Possessões III"
+  ],
+  [
+    "Possessions IV",
+    "Possessões IV"
+  ],
+  [
+    "Law and Order I",
+    "Lei e Ordem I"
+  ],
+  [
+    "Law and Order II",
+    "Lei e Ordem II"
+  ],
+  [
+    "Law and Order III",
+    "Lei e Ordem III"
+  ],
+  [
+    "Law and Order IV",
+    "Lei e Ordem IV"
+  ],
+  [
+    "Sustenance I",
+    "Sustento I"
+  ],
+  [
+    "Sustenance II",
+    "Sustento II"
+  ],
+  [
+    "Sustenance III",
+    "Sustento III"
+  ],
+  [
+    "Sustenance IV",
+    "Sustento IV"
+  ],
+  [
+    "Sins I",
+    "Pecados I"
+  ],
+  [
+    "Sins II",
+    "Pecados II"
+  ],
+  [
+    "Sins III",
+    "Pecados III"
+  ],
+  [
+    "Sins IV",
+    "Pecados IV"
+  ],
+  [
+    "Changes are included when you download the edited save.",
+    "As alterações serão incluídas ao baixar o save editado."
   ]
 ]

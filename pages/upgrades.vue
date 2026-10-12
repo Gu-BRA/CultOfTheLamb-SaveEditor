@@ -14,25 +14,42 @@
                 :class="{ active: selected === 'doctrines' }" role="tab"
                 :aria-selected="selected === 'doctrines'" aria-controls="panel-doctrines"
                 @click="selected = 'doctrines'">
-                {{ t('Cult Traits') }}
+                {{ t('Doctrines') }}
             </button>
         </div>
         <div v-if="!editable" class="alert alert-info">{{ t('Load a compatible save to edit upgrades.') }}</div>
         <section v-else-if="selected === 'doctrines'" id="panel-doctrines" role="tabpanel"
             aria-labelledby="tab-doctrines">
-            <h2 class="h4">{{ t('Cult Traits') }}</h2>
-            <div class="nav nav-tabs mb-3" role="tablist" :aria-label="t('Cult Traits')">
-                <button v-for="(doctrine, index) in traitData" :id="`tab-doctrine-${index}`" :key="doctrine.name"
-                    type="button" class="nav-link" :class="{ active: selectedDoctrineTab === index }" role="tab"
-                    :aria-selected="selectedDoctrineTab === index" :aria-controls="`panel-doctrine-${index}`"
-                    @click="selectedDoctrineTab = index">
-                    {{ t(doctrine.name) }}
+            <h2 class="h4">{{ t('Doctrines') }}</h2>
+            <div class="nav nav-tabs mb-3" role="tablist" :aria-label="t('Doctrines')">
+                <button id="tab-doctrine-choices" type="button" class="nav-link" role="tab"
+                    :class="{ active: selectedDoctrineSection === 'choices' }" :aria-selected="selectedDoctrineSection === 'choices'"
+                    aria-controls="panel-doctrine-choices" @click="selectedDoctrineSection = 'choices'">
+                    {{ t('Doctrine choices') }}
+                </button>
+                <button id="tab-cult-traits" type="button" class="nav-link" role="tab"
+                    :class="{ active: selectedDoctrineSection === 'traits' }" :aria-selected="selectedDoctrineSection === 'traits'"
+                    aria-controls="panel-cult-traits" @click="selectedDoctrineSection = 'traits'">
+                    {{ t('Cult Traits') }}
                 </button>
             </div>
-            <div v-if="activeDoctrine" :id="`panel-doctrine-${selectedDoctrineTab}`" role="tabpanel"
-                :aria-labelledby="`tab-doctrine-${selectedDoctrineTab}`">
-                <TraitBranch :left-branch="activeDoctrine.leftBranch" :right-branch="activeDoctrine.rightBranch"
-                    :save-data="store.saveData" />
+            <div v-if="selectedDoctrineSection === 'choices'" id="panel-doctrine-choices" role="tabpanel" aria-labelledby="tab-doctrine-choices">
+                <DoctrineChoices :save-data="store.saveData" />
+            </div>
+            <div v-else id="panel-cult-traits" role="tabpanel" aria-labelledby="tab-cult-traits">
+                <div class="nav nav-pills gap-2 mb-3" role="tablist" :aria-label="t('Cult Traits')">
+                    <button v-for="(doctrine, index) in traitData" :id="`tab-doctrine-${index}`" :key="doctrine.name"
+                        type="button" class="nav-link" :class="{ active: selectedDoctrineTab === index }" role="tab"
+                        :aria-selected="selectedDoctrineTab === index" :aria-controls="`panel-doctrine-${index}`"
+                        @click="selectedDoctrineTab = index">
+                        {{ t(doctrine.name) }}
+                    </button>
+                </div>
+                <div v-if="activeDoctrine" :id="`panel-doctrine-${selectedDoctrineTab}`" role="tabpanel"
+                    :aria-labelledby="`tab-doctrine-${selectedDoctrineTab}`">
+                    <TraitBranch :left-branch="activeDoctrine.leftBranch" :right-branch="activeDoctrine.rightBranch"
+                        :save-data="store.saveData" />
+                </div>
             </div>
         </section>
         <div v-else :id="`panel-${activeTree.key}`" role="tabpanel" :aria-labelledby="`tab-${activeTree.key}`">
@@ -84,6 +101,7 @@ const store = useSaveData();
 const { data: traitData } = useFetch<{ name: string, leftBranch: { id: number, image: string, name: string, description: string }[], rightBranch: { id: number, image: string, name: string, description: string }[] }[]>(publicPath('/data/traitData.json'));
 const selected = ref('divine');
 const selectedDoctrineTab = ref(0);
+const selectedDoctrineSection = ref<'choices' | 'traits'>('choices');
 const search = ref('');
 const editable = computed(() => canEditUpgrades(store.saveData));
 const activeTree = computed(() => upgradeTrees.find(tree => tree.key === selected.value)!);
