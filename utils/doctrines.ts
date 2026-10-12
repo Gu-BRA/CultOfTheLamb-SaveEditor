@@ -73,7 +73,49 @@ export function selectedDoctrine(pair: DoctrinePair, save: unknown): number | nu
   if (left && right) return 'conflict';
   if (left) return pair.left.id;
   if (right) return pair.right.id;
+  // Older editor versions wrote the effect arrays without registering the
+  // doctrine itself. Show these choices so they can be explicitly reconciled.
+  if (canEditDoctrines(save)) {
+    const effectEnabled = (option: DoctrineOption) =>
+      (option.cultTraitId !== undefined && field(save, 'CultTraits')!.includes(option.cultTraitId)) ||
+      (option.upgradeId !== undefined && field(save, 'UnlockedUpgrades')!.includes(option.upgradeId));
+    const leftEffect = effectEnabled(pair.left), rightEffect = effectEnabled(pair.right);
+    if (leftEffect && rightEffect) return 'conflict';
+    if (leftEffect) return pair.left.id;
+    if (rightEffect) return pair.right.id;
+  }
   return null;
+}
+
+const levelFields = ['Doctrine_Afterlife_Level', 'Doctrine_WorkWorship_Level',
+  'Doctrine_Possessions_Level', 'Doctrine_LawAndOrder_Level', 'Doctrine_Food_Level', 'Doctrine_Pleasure_Level'];
+
+export function synchronizeDoctrineProgress(save: unknown): void {
+  if (!canEditDoctrines(save)) return;
+  const ids = doctrineIds(save);
+  doctrineCategories.forEach((category, index) => {
+    const highestTier = category.pairs.reduce((level, pair, tier) =>
+      ids.includes(pair.left.id) || ids.includes(pair.right.id) ? tier + 1 : level, 0);
+    const key = keyFor(save, levelFields[index]!);
+    if (key && highestTier > 0 && Number.isInteger(save[key])) {
+      save[key] = Math.max(save[key] as number, highestTier);
+    }
+  });
+  if (ids.some(id => id >= 53 && id <= 60)) {
+    for (const name of ['PleasureDoctrineEnabled', 'PleasureDoctrineOnboarded']) {
+      const key = keyFor(save, name);
+      if (key && typeof save[key] === 'boolean') save[key] = true;
+    }
+  }
+}
+
+export function synchronizeExistingDoctrines(save: unknown): void {
+  if (!canEditDoctrines(save)) return;
+  for (const category of doctrineCategories) for (const pair of category.pairs) {
+    const selected = selectedDoctrine(pair, save);
+    if (typeof selected === 'number') setDoctrine(save, pair, selected);
+  }
+  synchronizeDoctrineProgress(save);
 }
 
 function updateArray(save: Save, name: string, removeIds: number[], addId?: number) {
@@ -96,4 +138,5 @@ export function setDoctrine(save: unknown, pair: DoctrinePair, selectedId: numbe
   updateArray(save, 'UnlockedUpgrades', upgradeRemove, selected?.upgradeId);
   const traitRemove = (selected ? [opposite] : options).flatMap(option => option?.cultTraitId === undefined ? [] : [option.cultTraitId]);
   updateArray(save, 'CultTraits', traitRemove, selected?.cultTraitId);
+  synchronizeDoctrineProgress(save);
 }

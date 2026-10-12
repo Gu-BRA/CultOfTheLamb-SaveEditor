@@ -11,7 +11,7 @@ const compiled = ts.transpileModule(fs.readFileSync(sourcePath, 'utf8'), {
 const loaded = new Module(sourcePath, module);
 loaded.filename = sourcePath; loaded.paths = module.paths;
 loaded._compile(compiled, sourcePath);
-const { doctrineCategories, canEditDoctrines, selectedDoctrine, setDoctrine } = loaded.exports;
+const { doctrineCategories, canEditDoctrines, selectedDoctrine, setDoctrine, synchronizeExistingDoctrines } = loaded.exports;
 
 const fresh = () => ({ DoctrineUnlockedUpgrades: [], UnlockedUpgrades: [9000], CultTraits: [8000], Followers: [{ ID: 10 }] });
 
@@ -68,4 +68,45 @@ test('unsupported save fields are rejected without mutation', () => {
     const before = JSON.stringify(save);
     assert.throws(() => setDoctrine(save, doctrineCategories[0].pairs[0], 30));
     assert.equal(JSON.stringify(save), before);
+});
+
+test('legacy trait and ritual edits can be reconciled without changing stone counts or inventing choices', () => {
+    const save = { DoctrineUnlockedUpgrades: [49, 50, 47, 32, 54],
+        UnlockedUpgrades: [110, 267, 9999], CultTraits: [24, 18, 26, 30, 8000],
+        Doctrine_WorkWorship_Level: 0, Doctrine_Possessions_Level: 0, Doctrine_Afterlife_Level: 2,
+        Doctrine_Pleasure_Level: 0, PleasureDoctrineEnabled: false, PleasureDoctrineOnboarded: false,
+        DoctrineCurrentCount: 15, DoctrineStoneTotalCount: 61, Followers: [{ ID: 10 }] };
+    const before = JSON.stringify(save);
+    assert.equal(selectedDoctrine(doctrineCategories[1].pairs[0], save), 11);
+    assert.equal(JSON.stringify(save), before, 'reading an inferred choice must not change the save');
+    synchronizeExistingDoctrines(save);
+    for (const id of [11, 18, 17, 34, 54, 49, 50, 47, 32]) assert.ok(save.DoctrineUnlockedUpgrades.includes(id));
+    assert.ok(!save.DoctrineUnlockedUpgrades.includes(6), 'do not invent Inspire or Intimidate');
+    assert.ok(!save.DoctrineUnlockedUpgrades.includes(20), 'do not invent Alms or Enrichment');
+    assert.equal(save.Doctrine_WorkWorship_Level, 1);
+    assert.equal(save.Doctrine_Possessions_Level, 4);
+    assert.equal(save.Doctrine_Afterlife_Level, 3);
+    assert.equal(save.Doctrine_Pleasure_Level, 1);
+    assert.equal(save.PleasureDoctrineEnabled, true);
+    assert.equal(save.PleasureDoctrineOnboarded, true);
+    assert.equal(save.DoctrineCurrentCount, 15);
+    assert.equal(save.DoctrineStoneTotalCount, 61);
+    assert.deepEqual(save.Followers, [{ ID: 10 }]);
+    assert.ok(save.UnlockedUpgrades.includes(9999));
+    assert.ok(save.CultTraits.includes(8000));
+    const once = JSON.stringify(save);
+    synchronizeExistingDoctrines(save);
+    assert.equal(JSON.stringify(save), once);
+});
+
+test('ambiguous legacy choices remain unresolved and existing progression is never reduced', () => {
+    const save = { DoctrineUnlockedUpgrades: [], UnlockedUpgrades: [110, 111], CultTraits: [],
+        Doctrine_Afterlife_Level: 4 };
+    assert.equal(selectedDoctrine(doctrineCategories[0].pairs[1], save), 'conflict');
+    const before = JSON.stringify(save);
+    synchronizeExistingDoctrines(save);
+    assert.equal(JSON.stringify(save), before);
+    setDoctrine(save, doctrineCategories[0].pairs[1], 32);
+    assert.deepEqual(save.UnlockedUpgrades, [110]);
+    assert.equal(save.Doctrine_Afterlife_Level, 4);
 });

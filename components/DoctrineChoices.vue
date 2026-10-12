@@ -4,6 +4,12 @@
             {{ t('Choose at most one doctrine from each pair. Selecting one removes the opposing choice and synchronizes the related upgrades and cult traits.') }}
             {{ t('Changes are included when you download the edited save.') }}
         </p>
+        <div v-if="canEditDoctrines(saveData)" class="mb-3">
+            <button type="button" class="btn btn-outline-primary" @click="synchronizeExistingDoctrines(saveData)">
+                {{ t('Synchronize existing doctrines') }}
+            </button>
+            <p class="small text-body-secondary mt-2 mb-0">{{ t('Register choices previously enabled as traits or upgrades, and update doctrine progression. Conflicting pairs are kept for you to resolve.') }}</p>
+        </div>
         <div class="nav nav-pills gap-2 mb-3" :aria-label="t('Doctrine categories')">
             <button v-for="category in doctrineCategories" :key="category.name" type="button" class="nav-link"
                 :class="{ active: selectedCategory === category.name }" :aria-pressed="selectedCategory === category.name"
@@ -38,6 +44,7 @@
                                         <span class="flex-grow-1">
                                             <span class="fw-semibold d-block">{{ t(option.name) }}</span>
                                             <span class="small text-body-secondary">{{ t(option.description) }}</span>
+                                            <span v-if="selectedDoctrine(pair, saveData) === option.id && !doctrineIds(saveData).includes(option.id)" class="small d-block text-warning-emphasis mt-1">{{ t('Effect enabled; doctrine registration pending.') }}</span>
                                         </span>
                                     </label>
                                 </div>
@@ -59,7 +66,7 @@
 </template>
 
 <script setup lang="ts">
-import { canEditDoctrines, doctrineCategories, selectedDoctrine, setDoctrine, type DoctrineCategory, type DoctrineOption } from '~/utils/doctrines';
+import { canEditDoctrines, doctrineCategories, doctrineIds, selectedDoctrine, setDoctrine, synchronizeExistingDoctrines, type DoctrineCategory, type DoctrineOption } from '~/utils/doctrines';
 import { publicPath } from '~/utils/public-path';
 import type { JsonSaveFile } from '~/types/save';
 

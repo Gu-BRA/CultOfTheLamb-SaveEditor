@@ -20,8 +20,8 @@
                                     </span>
                                 </div>
                                 <div class="form-check form-switch">
-                                    <input :id="`cult-trait-${trait.id}`" v-model="currentCultTraits" type="checkbox"
-                                        role="switch" class="form-check-input" :value="trait.id" :aria-label="t(trait.name)">
+                                    <input :id="`cult-trait-${trait.id}`" type="checkbox" :checked="isEnabled(trait.id)"
+                                        role="switch" class="form-check-input" :aria-label="t(trait.name)" @change="toggleTrait(trait.id, $event)">
                                 </div>
                             </div>
                         </div>
@@ -34,7 +34,8 @@
 
 <script setup lang="ts">
 import type { JsonSaveFile } from '~/types/save';
-import type { ComputedRef } from 'vue';
+import type { WritableComputedRef } from 'vue';
+import { canEditDoctrines, doctrineCategories, setDoctrine } from '~/utils/doctrines';
 
 type TraitData = {
     id: number;
@@ -50,12 +51,23 @@ const props = defineProps<{
     saveData: JsonSaveFile;
 }>();
 
-const currentCultTraits = generateObjectInsensitiveComputed(() => props.saveData, 'CultTraits') as ComputedRef<number[]>;
+const currentCultTraits = generateObjectInsensitiveComputed(() => props.saveData, 'CultTraits') as WritableComputedRef<number[]>;
 const branches = computed(() => [
     { key: 'left', title: 'Left Branch', traits: props.leftBranch },
     { key: 'right', title: 'Right Branch', traits: props.rightBranch },
 ]);
 const isEnabled = (id: number) => currentCultTraits.value?.includes(id) ?? false;
+function toggleTrait(id: number, event: Event) {
+    const enabled = (event.target as HTMLInputElement).checked;
+    const pair = doctrineCategories.flatMap(category => category.pairs).find(pair =>
+        pair.left.cultTraitId === id || pair.right.cultTraitId === id);
+    if (pair && canEditDoctrines(props.saveData)) {
+        const option = pair.left.cultTraitId === id ? pair.left : pair.right;
+        setDoctrine(props.saveData, pair, enabled ? option.id : null);
+        return;
+    }
+    currentCultTraits.value = enabled ? [...new Set([...currentCultTraits.value, id])] : currentCultTraits.value.filter(trait => trait !== id);
+}
 </script>
 
 <style scoped>

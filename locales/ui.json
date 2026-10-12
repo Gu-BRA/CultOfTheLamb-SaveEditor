@@ -1278,5 +1278,17 @@
   [
     "Changes are included when you download the edited save.",
     "As alterações serão incluídas ao baixar o save editado."
+  ],
+  [
+    "Synchronize existing doctrines",
+    "Sincronizar doutrinas existentes"
+  ],
+  [
+    "Register choices previously enabled as traits or upgrades, and update doctrine progression. Conflicting pairs are kept for you to resolve.",
+    "Registra escolhas anteriormente ativadas como traços ou melhorias e atualiza o progresso das doutrinas. Duplas conflitantes ficam preservadas para você resolver."
+  ],
+  [
+    "Effect enabled; doctrine registration pending.",
+    "Efeito ativado; registro da doutrina pendente."
   ]
 ]
