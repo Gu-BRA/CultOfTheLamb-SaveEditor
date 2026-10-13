@@ -1,4 +1,6 @@
 <template>
+    <div class="follower-page">
+    <FollowerSectionTabs />
     <div v-if="saveStore.saveData">
         <section class="card p-3 mb-3">
             <h2 class="h5 mb-2">{{ t('Create random follower') }}</h2>
@@ -31,7 +33,15 @@
                 </div>
             </div>
             <div class="follower-list">
-                <div v-for="follower in filteredFollowers" :key="follower.ID" class="card follower-card">
+                <div v-for="follower in filteredFollowers" :key="follower.ID" class="card follower-card position-relative">
+                    <button type="button" class="btn btn-sm btn-outline-danger follower-kill-button"
+                        :aria-label="t('Kill follower')" :title="t('Kill follower')"
+                        @click="killFollower(getPropertyCaseInsensitive(follower, 'ID'))">
+                        <svg aria-hidden="true" viewBox="0 0 24 24" width="17" height="17" fill="currentColor">
+                            <path d="M12 2a8.5 8.5 0 0 0-5.2 15.22V20a2 2 0 0 0 2 2h6.4a2 2 0 0 0 2-2v-2.78A8.5 8.5 0 0 0 12 2Zm-3 9a1.35 1.35 0 1 1 0-2.7A1.35 1.35 0 0 1 9 11Zm6 0a1.35 1.35 0 1 1 0-2.7 1.35 1.35 0 0 1 0 2.7Zm-5 4.4a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm4 0a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z" />
+                            <path d="M10 18h4v2h-4z" />
+                        </svg>
+                    </button>
                     <div class="center-container">
                         <FollowerPreview :follower="follower" :size="80" />
                     </div>
@@ -53,6 +63,7 @@
         <p v-else> {{ t("You have no follower!") }} </p>
     </div>
     <p v-else> {{ t("Load a save file!") }} </p>
+    </div>
 </template>
 
 <script setup lang="ts">
@@ -136,6 +147,16 @@ const deleteFollower = (id: number) => {
     if (!saveStore.saveData) return;
     setPropertyCaseInsensitive(saveStore.saveData, "Followers", getPropertyCaseInsensitive(saveStore.saveData, "Followers").filter((follower: any) => getPropertyCaseInsensitive(follower, "ID") !== id));
 }
+
+const killFollower = (id: number) => {
+    if (!saveStore.saveData) return;
+    const livingFollowers = getPropertyCaseInsensitive(saveStore.saveData, 'Followers') ?? [];
+    const follower = livingFollowers.find((item: any) => getPropertyCaseInsensitive(item, 'ID') === id);
+    if (!follower) return;
+    const deadFollowers = getPropertyCaseInsensitive(saveStore.saveData, 'Followers_Dead') ?? [];
+    setPropertyCaseInsensitive(saveStore.saveData, 'Followers', livingFollowers.filter((item: any) => getPropertyCaseInsensitive(item, 'ID') !== id));
+    setPropertyCaseInsensitive(saveStore.saveData, 'Followers_Dead', [...deadFollowers, follower]);
+};
 
 const saveFollower = (followerData: FollowerEditEvent, oldID: number) => {
     if (!saveStore.saveData) {

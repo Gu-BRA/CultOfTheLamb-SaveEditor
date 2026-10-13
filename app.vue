@@ -3,7 +3,7 @@
 <template>
   <div>
     <NuxtLayout>
-      <NuxtPage />
+      <NuxtPage :page-key="route => route.path" />
     </NuxtLayout>
   </div>
 </template>

@@ -28,15 +28,18 @@
 const { language, t } = useLanguage();
 const route = useRoute();
 
-const isActive = (path: string) => route.path === path;
+const followerPaths = ['/followers', '/recruiting-followers', '/dead-followers'];
+const upgradePaths = ['/upgrades', '/tarot-cards'];
+const isActive = (path: string) => path === '/followers'
+    ? followerPaths.includes(route.path)
+    : path === '/upgrades'
+        ? upgradePaths.includes(route.path)
+        : route.path === path;
 
 const routeList = [
     { path: '/', text: 'Character', icon: '✦' },
     { path: '/inventory-editor', text: 'Inventory Editor', icon: '◇' },
-    { path: '/tarot-cards', text: 'Tarot Cards', icon: '☷' },
     { path: '/followers', text: 'Followers', icon: '☻' },
-    { path: '/recruiting-followers', text: 'Recruiting Followers', icon: '＋' },
-    { path: '/dead-followers', text: 'Dead Followers', icon: '†' },
     { path: '/upgrades', text: 'Upgrades', icon: '✧' },
     { path: '/building-unlocks', text: 'Building Unlocks', icon: '⌂' },
     { path: '/raw', text: 'Raw', icon: '{ }' },

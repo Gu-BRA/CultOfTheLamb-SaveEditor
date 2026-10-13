@@ -1,4 +1,6 @@
 <template>
+    <div class="follower-page">
+    <FollowerSectionTabs />
     <div v-if="saveStore.saveData">
         <div v-if="getPropertyCaseInsensitive(saveStore.saveData, 'Followers_Dead')?.length > 0">
             <FollowerModalEdit v-if="selectedFollower" ref="followerModalEdit" :follower-data="selectedFollower"
@@ -33,6 +35,7 @@
         <p v-else> {{ t("You have no dead follower! Go kill some!") }} </p>
     </div>
     <p v-else> {{ t("Load a save file!") }} </p>
+    </div>
 </template>
 
 <script setup lang="ts">

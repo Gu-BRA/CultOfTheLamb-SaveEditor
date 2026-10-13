@@ -64,7 +64,7 @@ export default defineNuxtConfig({
 
   app: {
     baseURL,
-    pageTransition: { name: 'page', mode: 'out-in' },
+    pageTransition: { name: 'page' },
     head: {
       title: 'Cult of the Lamb - Save file editor',
       htmlAttrs: {

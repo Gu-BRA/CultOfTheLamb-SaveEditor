@@ -1,9 +1,11 @@
 <template>
+    <div class="follower-page">
+    <FollowerSectionTabs />
     <div v-if="saveStore.saveData">
-        <div v-if="getPropertyCaseInsensitive(saveStore.saveData, 'Followers_Recruit').length > 0">
+        <div v-if="(getPropertyCaseInsensitive(saveStore.saveData, 'Followers_Recruit') ?? []).length > 0">
             <FollowerModalEdit v-if="selectedFollower" ref="followerModalEdit" :follower-data="selectedFollower" />
             <div class="follower-list">
-                <div v-for="follower in getPropertyCaseInsensitive(saveStore.saveData, 'Followers_Recruit')"
+                <div v-for="follower in (getPropertyCaseInsensitive(saveStore.saveData, 'Followers_Recruit') ?? [])"
                     class="card follower-card">
                     <div class="center-container">
                         <FollowerPreview :follower="follower" :size="80" />
@@ -26,6 +28,7 @@
         <p v-else> {{ t("You have no recruiting follower!") }} </p>
     </div>
     <p v-else> {{ t("Load a save file!") }} </p>
+    </div>
 </template>
 
 <script setup lang="ts">
@@ -51,7 +54,7 @@ const editFollower = async (followerData: number) => {
 
 const deleteFollower = (id: number) => {
     if (!saveStore.saveData) return;
-    setPropertyCaseInsensitive(saveStore.saveData, "Followers_Recruit", getPropertyCaseInsensitive(saveStore.saveData, "Followers_Recruit").filter((follower: any) => getPropertyCaseInsensitive(follower, "ID") === id));
+    setPropertyCaseInsensitive(saveStore.saveData, "Followers_Recruit", (getPropertyCaseInsensitive(saveStore.saveData, "Followers_Recruit") ?? []).filter((follower: any) => getPropertyCaseInsensitive(follower, "ID") !== id));
 }
 
 const saveStore = useSaveData();

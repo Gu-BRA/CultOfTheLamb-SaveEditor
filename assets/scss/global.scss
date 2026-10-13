@@ -76,6 +76,7 @@ hr { border-color: var(--cotl-line); opacity: 1; }
 .center-container { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; }
 .follower-list { display:grid; grid-template-columns:repeat(auto-fill, minmax(min(100%, 13rem), 1fr)); gap:1rem; margin:0 0 1.5rem; }
 .follower-card { width:auto !important; min-width:0; }
+.follower-kill-button { position:absolute; top:.45rem; right:.45rem; z-index:2; display:grid; place-items:center; width:2rem; height:2rem; padding:0; }
 .follower-card-actions { display:flex; justify-content:space-between; align-items:center; gap:.45rem; }
 .follower-card-actions .btn { padding-inline:.7rem; }
 .nav-pills { --bs-nav-pills-link-active-bg: var(--cotl-red); --bs-nav-pills-link-active-color: #fff4dd; }

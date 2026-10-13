@@ -16,6 +16,12 @@
                 @click="selected = 'doctrines'">
                 {{ t('Doctrines') }}
             </button>
+            <button id="tab-tarot" type="button" class="nav-link"
+                :class="{ active: selected === 'tarot' }" role="tab"
+                :aria-selected="selected === 'tarot'" aria-controls="panel-tarot"
+                @click="selected = 'tarot'">
+                {{ t('Tarot Cards') }}
+            </button>
         </div>
         <div v-if="!editable" class="alert alert-info">{{ t('Load a compatible save to edit upgrades.') }}</div>
         <section v-else-if="selected === 'doctrines'" id="panel-doctrines" role="tabpanel"
@@ -51,6 +57,9 @@
                         :save-data="store.saveData" />
                 </div>
             </div>
+        </section>
+        <section v-else-if="selected === 'tarot'" id="panel-tarot" role="tabpanel" aria-labelledby="tab-tarot">
+            <TarotCardsEditor />
         </section>
         <div v-else :id="`panel-${activeTree.key}`" role="tabpanel" :aria-labelledby="`tab-${activeTree.key}`">
             <p class="small text-body-secondary">
