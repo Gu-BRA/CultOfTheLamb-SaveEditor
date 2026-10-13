@@ -11,7 +11,7 @@ const compiled = ts.transpileModule(fs.readFileSync(sourcePath, 'utf8'), {
 const loaded = new Module(sourcePath, module);
 loaded.filename = sourcePath; loaded.paths = module.paths;
 loaded._compile(compiled, sourcePath);
-const { doctrineCategories, canEditDoctrines, selectedDoctrine, setDoctrine, synchronizeExistingDoctrines } = loaded.exports;
+const { doctrineCategories, canEditDoctrines, selectedDoctrine, setDoctrine, setDoctrineOption, synchronizeExistingDoctrines } = loaded.exports;
 
 const fresh = () => ({ DoctrineUnlockedUpgrades: [], UnlockedUpgrades: [9000], CultTraits: [8000], Followers: [{ ID: 10 }] });
 
@@ -48,6 +48,22 @@ test('switching a pair removes the opposing doctrine, upgrade and CultTrait only
     assert.ok(save.CultTraits.includes(pair.right.cultTraitId));
     assert.deepEqual(save.UnlockedUpgrades, [9000]);
     assert.deepEqual(save.Followers, [{ ID: 10 }]);
+});
+
+test('a second doctrine option requires The One Who Waits to be marked beaten', () => {
+    const pair = doctrineCategories[0].pairs[0];
+    const save = fresh();
+    setDoctrineOption(save, pair, pair.left.id, true);
+    setDoctrineOption(save, pair, pair.right.id, true);
+    assert.deepEqual(save.DoctrineUnlockedUpgrades, [pair.left.id]);
+    assert.ok(save.CultTraits.includes(pair.left.cultTraitId));
+    assert.ok(!save.CultTraits.includes(pair.right.cultTraitId));
+
+    save.DeathCatBeaten = true;
+    setDoctrineOption(save, pair, pair.right.id, true);
+    assert.deepEqual(save.DoctrineUnlockedUpgrades, [pair.left.id, pair.right.id]);
+    assert.ok(save.CultTraits.includes(pair.left.cultTraitId));
+    assert.ok(save.CultTraits.includes(pair.right.cultTraitId));
 });
 
 test('clearing a pair removes both choices and their mapped side effects; conflicts are reported until resolved', () => {

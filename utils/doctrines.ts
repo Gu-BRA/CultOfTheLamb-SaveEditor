@@ -67,6 +67,29 @@ export function doctrineIds(save: unknown): number[] {
   return canEditDoctrines(save) ? field(save, 'DoctrineUnlockedUpgrades')! : [];
 }
 
+export function selectedDoctrineIds(pair: DoctrinePair, save: unknown): number[] {
+  const ids = doctrineIds(save);
+  const options = [pair.left, pair.right];
+  const registered = options.filter(option => ids.includes(option.id)).map(option => option.id);
+  if (registered.length) return registered;
+  if (!canEditDoctrines(save)) return [];
+  return options.filter(option =>
+    (option.cultTraitId !== undefined && field(save, 'CultTraits')!.includes(option.cultTraitId)) ||
+    (option.upgradeId !== undefined && field(save, 'UnlockedUpgrades')!.includes(option.upgradeId))
+  ).map(option => option.id);
+}
+
+export function canEnableDoctrineOption(pair: DoctrinePair, save: unknown, optionId: number): boolean {
+  if (!canEditDoctrines(save)) return false;
+  const option = [pair.left, pair.right].find(item => item.id === optionId);
+  if (!option) return false;
+  const current = selectedDoctrineIds(pair, save);
+  if (current.includes(optionId) || current.length === 0) return true;
+  const saveObject = save as Save;
+  const beatenKey = keyFor(saveObject, 'DeathCatBeaten');
+  return beatenKey !== undefined && saveObject[beatenKey] === true;
+}
+
 export function selectedDoctrine(pair: DoctrinePair, save: unknown): number | null | 'conflict' {
   const ids = doctrineIds(save);
   const left = ids.includes(pair.left.id), right = ids.includes(pair.right.id);
@@ -112,8 +135,15 @@ export function synchronizeDoctrineProgress(save: unknown): void {
 export function synchronizeExistingDoctrines(save: unknown): void {
   if (!canEditDoctrines(save)) return;
   for (const category of doctrineCategories) for (const pair of category.pairs) {
-    const selected = selectedDoctrine(pair, save);
-    if (typeof selected === 'number') setDoctrine(save, pair, selected);
+    const selected = selectedDoctrineIds(pair, save);
+    const saveObject = save as Save;
+    const beatenKey = keyFor(saveObject, 'DeathCatBeaten');
+    const hasPostGameUnlock = beatenKey !== undefined && saveObject[beatenKey] === true;
+    const registered = doctrineIds(save);
+    // Keep ambiguous legacy effects untouched until the game has unlocked
+    // additional doctrine choices, rather than registering both prematurely.
+    if (selected.length > 1 && !hasPostGameUnlock && selected.some(id => !registered.includes(id))) continue;
+    for (const optionId of selected) setDoctrineOption(save, pair, optionId, true);
   }
   synchronizeDoctrineProgress(save);
 }
@@ -138,5 +168,20 @@ export function setDoctrine(save: unknown, pair: DoctrinePair, selectedId: numbe
   updateArray(save, 'UnlockedUpgrades', upgradeRemove, selected?.upgradeId);
   const traitRemove = (selected ? [opposite] : options).flatMap(option => option?.cultTraitId === undefined ? [] : [option.cultTraitId]);
   updateArray(save, 'CultTraits', traitRemove, selected?.cultTraitId);
+  synchronizeDoctrineProgress(save);
+}
+
+export function setDoctrineOption(save: unknown, pair: DoctrinePair, optionId: number, enabled: boolean): void {
+  if (!canEditDoctrines(save)) throw new Error('This save does not contain the required doctrine fields.');
+  const option = [pair.left, pair.right].find(item => item.id === optionId);
+  if (!option) throw new Error('Unsupported doctrine option.');
+  if (enabled && !canEnableDoctrineOption(pair, save, optionId)) return;
+  updateArray(save, 'DoctrineUnlockedUpgrades', [option.id], enabled ? option.id : undefined);
+  if (option.upgradeId !== undefined) {
+    updateArray(save, 'UnlockedUpgrades', [option.upgradeId], enabled ? option.upgradeId : undefined);
+  }
+  if (option.cultTraitId !== undefined) {
+    updateArray(save, 'CultTraits', [option.cultTraitId], enabled ? option.cultTraitId : undefined);
+  }
   synchronizeDoctrineProgress(save);
 }

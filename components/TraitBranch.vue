@@ -35,7 +35,7 @@
 <script setup lang="ts">
 import type { JsonSaveFile } from '~/types/save';
 import type { WritableComputedRef } from 'vue';
-import { canEditDoctrines, doctrineCategories, setDoctrine } from '~/utils/doctrines';
+import { canEditDoctrines, canEnableDoctrineOption, doctrineCategories, setDoctrineOption } from '~/utils/doctrines';
 
 type TraitData = {
     id: number;
@@ -63,7 +63,11 @@ function toggleTrait(id: number, event: Event) {
         pair.left.cultTraitId === id || pair.right.cultTraitId === id);
     if (pair && canEditDoctrines(props.saveData)) {
         const option = pair.left.cultTraitId === id ? pair.left : pair.right;
-        setDoctrine(props.saveData, pair, enabled ? option.id : null);
+        if (enabled && !canEnableDoctrineOption(pair, props.saveData, option.id)) {
+            (event.target as HTMLInputElement).checked = false;
+            return;
+        }
+        setDoctrineOption(props.saveData, pair, option.id, enabled);
         return;
     }
     currentCultTraits.value = enabled ? [...new Set([...currentCultTraits.value, id])] : currentCultTraits.value.filter(trait => trait !== id);
