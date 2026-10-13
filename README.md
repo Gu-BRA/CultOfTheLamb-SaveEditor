@@ -45,6 +45,7 @@ For the **Apple Arcade version**, disable the internet before opening the game t
 ## What you can edit
 
 - **Character and cult:** save information and character values available in the editor.
+- **Clothing:** browse and unlock the 38 clothing items and special outfits, organized by game category with clothing-only previews.
 - **Inventory:** item quantities, including items present in the save that do not have a catalog description.
 - **Tarot cards:** collected cards.
 - **Followers:** follower details and appearance, including skin, clothing and outfit previews; delete followers and revive dead followers.

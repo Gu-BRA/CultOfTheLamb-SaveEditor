@@ -68,6 +68,20 @@
                     half-icon="/HeartIcons/frozen-hires.png" />
             </div>
         </div>
+        <div class="nav nav-tabs mb-3 mt-4" role="tablist" :aria-label="t('Character collections')">
+            <button id="tab-recipes" type="button" class="nav-link" role="tab"
+                :class="{ active: selectedCollection === 'recipes' }" :aria-selected="selectedCollection === 'recipes'"
+                aria-controls="panel-recipes" @click="selectedCollection = 'recipes'">
+                {{ t("Cooking Recipes") }}
+            </button>
+            <button id="tab-clothing" type="button" class="nav-link" role="tab"
+                :class="{ active: selectedCollection === 'clothing' }" :aria-selected="selectedCollection === 'clothing'"
+                aria-controls="panel-clothing" @click="selectedCollection = 'clothing'">
+                {{ t("Clothing") }}
+                <span class="badge text-bg-secondary ms-1">{{ unlockedClothing.length }}/{{ clothingCount }}</span>
+            </button>
+        </div>
+        <section v-if="selectedCollection === 'recipes'" id="panel-recipes" role="tabpanel" aria-labelledby="tab-recipes">
         <h2> {{ t("Cooking Recipes") }} </h2>
         <hr />
         <table class="table">
@@ -118,6 +132,37 @@
                 </tr>
             </tbody>
         </table>
+        </section>
+        <section v-else id="panel-clothing" role="tabpanel" aria-labelledby="tab-clothing">
+            <h2>{{ t("Clothing") }}</h2>
+            <p class="text-body-secondary">{{ t("Unlock clothing recipes and special outfits found in the installed game data.") }}</p>
+            <section v-for="group in clothingGroups" :key="group.name" class="mb-4">
+                <div class="d-flex align-items-center gap-2 mb-3">
+                    <h3 class="h5 mb-0">{{ t(group.name) }}</h3>
+                    <span class="badge text-bg-secondary">{{ group.items.length }}</span>
+                </div>
+                <div class="row g-3">
+                    <div v-for="clothing in group.items" :key="clothing.id" class="col-12 col-md-6 col-xl-4">
+                        <article class="card h-100" :class="{ 'border-success': unlockedClothing.includes(clothing.id) }">
+                            <ClothingPreview :clothing-id="clothing.id" :name="t(clothing.name)" />
+                            <div class="card-body d-flex align-items-start gap-3">
+                                <div class="flex-grow-1">
+                                    <h3 class="h6 mb-2">{{ t(clothing.name) }}</h3>
+                                    <span class="badge" :class="unlockedClothing.includes(clothing.id) ? 'text-bg-success' : 'text-bg-secondary'">
+                                        {{ t(unlockedClothing.includes(clothing.id) ? 'Unlocked' : 'Locked') }}
+                                    </span>
+                                </div>
+                                <div class="form-check form-switch">
+                                    <input :id="`clothing-${clothing.id}`" type="checkbox" role="switch" class="form-check-input"
+                                        :aria-label="t(clothing.name)" :checked="unlockedClothing.includes(clothing.id)"
+                                        @change="toggleClothing(clothing.id, $event)">
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </section>
+        </section>
     </div>
     <p v-else> {{ t("Load a save file!") }} </p>
 </template>
@@ -129,6 +174,7 @@ import { useSaveData } from "~/stores/saveData";
 import { useSiteData } from "~/stores/siteData";
 
 const { data: recipeData } = useFetch<{ id: number, image: string, name: string, description: string, effect: string, ingredient: string, category: string, quality: string }[]>(publicPath('/data/cookingRecipe.json'));
+const { data: clothingData } = useFetch<{ id: number, name: string, category?: string }[]>(publicPath('/data/followerClothing.json'));
 const { data: dungeonData } = useFetch<{ id: number, name: string }[][]>(publicPath('/data/dungeonData.json'));
 
 const saveStore = useSaveData();
@@ -149,6 +195,30 @@ const playerFireHealth = generateObjectInsensitiveComputed(() => saveStore.saveD
 const playerIceHealth = generateObjectInsensitiveComputed(() => saveStore.saveData, "PLAYER_ICE_HEARTS");
 
 const recipesDiscovered = generateObjectInsensitiveComputed(() => saveStore.saveData, "RecipesDiscovered");
+const selectedCollection = ref<'recipes' | 'clothing'>('recipes');
+const clothingCategoryNames = ['Regular clothing', 'Special outfits', 'Cultist Pack', 'Heretic Pack', 'Sinful Pack', 'Pilgrim Pack', 'Apple Arcade', 'Appearance only'];
+const clothingGroups = computed(() => clothingCategoryNames
+    .map(name => ({ name, items: (clothingData.value ?? []).filter(item => item.category === name) }))
+    .filter(group => group.items.length));
+const clothingCount = computed(() => clothingGroups.value.reduce((count, group) => count + group.items.length, 0));
+const unlockedClothing = computed<number[]>({
+    get() {
+        const key = Object.keys(saveStore.saveData ?? {}).find(name => name.toLowerCase() === 'unlockedclothing');
+        const value = key ? Reflect.get(saveStore.saveData!, key) : [];
+        return Array.isArray(value) ? value.map(Number).filter(Number.isFinite) : [];
+    },
+    set(value) {
+        if (!saveStore.saveData) return;
+        const key = Object.keys(saveStore.saveData).find(name => name.toLowerCase() === 'unlockedclothing') ?? 'UnlockedClothing';
+        Reflect.set(saveStore.saveData, key, [...new Set(value)]);
+    }
+});
+function toggleClothing(id: number, event: Event) {
+    const selected = (event.target as HTMLInputElement).checked;
+    unlockedClothing.value = selected
+        ? [...unlockedClothing.value, id]
+        : unlockedClothing.value.filter(value => value !== id);
+}
 
 const deathCatBeatenWarningModal = ref(null);
 const deathCatClick = () => {

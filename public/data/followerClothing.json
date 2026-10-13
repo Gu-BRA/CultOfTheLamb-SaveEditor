@@ -3,7 +3,8 @@
     "id": 0,
     "name": "Trajes de Acólito",
     "gameKey": "None",
-    "description": "Trajes simples para Seguidores simples."
+    "description": "Trajes simples para Seguidores simples.",
+    "category": "Regular clothing"
   },
   {
     "id": 1,
@@ -39,13 +40,15 @@
     "id": 7,
     "name": "Vestido de Casamento",
     "gameKey": "Robes_Fancy",
-    "description": "Um privilégio elegante para alguém especial."
+    "description": "Um privilégio elegante para alguém especial.",
+    "category": "Special outfits"
   },
   {
     "id": 8,
     "name": "Couraça de Guerra",
     "gameKey": "Warrior",
-    "description": "Mostre ao mundo como você é forte."
+    "description": "Mostre ao mundo como você é forte.",
+    "category": "Special outfits"
   },
   {
     "id": 9,
@@ -56,181 +59,211 @@
     "id": 10,
     "name": "Terno de Casamento",
     "gameKey": "Suit_Fancy",
-    "description": "Um terno elegante para alguém especial."
+    "description": "Um terno elegante para alguém especial.",
+    "category": "Special outfits"
   },
   {
     "id": 11,
     "name": "Lã da Primavera",
     "gameKey": "Cultist_DLC",
-    "description": "Uma lã adorável para celebrar a primavera."
+    "description": "Uma lã adorável para celebrar a primavera.",
+    "category": "Cultist Pack"
   },
   {
     "id": 12,
     "name": "Bata Florida",
     "gameKey": "Cultist_DLC2",
-    "description": "Um vestido exuberante feito com flores."
+    "description": "Um vestido exuberante feito com flores.",
+    "category": "Cultist Pack"
   },
   {
     "id": 13,
     "name": "Acólito da Antiga Fé",
     "gameKey": "Heretic_DLC",
-    "description": "Trajes simples estão saindo da moda."
+    "description": "Trajes simples estão saindo da moda.",
+    "category": "Heretic Pack"
   },
   {
     "id": 14,
     "name": "Executor da Antiga Fé",
     "gameKey": "Heretic_DLC2",
-    "description": "Vestimenta para Executores."
+    "description": "Vestimenta para Executores.",
+    "category": "Heretic Pack"
   },
   {
     "id": 15,
     "name": "Vestimenta Kawaii",
     "gameKey": "DLC_1",
-    "description": "Apenas para os Seguidores mais fofos."
+    "description": "Apenas para os Seguidores mais fofos.",
+    "category": "Sinful Pack"
   },
   {
     "id": 16,
     "name": "Casaco de Serviçal",
     "gameKey": "DLC_2",
-    "description": "Bem apresentável e amadeirado."
+    "description": "Bem apresentável e amadeirado.",
+    "category": "Sinful Pack"
   },
   {
     "id": 17,
     "name": "Vestido Gótico",
     "gameKey": "DLC_3",
-    "description": "Almas sombrias precisam de roupas sombrias."
+    "description": "Almas sombrias precisam de roupas sombrias.",
+    "category": "Sinful Pack"
   },
   {
     "id": 18,
     "name": "Trajes Místicos",
     "gameKey": "DLC_4",
-    "description": "Para quem deseja um visual misterioso."
+    "description": "Para quem deseja um visual misterioso.",
+    "category": "Sinful Pack"
   },
   {
     "id": 19,
     "name": "Terno de Oficial",
     "gameKey": "DLC_5",
-    "description": "Um traje estiloso para reger os seguidores."
+    "description": "Um traje estiloso para reger os seguidores.",
+    "category": "Sinful Pack"
   },
   {
     "id": 20,
     "name": "Jaqueta de Chef",
     "gameKey": "Special_1",
-    "description": "Para quem gosta de culinária."
+    "description": "Para quem gosta de culinária.",
+    "category": "Special outfits"
   },
   {
     "id": 21,
     "name": "Armadura de Cavalaria",
     "gameKey": "Special_2",
-    "description": "Armadura nobre para Seguidores valentes."
+    "description": "Armadura nobre para Seguidores valentes.",
+    "category": "Special outfits"
   },
   {
     "id": 22,
     "name": "Trajes Cerimoniais",
     "gameKey": "Special_3",
-    "description": "Vestido enfeitado para ocasiões importantes."
+    "description": "Vestido enfeitado para ocasiões importantes.",
+    "category": "Special outfits"
   },
   {
     "id": 23,
     "name": "Vestido de Empregada",
     "gameKey": "Special_4",
-    "description": "Perfeito para fazer limpezas."
+    "description": "Perfeito para fazer limpezas.",
+    "category": "Special outfits"
   },
   {
     "id": 24,
     "name": "Trajes Chiques",
     "gameKey": "Special_5",
-    "description": "Os Seguidores mais chiques merecem os trajes mais chiques."
+    "description": "Os Seguidores mais chiques merecem os trajes mais chiques.",
+    "category": "Special outfits"
   },
   {
     "id": 25,
     "name": "Colete de Taverneiro",
     "gameKey": "Special_6",
-    "description": "Feito para servir."
+    "description": "Feito para servir.",
+    "category": "Special outfits"
   },
   {
     "id": 26,
     "name": "Fantasia de Bobo da Corte",
     "gameKey": "Special_7",
-    "description": "Todo Culto precisa de um palhaço."
+    "description": "Todo Culto precisa de um palhaço.",
+    "category": "Special outfits"
   },
   {
     "id": 27,
     "name": "Blusa do Campo",
     "gameKey": "Normal_1",
-    "description": "Para quem trabalha duro."
+    "description": "Para quem trabalha duro.",
+    "category": "Regular clothing"
   },
   {
     "id": 28,
     "name": "Lã do Trabalho",
     "gameKey": "Normal_2",
-    "description": "Uma lã arejada para trabalhar até suar."
+    "description": "Uma lã arejada para trabalhar até suar.",
+    "category": "Regular clothing"
   },
   {
     "id": 29,
     "name": "Trajes Esfarrapados",
     "gameKey": "Normal_3",
-    "description": "Talvez seja o estilo, talvez seja só malfeito."
+    "description": "Talvez seja o estilo, talvez seja só malfeito.",
+    "category": "Regular clothing"
   },
   {
     "id": 30,
     "name": "Camisa Acadêmica",
     "gameKey": "Normal_4",
-    "description": "É o traje ideal para fazer longas reflexões."
+    "description": "É o traje ideal para fazer longas reflexões.",
+    "category": "Regular clothing"
   },
   {
     "id": 31,
     "name": "Trajes Modestos",
     "gameKey": "Normal_5",
-    "description": "Um vestido modesto com uma cor roxa adorável."
+    "description": "Um vestido modesto com uma cor roxa adorável.",
+    "category": "Regular clothing"
   },
   {
     "id": 32,
     "name": "Vestido Prático",
     "gameKey": "Normal_6",
-    "description": "Um traje prático para as tarefas diárias."
+    "description": "Um traje prático para as tarefas diárias.",
+    "category": "Regular clothing"
   },
   {
     "id": 33,
     "name": "Saia de Mato",
     "gameKey": "Normal_7",
-    "description": "Ideal para Seguidores que não gostam de uma vida restrita."
+    "description": "Ideal para Seguidores que não gostam de uma vida restrita.",
+    "category": "Regular clothing"
   },
   {
     "id": 34,
     "name": "Camisa da Noite",
     "gameKey": "Normal_8",
-    "description": "Um conjunto taciturno, perfeito para espreitar."
+    "description": "Um conjunto taciturno, perfeito para espreitar.",
+    "category": "Regular clothing"
   },
   {
     "id": 35,
     "name": "Roupa de Piquenique",
     "gameKey": "Normal_9",
-    "description": "Ideal para Seguidores que gostam de diversão."
+    "description": "Ideal para Seguidores que gostam de diversão.",
+    "category": "Regular clothing"
   },
   {
     "id": 36,
     "name": "Camisa de Comerciante",
     "gameKey": "Normal_10",
-    "description": "Perfeita para fazer negócios."
+    "description": "Perfeita para fazer negócios.",
+    "category": "Regular clothing"
   },
   {
     "id": 37,
     "name": "Bata da Noitinha",
     "gameKey": "Normal_11",
-    "description": "Uma bata para usar à noitinha."
+    "description": "Uma bata para usar à noitinha.",
+    "category": "Regular clothing"
   },
   {
     "id": 38,
     "name": "Jaqueta Polida",
     "gameKey": "Normal_12",
-    "description": "Uma bela jaqueta para quem deseja um visual de classe alta."
+    "description": "Uma bela jaqueta para quem deseja um visual de classe alta.",
+    "category": "Regular clothing"
   },
   {
     "id": 39,
     "name": "Corpo Nu",
     "gameKey": "Naked",
-    "description": "Sinta a brisa fresca por todo o corpo."
+    "description": "Sinta a brisa fresca por todo o corpo.",
+    "category": "Appearance only"
   },
   {
     "id": 40,
@@ -241,30 +274,35 @@
     "id": 41,
     "name": "Olimpiano",
     "gameKey": "DLC_6",
-    "description": "Forte e livre, como os campeões do passado."
+    "description": "Forte e livre, como os campeões do passado.",
+    "category": "Sinful Pack"
   },
   {
     "id": 42,
     "name": "Casaco de Jalala",
     "gameKey": "Pilgrim_DLC",
-    "description": "Aquece o peregrino em sua longa jornada."
+    "description": "Aquece o peregrino em sua longa jornada.",
+    "category": "Pilgrim Pack"
   },
   {
     "id": 43,
     "name": "Trajes de Rinor",
     "gameKey": "Pilgrim_DLC2",
-    "description": "Fácil de vestir e muito resistente."
+    "description": "Fácil de vestir e muito resistente.",
+    "category": "Pilgrim Pack"
   },
   {
     "id": 44,
     "name": "Vestido de Jardim",
     "gameKey": "Apple_1",
-    "description": "Perfeito para passeios lentos enquanto se colhe flores."
+    "description": "Perfeito para passeios lentos enquanto se colhe flores.",
+    "category": "Apple Arcade"
   },
   {
     "id": 45,
     "name": "Jaqueta de Passeio",
     "gameKey": "Apple_2",
-    "description": "Nem muito quente, nem muito fria. Uma jaqueta leve."
+    "description": "Nem muito quente, nem muito fria. Uma jaqueta leve.",
+    "category": "Apple Arcade"
   }
 ]

@@ -1290,5 +1290,57 @@
   [
     "Effect enabled; doctrine registration pending.",
     "Efeito ativado; registro da doutrina pendente."
+  ],
+  [
+    "Character collections",
+    "Conteúdo do personagem"
+  ],
+  [
+    "Unlock clothing recipes and special outfits found in the installed game data.",
+    "Desbloqueie receitas de roupas e trajes especiais encontrados nos arquivos do jogo."
+  ],
+  [
+    "Appearance only",
+    "Apenas aparência"
+  ],
+  [
+    "Regular clothing",
+    "Roupas comuns"
+  ],
+  [
+    "Special outfits",
+    "Trajes especiais"
+  ],
+  [
+    "Cultist Pack",
+    "Pacote Cultista"
+  ],
+  [
+    "Heretic Pack",
+    "Pacote Herege"
+  ],
+  [
+    "Sinful Pack",
+    "Pacote Pecados da Carne"
+  ],
+  [
+    "Pilgrim Pack",
+    "Pacote Peregrino"
+  ],
+  [
+    "Apple Arcade",
+    "Apple Arcade"
+  ],
+  [
+    "Must be married to this Follower.",
+    "Precisa ser casado com este seguidor."
+  ],
+  [
+    "Clothing preview: {name}",
+    "Prévia da roupa: {name}"
+  ],
+  [
+    "Preview unavailable",
+    "Prévia indisponível"
   ]
 ]

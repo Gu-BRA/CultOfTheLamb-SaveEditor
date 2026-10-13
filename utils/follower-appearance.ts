@@ -55,7 +55,7 @@ export function composeAppearance(data: spine.SkeletonData, parts: Record<string
         if (!skin) throw new Error(`Aparência não catalogada: ${name}`);
         merged.addSkin(skin);
     }
-    add(follower.SkinName);
+    if (follower.SkinName) add(follower.SkinName);
     const definition = clothing[follower.Clothing ?? 0];
     let selected = follower.ClothingVariant || definition?.variants[0];
     if (selected === 'Clothes/Apple2' && !data.findSkin(selected)) selected = 'Clothes/Apple_2';
